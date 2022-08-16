@@ -1,4 +1,22 @@
 {
+  "sgdtt5": {
+    "levelId": "1925",
+    "dateStamp": "2007-01-06",
+    "zip": "sgdtt5",
+    "sha256": "4dd4dfee9c5431831238d875604f502b13ca7be88430dced712a610e9f3496c9",
+    "author": "Deathhead The Tormentor",
+    "extract": "A medium sized CTF map, set in an Castle/Space setting. It consists of two opposing castles, floating in the void, textures and lightning look rather simple, only the architecture stands out a little bit from the monotony.  Gameplay is also rather simple, ",
+    "includes": [
+      {
+        "bsp": "sgdtt5",
+        "title": "sgdtt5"
+      }
+    ],
+    "gameMode": [
+      "CTF",
+      "6-8 players"
+    ]
+  },
   "q3dm17xos4": {
     "levelId": "1915",
     "dateStamp": "2007-01-06",
@@ -16,24 +34,6 @@
       "DM",
       "Floater",
       "3-8 players"
-    ]
-  },
-  "sgdtt5": {
-    "levelId": "1925",
-    "dateStamp": "2007-01-06",
-    "zip": "sgdtt5",
-    "sha256": "4dd4dfee9c5431831238d875604f502b13ca7be88430dced712a610e9f3496c9",
-    "author": "Deathhead The Tormentor",
-    "extract": "A medium sized CTF map, set in an Castle/Space setting. It consists of two opposing castles, floating in the void, textures and lightning look rather simple, only the architecture stands out a little bit from the monotony.  Gameplay is also rather simple, ",
-    "includes": [
-      {
-        "bsp": "sgdtt5",
-        "title": "sgdtt5"
-      }
-    ],
-    "gameMode": [
-      "CTF",
-      "6-8 players"
     ]
   },
   "jul16": {
@@ -55,23 +55,23 @@
       "2-3 players"
     ]
   },
-  "q30tourney0": {
-    "levelId": "1931",
+  "subdm8": {
+    "levelId": "1921",
     "dateStamp": "2007-02-13",
-    "zip": "q30tourney0",
-    "sha256": "16d8c45a16c02a0743c338ff8e0f8672408bec90f2985f14604a241584e4d14e",
-    "author": "*ZeRo*",
-    "extract": "Small and very simple gothic tourney map with good visuals and atmosphere. Architecture has nice details and the lighting is well done. Gameplay is somewhat flat due to the open areas, but the author succeeded in providing a simple layout with fast action.",
+    "zip": "subdm8",
+    "sha256": "0e55f6f14a0390886aa0d87cd26ef5e3c21cdb0216608bb19c72f969a334e060",
+    "author": "subst",
+    "extract": "A duel map which uses the gothic baseq3 textures with a blueish look to it.  It really reminds me of Dismemberment (cpm12) by the Hubster, which is where some of the textures came from for this map.  In the air above the map there is a fog that lingers, an",
     "includes": [
       {
-        "bsp": "q30tourney0",
-        "title": "The RiP"
+        "bsp": "subdm8",
+        "title": "frag sake"
       }
     ],
     "gameMode": [
       "DM",
       "Tourney",
-      "2-4 players"
+      "2-3 players"
     ]
   },
   "subdm1": {
@@ -91,44 +91,6 @@
       "DM",
       "Tourney",
       "2-4 players"
-    ]
-  },
-  "q30dm1": {
-    "levelId": "1916",
-    "dateStamp": "2007-02-13",
-    "zip": "q30dm1",
-    "sha256": "e77a0bc786f95117c729d303cb5641364bb7e2650c6eafb5f22f65c09bbf29f9",
-    "author": "*ZeRo*",
-    "extract": "This is a small, 3-tier L-shaped arena with an outer ring of wide corridors.  As far as texture work?  Well, there is that one texture, the map is not quite in geocomp style, but it is simple.  Architecture compensates for the single grey texture with tall",
-    "includes": [
-      {
-        "bsp": "q30dm1",
-        "title": "Q20DM1"
-      }
-    ],
-    "gameMode": [
-      "DM",
-      "Team DM",
-      "3-8 players"
-    ]
-  },
-  "subdm8": {
-    "levelId": "1921",
-    "dateStamp": "2007-02-13",
-    "zip": "subdm8",
-    "sha256": "0e55f6f14a0390886aa0d87cd26ef5e3c21cdb0216608bb19c72f969a334e060",
-    "author": "subst",
-    "extract": "A duel map which uses the gothic baseq3 textures with a blueish look to it.  It really reminds me of Dismemberment (cpm12) by the Hubster, which is where some of the textures came from for this map.  In the air above the map there is a fog that lingers, an",
-    "includes": [
-      {
-        "bsp": "subdm8",
-        "title": "frag sake"
-      }
-    ],
-    "gameMode": [
-      "DM",
-      "Tourney",
-      "2-3 players"
     ]
   },
   "map-13edge": {
@@ -206,6 +168,44 @@
       "OpenArena",
       "Proball",
       "2-6 players"
+    ]
+  },
+  "q30tourney0": {
+    "levelId": "1931",
+    "dateStamp": "2007-02-13",
+    "zip": "q30tourney0",
+    "sha256": "16d8c45a16c02a0743c338ff8e0f8672408bec90f2985f14604a241584e4d14e",
+    "author": "*ZeRo*",
+    "extract": "Small and very simple gothic tourney map with good visuals and atmosphere. Architecture has nice details and the lighting is well done. Gameplay is somewhat flat due to the open areas, but the author succeeded in providing a simple layout with fast action.",
+    "includes": [
+      {
+        "bsp": "q30tourney0",
+        "title": "The RiP"
+      }
+    ],
+    "gameMode": [
+      "DM",
+      "Tourney",
+      "2-4 players"
+    ]
+  },
+  "q30dm1": {
+    "levelId": "1916",
+    "dateStamp": "2007-02-13",
+    "zip": "q30dm1",
+    "sha256": "e77a0bc786f95117c729d303cb5641364bb7e2650c6eafb5f22f65c09bbf29f9",
+    "author": "*ZeRo*",
+    "extract": "This is a small, 3-tier L-shaped arena with an outer ring of wide corridors.  As far as texture work?  Well, there is that one texture, the map is not quite in geocomp style, but it is simple.  Architecture compensates for the single grey texture with tall",
+    "includes": [
+      {
+        "bsp": "q30dm1",
+        "title": "Q20DM1"
+      }
+    ],
+    "gameMode": [
+      "DM",
+      "Team DM",
+      "3-8 players"
     ]
   },
   "mc-tm01": {
@@ -307,6 +307,25 @@
       "2-4 players"
     ]
   },
+  "xpress": {
+    "levelId": "1939",
+    "dateStamp": "2007-03-22",
+    "zip": "xpress",
+    "sha256": "b302e04a4a5d74cf259767ce907523de44a0bf4f7d4214eadf432f4117491f2f",
+    "author": "AmonG0D",
+    "extract": "Xpress Your Imagination is a small space CTF map with a simple layout, best suited for 2vs2 CTF. The map consists of two small bases connected in a straight line with a bridge-like structure with a very curvy floor that blocks line of sight and RG fire. Th",
+    "includes": [
+      {
+        "bsp": "xpress",
+        "title": "xpress your imagination 3"
+      }
+    ],
+    "gameMode": [
+      "CTF",
+      "Floater",
+      "2-6 players"
+    ]
+  },
   "gc4dm1_nomusic": {
     "levelId": "1922",
     "dateStamp": "2007-03-22",
@@ -327,23 +346,23 @@
       "2-4 players"
     ]
   },
-  "xpress": {
-    "levelId": "1939",
-    "dateStamp": "2007-03-22",
-    "zip": "xpress",
-    "sha256": "b302e04a4a5d74cf259767ce907523de44a0bf4f7d4214eadf432f4117491f2f",
-    "author": "AmonG0D",
-    "extract": "Xpress Your Imagination is a small space CTF map with a simple layout, best suited for 2vs2 CTF. The map consists of two small bases connected in a straight line with a bridge-like structure with a very curvy floor that blocks line of sight and RG fire. Th",
+  "amph-dm01": {
+    "levelId": "1919",
+    "dateStamp": "2007-04-06",
+    "zip": "amph-dm01",
+    "sha256": "34b6a6ceaa93856f1b97c32e014bea06cd9290846e54c7a66eb159af4c016240",
+    "author": "Amphetamine",
+    "extract": "The Strange House by Amphetamine is a map that started out as a testbed of sorts, and ended up turning into this map as an unexpected result.  I can say that it is the most original map I've seen in quite a long time, as it doesn't imitate any other Q3 map",
     "includes": [
       {
-        "bsp": "xpress",
-        "title": "xpress your imagination 3"
+        "bsp": "amph-dm01",
+        "title": "The Strange House"
       }
     ],
     "gameMode": [
-      "CTF",
-      "Floater",
-      "2-6 players"
+      "DM",
+      "Team DM",
+      "3-8 players"
     ]
   },
   "jul18": {
@@ -363,25 +382,6 @@
       "DM",
       "Tourney",
       "2-3 players"
-    ]
-  },
-  "amph-dm01": {
-    "levelId": "1919",
-    "dateStamp": "2007-04-06",
-    "zip": "amph-dm01",
-    "sha256": "34b6a6ceaa93856f1b97c32e014bea06cd9290846e54c7a66eb159af4c016240",
-    "author": "Amphetamine",
-    "extract": "The Strange House by Amphetamine is a map that started out as a testbed of sorts, and ended up turning into this map as an unexpected result.  I can say that it is the most original map I've seen in quite a long time, as it doesn't imitate any other Q3 map",
-    "includes": [
-      {
-        "bsp": "amph-dm01",
-        "title": "The Strange House"
-      }
-    ],
-    "gameMode": [
-      "DM",
-      "Team DM",
-      "3-8 players"
     ]
   },
   "spirit3t2": {
@@ -424,6 +424,25 @@
       "2-4 players"
     ]
   },
+  "amon3tourney01": {
+    "levelId": "1930",
+    "dateStamp": "2007-05-27",
+    "zip": "amon3tourney01",
+    "sha256": "4f4615357d6df8f8c3f4014e1d3017aa9fb9055f7666adbde036b7db6ed4aba5",
+    "author": "AmonG0D",
+    "extract": "This is a small map that looks much more like a visual test than a playable level. The main playing field takes place in a crevice wedged between two hills, the second hill with stairs leading up to a central structure containing the mega health. Realistic",
+    "includes": [
+      {
+        "bsp": "Amon3tourney01",
+        "title": "Old Church"
+      }
+    ],
+    "gameMode": [
+      "DM",
+      "Tourney",
+      "2-3 players"
+    ]
+  },
   "seasons": {
     "levelId": "1937",
     "dateStamp": "2007-05-27",
@@ -444,25 +463,6 @@
     "gameMode": [
       "DM",
       "3-6 players"
-    ]
-  },
-  "amon3tourney01": {
-    "levelId": "1930",
-    "dateStamp": "2007-05-27",
-    "zip": "amon3tourney01",
-    "sha256": "4f4615357d6df8f8c3f4014e1d3017aa9fb9055f7666adbde036b7db6ed4aba5",
-    "author": "AmonG0D",
-    "extract": "This is a small map that looks much more like a visual test than a playable level. The main playing field takes place in a crevice wedged between two hills, the second hill with stairs leading up to a central structure containing the mega health. Realistic",
-    "includes": [
-      {
-        "bsp": "Amon3tourney01",
-        "title": "Old Church"
-      }
-    ],
-    "gameMode": [
-      "DM",
-      "Tourney",
-      "2-3 players"
     ]
   },
   "dmr3dm2": {
@@ -503,6 +503,24 @@
       "2-5 players"
     ]
   },
+  "2sweet": {
+    "levelId": "1938",
+    "dateStamp": "2007-07-16",
+    "zip": "2sweet",
+    "sha256": "33070caab2a10982f5eae561d50b81a0ac86797864b1d7e91d8369cb0d3a1ca4",
+    "author": "2!S*Monk",
+    "extract": "This vast TDM map can easily handle 6vs6 and could handle even larger matches from its size. It would need a bit more ammo and health for such games though. It actually feels a bit scaled up because every single room and corridor is huge, leaving you with ",
+    "includes": [
+      {
+        "bsp": "2sweet",
+        "title": "2!Sweet* Clan map by MonK"
+      }
+    ],
+    "gameMode": [
+      "Team DM",
+      "8-16 players"
+    ]
+  },
   "rotary07": {
     "levelId": "1935",
     "dateStamp": "2007-07-16",
@@ -521,24 +539,6 @@
       "Team Arena",
       "Team DM",
       "3-6 players"
-    ]
-  },
-  "2sweet": {
-    "levelId": "1938",
-    "dateStamp": "2007-07-16",
-    "zip": "2sweet",
-    "sha256": "33070caab2a10982f5eae561d50b81a0ac86797864b1d7e91d8369cb0d3a1ca4",
-    "author": "2!S*Monk",
-    "extract": "This vast TDM map can easily handle 6vs6 and could handle even larger matches from its size. It would need a bit more ammo and health for such games though. It actually feels a bit scaled up because every single room and corridor is huge, leaving you with ",
-    "includes": [
-      {
-        "bsp": "2sweet",
-        "title": "2!Sweet* Clan map by MonK"
-      }
-    ],
-    "gameMode": [
-      "Team DM",
-      "8-16 players"
     ]
   },
   "spirit3ctfduel1": {
@@ -619,6 +619,24 @@
       "2-6 players"
     ]
   },
+  "thugluv": {
+    "levelId": "1957",
+    "dateStamp": "2007-09-10",
+    "zip": "thugluv",
+    "sha256": "8ffa2491596797e28d5d88d9402c9657e3fa152d974783377d748898464d23c5",
+    "author": "One Nutt",
+    "extract": "Geometry and layout: The map is basically composed of 3 areas. Center yard with some columns and a lot of SG, an ascending slope around it with PG and LG and an area next to it with some jump pads and a lava pool. One minor hallway leads to RG. There is al",
+    "includes": [
+      {
+        "bsp": "thugluv",
+        "title": "Feel Some Thug Luv"
+      }
+    ],
+    "gameMode": [
+      "DM",
+      "3-5 players"
+    ]
+  },
   "cricketq3dm2": {
     "levelId": "1956",
     "dateStamp": "2007-09-10",
@@ -639,24 +657,6 @@
       "2 players"
     ]
   },
-  "thugluv": {
-    "levelId": "1957",
-    "dateStamp": "2007-09-10",
-    "zip": "thugluv",
-    "sha256": "8ffa2491596797e28d5d88d9402c9657e3fa152d974783377d748898464d23c5",
-    "author": "One Nutt",
-    "extract": "Geometry and layout: The map is basically composed of 3 areas. Center yard with some columns and a lot of SG, an ascending slope around it with PG and LG and an area next to it with some jump pads and a lava pool. One minor hallway leads to RG. There is al",
-    "includes": [
-      {
-        "bsp": "thugluv",
-        "title": "Feel Some Thug Luv"
-      }
-    ],
-    "gameMode": [
-      "DM",
-      "3-5 players"
-    ]
-  },
   "rota3ctf1": {
     "levelId": "1947",
     "dateStamp": "2007-09-17",
@@ -673,6 +673,26 @@
     "gameMode": [
       "CTF",
       "2-6 players"
+    ]
+  },
+  "map-q3-el3t3": {
+    "levelId": "1951",
+    "dateStamp": "2007-10-12",
+    "zip": "map-q3-el3t3",
+    "sha256": "19e1122a93daef92ab45e73a894eaa468c6f2ef6c94b03930896ead23c179ccc",
+    "author": "evillair",
+    "extract": "A small tourney map using the standard gothic textures. The map is optimized for use with OSP/CPMA promode physics.  It is playable in normal vQ3, but the layout of the map is highly designed for use of air-strafing, along with double-jumping.  The movemen",
+    "includes": [
+      {
+        "bsp": "el3t3",
+        "title": "The Summoning"
+      }
+    ],
+    "gameMode": [
+      "CPM",
+      "DM",
+      "Tourney",
+      "2-4 players"
     ]
   },
   "q3shw20": {
@@ -713,24 +733,23 @@
       "2-5 players"
     ]
   },
-  "map-q3-el3t3": {
-    "levelId": "1951",
-    "dateStamp": "2007-10-12",
-    "zip": "map-q3-el3t3",
-    "sha256": "19e1122a93daef92ab45e73a894eaa468c6f2ef6c94b03930896ead23c179ccc",
-    "author": "evillair",
-    "extract": "A small tourney map using the standard gothic textures. The map is optimized for use with OSP/CPMA promode physics.  It is playable in normal vQ3, but the layout of the map is highly designed for use of air-strafing, along with double-jumping.  The movemen",
+  "jul20": {
+    "levelId": "1946",
+    "dateStamp": "2007-10-22",
+    "zip": "jul20",
+    "sha256": "a550c73db3a44a8cb6c7563e7f077049d5eadfd322b27421c17d33c2491379e0",
+    "author": "Julek",
+    "extract": "Julek likes to make small tourney maps and this one is on the extremely small side.  It's about as small as you can get and still be playable. The design reminds me of House of Chthon (e1m7) from Quake1, but on a smaller scale.  Two levels, open in the mid",
     "includes": [
       {
-        "bsp": "el3t3",
-        "title": "The Summoning"
+        "bsp": "jul20",
+        "title": "JUL - EMPTY MIND"
       }
     ],
     "gameMode": [
-      "CPM",
       "DM",
       "Tourney",
-      "2-4 players"
+      "2-3 players"
     ]
   },
   "hyperblast-q3": {
@@ -751,25 +770,6 @@
       "Floater",
       "Tourney",
       "2-4 players"
-    ]
-  },
-  "jul20": {
-    "levelId": "1946",
-    "dateStamp": "2007-10-22",
-    "zip": "jul20",
-    "sha256": "a550c73db3a44a8cb6c7563e7f077049d5eadfd322b27421c17d33c2491379e0",
-    "author": "Julek",
-    "extract": "Julek likes to make small tourney maps and this one is on the extremely small side.  It's about as small as you can get and still be playable. The design reminds me of House of Chthon (e1m7) from Quake1, but on a smaller scale.  Two levels, open in the mid",
-    "includes": [
-      {
-        "bsp": "jul20",
-        "title": "JUL - EMPTY MIND"
-      }
-    ],
-    "gameMode": [
-      "DM",
-      "Tourney",
-      "2-3 players"
     ]
   },
   "sgdtt6": {

@@ -1,4 +1,22 @@
 {
+  "dmr3dm3": {
+    "levelId": "1965",
+    "dateStamp": "2008-01-01",
+    "zip": "dmr3dm3",
+    "sha256": "e05b5537fe450dd3a107c16026c85910e9bb1ef5ce8413f0dece1407992c7bc3",
+    "author": "DOOMer",
+    "extract": "I regret to tell it but this map is practically worthless. It consists of four cylinders of decreasing diameter put together like a funnel, with the inevitable lava trap at the bottom. No architecture whatsoever, no details, no theme or unique atmosphere. ",
+    "includes": [
+      {
+        "bsp": "dmr3dm3",
+        "title": "Rail Circus"
+      }
+    ],
+    "gameMode": [
+      "Rail Arena",
+      "2-4 players"
+    ]
+  },
   "monolith": {
     "levelId": "1959",
     "dateStamp": "2008-01-01",
@@ -17,24 +35,6 @@
       "OpenArena",
       "Tourney",
       "2-6 players"
-    ]
-  },
-  "dmr3dm3": {
-    "levelId": "1965",
-    "dateStamp": "2008-01-01",
-    "zip": "dmr3dm3",
-    "sha256": "e05b5537fe450dd3a107c16026c85910e9bb1ef5ce8413f0dece1407992c7bc3",
-    "author": "DOOMer",
-    "extract": "I regret to tell it but this map is practically worthless. It consists of four cylinders of decreasing diameter put together like a funnel, with the inevitable lava trap at the bottom. No architecture whatsoever, no details, no theme or unique atmosphere. ",
-    "includes": [
-      {
-        "bsp": "dmr3dm3",
-        "title": "Rail Circus"
-      }
-    ],
-    "gameMode": [
-      "Rail Arena",
-      "2-4 players"
     ]
   },
   "dsp3dm1": {
@@ -138,25 +138,6 @@
       "4-10 players"
     ]
   },
-  "q3_elkdm2": {
-    "levelId": "1978",
-    "dateStamp": "2008-02-15",
-    "zip": "q3_elkdm2",
-    "sha256": "7e70f096541d371dbab78d90b130cdeac04fab13612e597910cd45e317cab0d9",
-    "author": "Speaker",
-    "extract": "A conversion of the Quake release of the same name, this level is just that. Remakes are interesting when they are successful, but this level has no spark to it. The gameplay feels flat and the areas separated from each other. You feel like you are always ",
-    "includes": [
-      {
-        "bsp": "q3_elkdm2",
-        "title": "Iron Trees"
-      }
-    ],
-    "gameMode": [
-      "DM",
-      "Tourney",
-      "2-5 players"
-    ]
-  },
   "spkdm1": {
     "levelId": "1980",
     "dateStamp": "2008-02-15",
@@ -176,6 +157,25 @@
       "3-8 players"
     ]
   },
+  "q3_elkdm2": {
+    "levelId": "1978",
+    "dateStamp": "2008-02-15",
+    "zip": "q3_elkdm2",
+    "sha256": "7e70f096541d371dbab78d90b130cdeac04fab13612e597910cd45e317cab0d9",
+    "author": "Speaker",
+    "extract": "A conversion of the Quake release of the same name, this level is just that. Remakes are interesting when they are successful, but this level has no spark to it. The gameplay feels flat and the areas separated from each other. You feel like you are always ",
+    "includes": [
+      {
+        "bsp": "q3_elkdm2",
+        "title": "Iron Trees"
+      }
+    ],
+    "gameMode": [
+      "DM",
+      "Tourney",
+      "2-5 players"
+    ]
+  },
   "map-casablanca": {
     "levelId": "1969",
     "dateStamp": "2008-02-17",
@@ -192,6 +192,24 @@
     "gameMode": [
       "DM",
       "3-8 players"
+    ]
+  },
+  "nkstrdm6": {
+    "levelId": "1971",
+    "dateStamp": "2008-02-23",
+    "zip": "nkstrdm6",
+    "sha256": "9bad4b4aa603b6c9dc362d4bfcef1a28f60b8751aa6b01b71fa0e740dabfde6a",
+    "author": "Nickster",
+    "extract": "This is a medium sized FFA map with a sewer theme, parts of it also remind me of a dirty subway system taken out of service. Lighting is good but rather dark and brown colors dominate the map. There is a few spots where light falls through old and misty wi",
+    "includes": [
+      {
+        "bsp": "nkstrdm6",
+        "title": "What's That Smell?"
+      }
+    ],
+    "gameMode": [
+      "DM",
+      "3-5 players"
     ]
   },
   "nkstrdm5": {
@@ -214,48 +232,12 @@
       "3-6 players"
     ]
   },
-  "nkstrdm6": {
-    "levelId": "1971",
-    "dateStamp": "2008-02-23",
-    "zip": "nkstrdm6",
-    "sha256": "9bad4b4aa603b6c9dc362d4bfcef1a28f60b8751aa6b01b71fa0e740dabfde6a",
-    "author": "Nickster",
-    "extract": "This is a medium sized FFA map with a sewer theme, parts of it also remind me of a dirty subway system taken out of service. Lighting is good but rather dark and brown colors dominate the map. There is a few spots where light falls through old and misty wi",
-    "includes": [
-      {
-        "bsp": "nkstrdm6",
-        "title": "What's That Smell?"
-      }
-    ],
-    "gameMode": [
-      "DM",
-      "3-5 players"
-    ]
-  },
-  "zih_gaj": {
-    "levelId": "1973",
-    "dateStamp": "2008-03-27",
-    "zip": "zih_gaj",
-    "sha256": "147e203a7aa3f2e0d0252ca22e4303ba656b7aceb11b4a8572a91f75af0f799a",
-    "author": "Zihaben and Yan Zaraki",
-    "extract": "The map Gajapoor takes you into the inner courtyard of a detailed palace complex deep inside the orient. It features lots of beautiful textures, shaders and models made by the mapper. Combined with good lighting and very suitable sounds, the atmosphere is ",
-    "includes": [
-      {
-        "bsp": "ZIH_GAJ",
-        "title": "Gajapoor by Zihaben"
-      }
-    ],
-    "gameMode": [
-      "DM",
-      "3-6 players"
-    ]
-  },
   "zih_roof": {
     "levelId": "1972",
     "dateStamp": "2008-03-27",
     "zip": "zih_roof",
     "sha256": "a286c6b7074ef929a442ea437037d52febff7e9e9cf81d7f574451849cd8f20a",
-    "author": "Zihaben and Alex Vishnevsky",
+    "author": "Zihaben & Alex Vishnevsky",
     "extract": "This map is a completely original styled map, as when I booted up the map I was actually somewhat surprised that it was for Q3. The author says that the map depicts a post-WWII East Berlin. The map takes place on the roof of a skyscraper in a gigantic metr",
     "includes": [
       {
@@ -269,6 +251,24 @@
       "4-12 players"
     ]
   },
+  "zih_gaj": {
+    "levelId": "1973",
+    "dateStamp": "2008-03-27",
+    "zip": "zih_gaj",
+    "sha256": "147e203a7aa3f2e0d0252ca22e4303ba656b7aceb11b4a8572a91f75af0f799a",
+    "author": "Zihaben & Yan Zaraki",
+    "extract": "The map Gajapoor takes you into the inner courtyard of a detailed palace complex deep inside the orient. It features lots of beautiful textures, shaders and models made by the mapper. Combined with good lighting and very suitable sounds, the atmosphere is ",
+    "includes": [
+      {
+        "bsp": "ZIH_GAJ",
+        "title": "Gajapoor by Zihaben"
+      }
+    ],
+    "gameMode": [
+      "DM",
+      "3-6 players"
+    ]
+  },
   "q3shw21": {
     "levelId": "1975",
     "dateStamp": "2008-03-30",
@@ -280,6 +280,27 @@
       {
         "bsp": "q3shw21",
         "title": "Destroyer by ShadoW"
+      }
+    ],
+    "gameMode": [
+      "CPM",
+      "DM",
+      "Team DM",
+      "Tourney",
+      "2-4 players"
+    ]
+  },
+  "map-acid3dm6": {
+    "levelId": "1974",
+    "dateStamp": "2008-04-01",
+    "zip": "map-acid3dm6",
+    "sha256": "edf730f208a09fc357ea1d495d56a72b7eb400ec0e1aae1831a39ea241ca9ba9",
+    "author": "acid",
+    "extract": "This medium-sized arena by acid is best suited for small TDM games or FFA. The map is very vertical with lots of possibilities to change height levels quickly, including jumppads, teleporters and many steel girders that seem to ask for rampjumps with",
+    "includes": [
+      {
+        "bsp": "acid3dm6",
+        "title": "rushed by acid"
       }
     ],
     "gameMode": [
@@ -310,27 +331,6 @@
       "2-6 players"
     ]
   },
-  "map-acid3dm6": {
-    "levelId": "1974",
-    "dateStamp": "2008-04-01",
-    "zip": "map-acid3dm6",
-    "sha256": "edf730f208a09fc357ea1d495d56a72b7eb400ec0e1aae1831a39ea241ca9ba9",
-    "author": "acid",
-    "extract": "This medium-sized arena by acid is best suited for small TDM games or FFA. The map is very vertical with lots of possibilities to change height levels quickly, including jumppads, teleporters and many steel girders that seem to ask for rampjumps with",
-    "includes": [
-      {
-        "bsp": "acid3dm6",
-        "title": "rushed by acid"
-      }
-    ],
-    "gameMode": [
-      "CPM",
-      "DM",
-      "Team DM",
-      "Tourney",
-      "2-4 players"
-    ]
-  },
   "map-acid3dm8": {
     "levelId": "1997",
     "dateStamp": "2008-04-01",
@@ -352,24 +352,24 @@
       "2-5 players"
     ]
   },
-  "map-13island": {
-    "levelId": "1991",
+  "map-13cube": {
+    "levelId": "1986",
     "dateStamp": "2008-04-06",
-    "zip": "map-13island",
-    "sha256": "5e1f9062c918e30f963b1537eafc49dd4ebca82115db401be3ac577099bd0224",
+    "zip": "map-13cube",
+    "sha256": "40b529d9f3dcb8838edfc5a671021df9cb32c64033f4bf20f7de161f2f74a575",
     "author": "sst13",
-    "extract": "This map is a series of floating pillars, linked by jumppads and bouncers. The map is built with simplistic brushes and textures, and uses some kind of graphics reduction mod that I'm not familiar with. The looks of the map and the gameplay style are compl",
+    "extract": "Again, a very extraordinary map from sst13.  The gameplay takes place is a cellshaded cube of connected plates, floating through some sort of canal with other cubes.  There are no items in this map, but you spawn with the Rocketlauncher, Quad and the Battl",
     "includes": [
       {
-        "bsp": "13island",
-        "title": "Stoneface Islands (by sst13)"
+        "bsp": "13cube",
+        "title": "Hypercube 13 (by sst13)"
       }
     ],
     "gameMode": [
-      "CTF",
       "DM",
-      "Team DM",
-      "4-8 players"
+      "Experimental",
+      "Tourney",
+      "2-4 players"
     ]
   },
   "map-13ground_xt": {
@@ -391,24 +391,24 @@
       "6-10 players"
     ]
   },
-  "map-13cube": {
-    "levelId": "1986",
+  "map-13island": {
+    "levelId": "1991",
     "dateStamp": "2008-04-06",
-    "zip": "map-13cube",
-    "sha256": "40b529d9f3dcb8838edfc5a671021df9cb32c64033f4bf20f7de161f2f74a575",
+    "zip": "map-13island",
+    "sha256": "5e1f9062c918e30f963b1537eafc49dd4ebca82115db401be3ac577099bd0224",
     "author": "sst13",
-    "extract": "Again, a very extraordinary map from sst13.  The gameplay takes place is a cellshaded cube of connected plates, floating through some sort of canal with other cubes.  There are no items in this map, but you spawn with the Rocketlauncher, Quad and the Battl",
+    "extract": "This map is a series of floating pillars, linked by jumppads and bouncers. The map is built with simplistic brushes and textures, and uses some kind of graphics reduction mod that I'm not familiar with. The looks of the map and the gameplay style are compl",
     "includes": [
       {
-        "bsp": "13cube",
-        "title": "Hypercube 13 (by sst13)"
+        "bsp": "13island",
+        "title": "Stoneface Islands (by sst13)"
       }
     ],
     "gameMode": [
+      "CTF",
       "DM",
-      "Experimental",
-      "Tourney",
-      "2-4 players"
+      "Team DM",
+      "4-8 players"
     ]
   },
   "sonne_q3": {
@@ -553,6 +553,24 @@
       "2-6 players"
     ]
   },
+  "zih_weirdf": {
+    "levelId": "1992",
+    "dateStamp": "2008-06-28",
+    "zip": "zih_weirdf",
+    "sha256": "2fdda231ccca7b1614c32eec0f9313063fad73b36c29f8e22afcb5075419264c",
+    "author": "Zihaben & Himitsu",
+    "extract": "Another excellent and unique work by Zihaben and Himitsu.  The setting is some sort of scientific lab complex, undoubtedly up to no good. Unique shaders, original music, textures, and design help this level stand out from the crowd.  Weapon placement is fi",
+    "includes": [
+      {
+        "bsp": "zih_weirdf",
+        "title": "Unholy Formula"
+      }
+    ],
+    "gameMode": [
+      "DM",
+      "3-6 players"
+    ]
+  },
   "eadm": {
     "levelId": "1995",
     "dateStamp": "2008-06-28",
@@ -621,24 +639,6 @@
       "Map pack",
       "Tourney",
       "2-8 players"
-    ]
-  },
-  "zih_weirdf": {
-    "levelId": "1992",
-    "dateStamp": "2008-06-28",
-    "zip": "zih_weirdf",
-    "sha256": "2fdda231ccca7b1614c32eec0f9313063fad73b36c29f8e22afcb5075419264c",
-    "author": "Zihaben and Himitsu",
-    "extract": "Another excellent and unique work by Zihaben and Himitsu.  The setting is some sort of scientific lab complex, undoubtedly up to no good. Unique shaders, original music, textures, and design help this level stand out from the crowd.  Weapon placement is fi",
-    "includes": [
-      {
-        "bsp": "zih_weirdf",
-        "title": "Unholy Formula"
-      }
-    ],
-    "gameMode": [
-      "DM",
-      "3-6 players"
     ]
   },
   "brickyard": {
@@ -721,24 +721,6 @@
       "2-3 players"
     ]
   },
-  "mg_final": {
-    "levelId": "2002",
-    "dateStamp": "2008-08-24",
-    "zip": "mg_final",
-    "sha256": "fb2c1ce60d62c88600e101f1a48260dde50c6ab9339b7318d71a8368e264419d",
-    "author": "Sock and Mr.Lake",
-    "extract": "This map is setup for CTF with the concept of wide open flag rooms. This change allows the match to be less defensive and more offensive and intense. The map structure was borrowed with permission from Nikolai 'Mr.Lake' Mohilchock's map, Evil",
-    "includes": [
-      {
-        "bsp": "mg_final",
-        "title": "Mystic Gemini"
-      }
-    ],
-    "gameMode": [
-      "CTF",
-      "4-8 players"
-    ]
-  },
   "knightmb1-ta": {
     "levelId": "909",
     "dateStamp": "2008-08-24",
@@ -755,6 +737,24 @@
     "gameMode": [
       "Team Arena",
       "6-16 players"
+    ]
+  },
+  "mg_final": {
+    "levelId": "2002",
+    "dateStamp": "2008-08-24",
+    "zip": "mg_final",
+    "sha256": "fb2c1ce60d62c88600e101f1a48260dde50c6ab9339b7318d71a8368e264419d",
+    "author": "Sock & Mr.Lake",
+    "extract": "This map is setup for CTF with the concept of wide open flag rooms. This change allows the match to be less defensive and more offensive and intense. The map structure was borrowed with permission from Nikolai 'Mr.Lake' Mohilchock's map, Evil",
+    "includes": [
+      {
+        "bsp": "mg_final",
+        "title": "Mystic Gemini"
+      }
+    ],
+    "gameMode": [
+      "CTF",
+      "4-8 players"
     ]
   },
   "e_mc2dm1": {
@@ -914,25 +914,6 @@
       "2-4 players"
     ]
   },
-  "rota3dm3": {
-    "levelId": "2010",
-    "dateStamp": "2008-10-15",
-    "zip": "rota3dm3",
-    "sha256": "835822965b70d85b4916dad5ab9e4dbeab5a8b4a5992bcb2fadbe89753448b07",
-    "author": "Rota",
-    "extract": "Marilyn is a map which is set in a cavern of rock, with waterfalls falling into pools from open areas where you can see the sky above.  Trails move through corridors which have many different plants in the ground which are from Nathan Silvers, and many dif",
-    "includes": [
-      {
-        "bsp": "rota3dm3",
-        "title": "Marilyn"
-      }
-    ],
-    "gameMode": [
-      "DM",
-      "Tourney",
-      "2-6 players"
-    ]
-  },
   "q3jmdm2": {
     "levelId": "2015",
     "dateStamp": "2008-10-15",
@@ -950,6 +931,25 @@
       "CPM",
       "DM",
       "4-8 players"
+    ]
+  },
+  "rota3dm3": {
+    "levelId": "2010",
+    "dateStamp": "2008-10-15",
+    "zip": "rota3dm3",
+    "sha256": "835822965b70d85b4916dad5ab9e4dbeab5a8b4a5992bcb2fadbe89753448b07",
+    "author": "Rota",
+    "extract": "Marilyn is a map which is set in a cavern of rock, with waterfalls falling into pools from open areas where you can see the sky above.  Trails move through corridors which have many different plants in the ground which are from Nathan Silvers, and many dif",
+    "includes": [
+      {
+        "bsp": "rota3dm3",
+        "title": "Marilyn"
+      }
+    ],
+    "gameMode": [
+      "DM",
+      "Tourney",
+      "2-6 players"
     ]
   },
   "empack": {
@@ -1011,6 +1011,24 @@
       "4-16 players"
     ]
   },
+  "jumprun": {
+    "levelId": "2031",
+    "dateStamp": "2008-10-31",
+    "zip": "jumprun",
+    "sha256": "4ae5744f585dac4e95341d737a3b96da007df447b0e4f72cd1ac7fb84a067560",
+    "author": "NaturalSpringWater",
+    "extract": "Jumprun is, as the name implies, a jump run in which the player has to complete 7 stages within a set timelimit (15 minutes) using flawless execution of a sequence of movement-based skills. The first 3 stages involve combinations of walking/running, crouch",
+    "includes": [
+      {
+        "bsp": "jumprun",
+        "title": "Get in the pit"
+      }
+    ],
+    "gameMode": [
+      "DeFRaG",
+      "Experimental"
+    ]
+  },
   "canyadoit": {
     "levelId": "2030",
     "dateStamp": "2008-10-31",
@@ -1052,24 +1070,6 @@
       "DM",
       "Instagib",
       "3-7 players"
-    ]
-  },
-  "jumprun": {
-    "levelId": "2031",
-    "dateStamp": "2008-10-31",
-    "zip": "jumprun",
-    "sha256": "4ae5744f585dac4e95341d737a3b96da007df447b0e4f72cd1ac7fb84a067560",
-    "author": "NaturalSpringWater",
-    "extract": "Jumprun is, as the name implies, a jump run in which the player has to complete 7 stages within a set timelimit (15 minutes) using flawless execution of a sequence of movement-based skills. The first 3 stages involve combinations of walking/running, crouch",
-    "includes": [
-      {
-        "bsp": "jumprun",
-        "title": "Get in the pit"
-      }
-    ],
-    "gameMode": [
-      "DeFRaG",
-      "Experimental"
     ]
   },
   "nkstrdm7": {
@@ -1132,6 +1132,26 @@
       "2 players"
     ]
   },
+  "pohan3dm4": {
+    "levelId": "2020",
+    "dateStamp": "2008-11-18",
+    "zip": "pohan3dm4",
+    "sha256": "a6c790b559d5b4b68eeb359f54affcccde5b802848dbdd2ed252e52482e4222a",
+    "author": "Takkie",
+    "extract": "Zacharias is a departure from Takkie's previous levels in that he has gone for a wider more open design than his usually more vertically oriented tourney maps. The map is outfitted in eq2 textures as well as the mkoxide and",
+    "includes": [
+      {
+        "bsp": "pohan3dm4",
+        "title": "Zacharias"
+      }
+    ],
+    "gameMode": [
+      "DM",
+      "OpenArena",
+      "Tourney",
+      "2-4 players"
+    ]
+  },
   "map-gothicj": {
     "levelId": "2029",
     "dateStamp": "2008-11-18",
@@ -1153,26 +1173,6 @@
       "CTF",
       "DM",
       "4-14 players"
-    ]
-  },
-  "pohan3dm4": {
-    "levelId": "2020",
-    "dateStamp": "2008-11-18",
-    "zip": "pohan3dm4",
-    "sha256": "a6c790b559d5b4b68eeb359f54affcccde5b802848dbdd2ed252e52482e4222a",
-    "author": "Takkie",
-    "extract": "Zacharias is a departure from Takkie's previous levels in that he has gone for a wider more open design than his usually more vertically oriented tourney maps. The map is outfitted in eq2 textures as well as the mkoxide and",
-    "includes": [
-      {
-        "bsp": "pohan3dm4",
-        "title": "Zacharias"
-      }
-    ],
-    "gameMode": [
-      "DM",
-      "OpenArena",
-      "Tourney",
-      "2-4 players"
     ]
   },
   "q3_bloodflowers": {

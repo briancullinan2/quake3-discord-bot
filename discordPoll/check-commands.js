@@ -28,6 +28,7 @@ function checkServerCommands(commandNumber, threadName, discordChannel, server) 
       || message.match(/^scores /i)) {
       // switch teams back to spectater in case automatically joined 
       //   on map change or something
+      server.lastCommand = Date.now()
       if(message.includes('cs ' + (CS_PLAYERS + server.channel.clientNum))
         && Date.now() - server.teamChanged > 30 * 1000) {
         Promise.resolve(sendReliable(server.ip, server.port, 'team s'))

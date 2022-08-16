@@ -1,0 +1,298 @@
+{
+  "2myhousenew": {
+    "levelId": "2328",
+    "dateStamp": "2016-01-04",
+    "zip": "2myhousenew",
+    "sha256": "7a7aa6af5167f891d8fafe54f42ad6816f9e294ae2f58170df139b58bcc0017d",
+    "includes": [
+      {
+        "bsp": "2myhouse",
+        "title": "Welcome to the [Dog] Pound"
+      }
+    ]
+  },
+  "dm-dogmeat-dt": {
+    "levelId": "2335",
+    "dateStamp": "2016-01-04",
+    "zip": "dm-dogmeat-dt",
+    "sha256": "c7d87a2b2f8c04754a98a8057472fb66eb9a416371643ea51ae60d2437532462",
+    "includes": [
+      {
+        "bsp": "DM-Dogmeat-DT",
+        "title": "Another Hot[Dog] Custom... Enjoy"
+      }
+    ]
+  },
+  "hotdog2": {
+    "levelId": "2331",
+    "dateStamp": "2016-01-04",
+    "zip": "hotdog2",
+    "sha256": "023a5bd6f9972c2481a29017a8408a292c84c9e2c83556fc9a4867b96c0177a2",
+    "includes": [
+      {
+        "bsp": "hotdog2",
+        "title": "Welcome to the [Dog] Pound"
+      }
+    ]
+  },
+  "q3map_forttown": {
+    "levelId": "2330",
+    "dateStamp": "2016-01-04",
+    "zip": "q3map_forttown",
+    "sha256": "88f80a03a898b4088ea0dca4565b96b8045bf4049ab1b4376d8e76d1876c02b6",
+    "includes": [
+      {
+        "bsp": "forttown",
+        "title": "Forttown CTF By Martinus"
+      },
+      {
+        "bsp": "forttown_og",
+        "title": "Forttown Open Gates By Martinus"
+      }
+    ]
+  },
+  "fx-techdamn": {
+    "levelId": "2341",
+    "dateStamp": "2016-02-09",
+    "zip": "fx-techdamn",
+    "sha256": "e4f35899ad51ab3653bf8ff2a2bb3cdf42e58beabc0332f6b906eade52898ad0",
+    "includes": [
+      {
+        "bsp": "fx-techdamn",
+        "title": "Technical Damnation"
+      }
+    ]
+  },
+  "obs3dm4": {
+    "levelId": "2333",
+    "dateStamp": "2016-02-09",
+    "zip": "obs3dm4",
+    "sha256": "4087ef56489742aa4ce87f0285d5f8326120caa768dbcaa0af2d3b782fa5a0b6",
+    "includes": [
+      {
+        "bsp": "obs3dm4",
+        "title": "Chronophagia"
+      }
+    ]
+  },
+  "e1m2red": {
+    "levelId": "2332",
+    "dateStamp": "2016-03-22",
+    "zip": "e1m2red",
+    "sha256": "fd80ca63f4fcad5ab7aac6e95d2ca983f419a8a2a4068c7c772e4af96632e8b3",
+    "includes": [
+      {
+        "bsp": "e1m2red",
+        "title": "E1M2: Deva Plant"
+      }
+    ]
+  },
+  "akutatourney3": {
+    "levelId": "2336",
+    "dateStamp": "2016-04-07",
+    "zip": "akutatourney3",
+    "sha256": "54687f87b56ac4a93947148c7087b027744f1efe58f03c08a74f09daddbccfad",
+    "includes": [
+      {
+        "bsp": "akutatourney3",
+        "title": "PowerStroke"
+      }
+    ]
+  },
+  "mfspacedm3": {
+    "levelId": "475",
+    "dateStamp": "2016-05-01",
+    "zip": "mfspacedm3",
+    "sha256": "ce0c5df2c77c45958e263591c6ac77cd0e80aa4268903617ded5541791a5fd1b",
+    "includes": [
+      {
+        "bsp": "mfspacedm3",
+        "title": "Lost Cause"
+      }
+    ]
+  },
+  "akutatourney4": {
+    "levelId": "2337",
+    "dateStamp": "2016-05-10",
+    "zip": "akutatourney4",
+    "sha256": "461920b062550c646a53d9653f6211527a8b58f5a6b17958084c2ce790882b95",
+    "includes": [
+      {
+        "bsp": "akutatourney4",
+        "title": "Military Complex"
+      }
+    ]
+  },
+  "q3ultradm13": {
+    "levelId": "2340",
+    "dateStamp": "2016-05-10",
+    "zip": "q3ultradm13",
+    "sha256": "150267996bc193431331b242ef940bc82c636144d651801dad0dcb86ef614b4c",
+    "includes": [
+      {
+        "bsp": "q3ultradm13",
+        "title": "Lost World"
+      }
+    ]
+  },
+  "q3dmp29": {
+    "levelId": "2334",
+    "dateStamp": "2016-06-02",
+    "zip": "q3dmp29",
+    "sha256": "7e39d26203058b188bf8a2a65604ca0440e9360efa6b60b560f1c280e57a3eab",
+    "includes": [
+      {
+        "bsp": "q3dmp29",
+        "title": "Happy 15th Quake 3"
+      }
+    ]
+  },
+  "dk_db": {
+    "levelId": "2338",
+    "dateStamp": "2016-06-22",
+    "zip": "dk_db",
+    "sha256": "aa17b19252bd6b39381970e8912abc71e9e834fee98e0c0686d1f55fcff414b6",
+    "includes": [
+      {
+        "bsp": "dk_db",
+        "title": "Doodlebug"
+      }
+    ]
+  },
+  "blooddm3": {
+    "levelId": "2345",
+    "dateStamp": "2016-07-23",
+    "zip": "blooddm3",
+    "sha256": "050f7e7657c5f4711cd07777067205a86d7d6232b6fbf863229cf290be01c28b",
+    "includes": [
+      {
+        "bsp": "blooddm3",
+        "title": "Sideria"
+      }
+    ]
+  },
+  "map-q3rst1": {
+    "levelId": "2344",
+    "dateStamp": "2016-08-05",
+    "zip": "map-q3rst1",
+    "sha256": "c470c502e549dd535fa34d851561831a7238775459fcc885f703d5ecf9da3dbc",
+    "includes": [
+      {
+        "bsp": "q3rst1",
+        "title": "Closed by repairs - By RoosTer"
+      }
+    ]
+  },
+  "akutatourney5": {
+    "levelId": "2342",
+    "dateStamp": "2016-08-06",
+    "zip": "akutatourney5",
+    "sha256": "b5b230f38a9187399ac181abc9e1e7be33d3b9e71e6f54fdaf5503596cc138b0",
+    "includes": [
+      {
+        "bsp": "akutatourney5",
+        "title": "Core Gravity Drive"
+      }
+    ]
+  },
+  "q3map_audiorum": {
+    "levelId": "2343",
+    "dateStamp": "2016-08-06",
+    "zip": "q3map_audiorum",
+    "sha256": "a168aad86e382c15ba2d750de21564ddbd9454d6ac821bbfabc3ae938ed2d669",
+    "includes": [
+      {
+        "bsp": "audiorum_es",
+        "title": "Audiorum : Echo Station by Martinus"
+      },
+      {
+        "bsp": "audiorum_v35",
+        "title": "Audiorum by Martinus"
+      }
+    ]
+  },
+  "dk_kb_final": {
+    "levelId": "2348",
+    "dateStamp": "2016-09-11",
+    "zip": "dk_kb_final",
+    "sha256": "24fb10b2f33172a1091ae62e8bc4c7295789410997326cd77971c549bd6fda4a",
+    "includes": [
+      {
+        "bsp": "dk_kb",
+        "title": "Kepple Bay"
+      }
+    ]
+  },
+  "akutatourney6": {
+    "levelId": "2346",
+    "dateStamp": "2016-09-14",
+    "zip": "akutatourney6",
+    "sha256": "2f92a7721c44f65b16e11db4ac79877456889e424dee743619027cdf760d08de",
+    "includes": [
+      {
+        "bsp": "akutatourney6",
+        "title": "Deep Purple"
+      }
+    ]
+  },
+  "rota3dm4": {
+    "levelId": "2347",
+    "dateStamp": "2016-09-21",
+    "zip": "rota3dm4",
+    "sha256": "50ffbb524837bc3e3424a6dd65786233e24fce1cf45e0a368e4735c4dff00389",
+    "includes": [
+      {
+        "bsp": "rota3dm4",
+        "title": "Rashmi"
+      }
+    ]
+  },
+  "obs3dm5": {
+    "levelId": "2354",
+    "dateStamp": "2016-10-03",
+    "zip": "obs3dm5",
+    "sha256": "2211b9de55d52699577096430f5e9e53e7921d8540218cc48526e927d9c90547",
+    "includes": [
+      {
+        "bsp": "obs3dm5",
+        "title": "Time to Kill the Pain"
+      }
+    ]
+  },
+  "akutatourney7": {
+    "levelId": "2352",
+    "dateStamp": "2016-11-09",
+    "zip": "akutatourney7",
+    "sha256": "564f4b7eeca6487cfb628ec429d9b6a20966fa29b41bd0426625b446c45443e5",
+    "includes": [
+      {
+        "bsp": "akutatourney7",
+        "title": "Desalination"
+      }
+    ]
+  },
+  "oamap_thebasin": {
+    "levelId": "2356",
+    "dateStamp": "2016-11-26",
+    "zip": "oamap_thebasin",
+    "sha256": "7c08c87334f401cc1a5d8c76273d0691b06de15e4561593d4b75247e7b925055",
+    "includes": [
+      {
+        "bsp": "thebasin",
+        "title": "The Basin by Martinus"
+      }
+    ]
+  },
+  "yog3dm6": {
+    "levelId": "1677",
+    "dateStamp": "2016-12-23",
+    "zip": "yog3dm6",
+    "sha256": "7504c9ddb02e8bda2ae4e05e4e7a01d159f543543b4de6250e19edca671b0036",
+    "includes": [
+      {
+        "bsp": "yog3dm6",
+        "title": "yog3dm6: The Big Chill"
+      }
+    ]
+  }
+}

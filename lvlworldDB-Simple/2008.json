@@ -1,0 +1,846 @@
+{
+  "dmr3dm3": {
+    "levelId": "1965",
+    "dateStamp": "2008-01-01",
+    "zip": "dmr3dm3",
+    "sha256": "e05b5537fe450dd3a107c16026c85910e9bb1ef5ce8413f0dece1407992c7bc3",
+    "includes": [
+      {
+        "bsp": "dmr3dm3",
+        "title": "Rail Circus"
+      }
+    ]
+  },
+  "monolith": {
+    "levelId": "1959",
+    "dateStamp": "2008-01-01",
+    "zip": "monolith",
+    "sha256": "d5ce55ee2d4f286e489ea2d7c28ac81940fca0e1309871ece69540dbb26ca851",
+    "includes": [
+      {
+        "bsp": "monolith",
+        "title": "MonoLith"
+      }
+    ]
+  },
+  "dsp3dm1": {
+    "levelId": "1968",
+    "dateStamp": "2008-01-14",
+    "zip": "dsp3dm1",
+    "sha256": "c7e1eb6db99461bfe37cf6e4b7f37c24bb3f41fa94f2d57a5017e6902e41ccef",
+    "includes": [
+      {
+        "bsp": "dsp3dm1",
+        "title": "Not Yet- by DeadLy_sp"
+      }
+    ]
+  },
+  "vpldm4": {
+    "levelId": "1977",
+    "dateStamp": "2008-02-01",
+    "zip": "vpldm4",
+    "sha256": "d55dbc8682201937cb420bd1b81bc23867344be5e2f6ded3e20924789bdb3884",
+    "includes": [
+      {
+        "bsp": "vpldm4",
+        "title": "rain"
+      }
+    ]
+  },
+  "n3pak0": {
+    "levelId": "1964",
+    "dateStamp": "2008-02-02",
+    "zip": "n3pak0",
+    "sha256": "0f71f8ccd4d806d498c95f11e7a74b768a96884d54bf0df68e49f7073def0bb5",
+    "includes": [
+      {
+        "bsp": "n3dm1",
+        "title": "Temple of Amun 2v2"
+      },
+      {
+        "bsp": "n3tourney1",
+        "title": "Temple of Amun"
+      }
+    ]
+  },
+  "jul22": {
+    "levelId": "1963",
+    "dateStamp": "2008-02-08",
+    "zip": "jul22",
+    "sha256": "0c0b81bacb64ef47d6f68e86757efa2015f0df74b33092f0a0bbdc01cdaf7efc",
+    "includes": [
+      {
+        "bsp": "jul22",
+        "title": "JUL - W.D.Y.G."
+      }
+    ]
+  },
+  "cu3ctf1": {
+    "levelId": "1994",
+    "dateStamp": "2008-02-14",
+    "zip": "cu3ctf1",
+    "sha256": "1429d8ed11322c35d618d62c2584c312dd4fb71461927b61f9773871c228897b",
+    "includes": [
+      {
+        "bsp": "cu3ctf1",
+        "title": "Soap on a Rope"
+      }
+    ]
+  },
+  "spkdm1": {
+    "levelId": "1980",
+    "dateStamp": "2008-02-15",
+    "zip": "spkdm1",
+    "sha256": "6d5a3422762dfedad7a050bdd03459812e26e1776bb175e7b7286a69e6201aba",
+    "includes": [
+      {
+        "bsp": "spkdm1",
+        "title": "Castle of Peladon"
+      }
+    ]
+  },
+  "q3_elkdm2": {
+    "levelId": "1978",
+    "dateStamp": "2008-02-15",
+    "zip": "q3_elkdm2",
+    "sha256": "7e70f096541d371dbab78d90b130cdeac04fab13612e597910cd45e317cab0d9",
+    "includes": [
+      {
+        "bsp": "q3_elkdm2",
+        "title": "Iron Trees"
+      }
+    ]
+  },
+  "map-casablanca": {
+    "levelId": "1969",
+    "dateStamp": "2008-02-17",
+    "zip": "map-casablanca",
+    "sha256": "5ac0b071bb6f5aef0a0029c764fa8d68374d6c3e8873c2b206624bb1602c6688",
+    "includes": [
+      {
+        "bsp": "Casablanca",
+        "title": "Sunset Isle"
+      }
+    ]
+  },
+  "nkstrdm6": {
+    "levelId": "1971",
+    "dateStamp": "2008-02-23",
+    "zip": "nkstrdm6",
+    "sha256": "9bad4b4aa603b6c9dc362d4bfcef1a28f60b8751aa6b01b71fa0e740dabfde6a",
+    "includes": [
+      {
+        "bsp": "nkstrdm6",
+        "title": "What's That Smell?"
+      }
+    ]
+  },
+  "nkstrdm5": {
+    "levelId": "1985",
+    "dateStamp": "2008-02-23",
+    "zip": "nkstrdm5",
+    "sha256": "9895643a36fc56a5a0eb8803e0586ee50cd6d2297d9d55a2f5874be63d6624e4",
+    "includes": [
+      {
+        "bsp": "nkstrdm5",
+        "title": "Exotic Metals"
+      }
+    ]
+  },
+  "zih_roof": {
+    "levelId": "1972",
+    "dateStamp": "2008-03-27",
+    "zip": "zih_roof",
+    "sha256": "a286c6b7074ef929a442ea437037d52febff7e9e9cf81d7f574451849cd8f20a",
+    "includes": [
+      {
+        "bsp": "zih_roof",
+        "title": "East Berlin Roofs"
+      }
+    ]
+  },
+  "zih_gaj": {
+    "levelId": "1973",
+    "dateStamp": "2008-03-27",
+    "zip": "zih_gaj",
+    "sha256": "147e203a7aa3f2e0d0252ca22e4303ba656b7aceb11b4a8572a91f75af0f799a",
+    "includes": [
+      {
+        "bsp": "ZIH_GAJ",
+        "title": "Gajapoor by Zihaben"
+      }
+    ]
+  },
+  "q3shw21": {
+    "levelId": "1975",
+    "dateStamp": "2008-03-30",
+    "zip": "q3shw21",
+    "sha256": "ee0e81c984dbaddb45cde37c86028c7116986c6df1f3bcf50ff72c1af6f95f77",
+    "includes": [
+      {
+        "bsp": "q3shw21",
+        "title": "Destroyer by ShadoW"
+      }
+    ]
+  },
+  "map-acid3dm6": {
+    "levelId": "1974",
+    "dateStamp": "2008-04-01",
+    "zip": "map-acid3dm6",
+    "sha256": "edf730f208a09fc357ea1d495d56a72b7eb400ec0e1aae1831a39ea241ca9ba9",
+    "includes": [
+      {
+        "bsp": "acid3dm6",
+        "title": "rushed by acid"
+      }
+    ]
+  },
+  "map-acid3dm7": {
+    "levelId": "1990",
+    "dateStamp": "2008-04-01",
+    "zip": "map-acid3dm7",
+    "sha256": "083dd07707e7570d4c28efba90efc62691d999ec5c86f79d98c434b0f3332f3a",
+    "includes": [
+      {
+        "bsp": "acid3dm7",
+        "title": "unbalanced II by acid"
+      }
+    ]
+  },
+  "map-acid3dm8": {
+    "levelId": "1997",
+    "dateStamp": "2008-04-01",
+    "zip": "map-acid3dm8",
+    "sha256": "21773ff77a62af4877cf95040788c490b9145b8d62c30e349a31dc2a4d50ac72",
+    "includes": [
+      {
+        "bsp": "acid3dm8",
+        "title": "rush to the disco by acid"
+      }
+    ]
+  },
+  "map-13cube": {
+    "levelId": "1986",
+    "dateStamp": "2008-04-06",
+    "zip": "map-13cube",
+    "sha256": "40b529d9f3dcb8838edfc5a671021df9cb32c64033f4bf20f7de161f2f74a575",
+    "includes": [
+      {
+        "bsp": "13cube",
+        "title": "Hypercube 13 (by sst13)"
+      }
+    ]
+  },
+  "map-13ground_xt": {
+    "levelId": "2001",
+    "dateStamp": "2008-04-06",
+    "zip": "map-13ground_xt",
+    "sha256": "aad130b8c06ffadfb339ef5b584afe0a7972b6e7642728fbb1d73a0f90b4207f",
+    "includes": [
+      {
+        "bsp": "13ground_xt",
+        "title": "The Proving Grounds CTF - Extended (by sst13)"
+      }
+    ]
+  },
+  "map-13island": {
+    "levelId": "1991",
+    "dateStamp": "2008-04-06",
+    "zip": "map-13island",
+    "sha256": "5e1f9062c918e30f963b1537eafc49dd4ebca82115db401be3ac577099bd0224",
+    "includes": [
+      {
+        "bsp": "13island",
+        "title": "Stoneface Islands (by sst13)"
+      }
+    ]
+  },
+  "sonne_q3": {
+    "levelId": "1982",
+    "dateStamp": "2008-04-11",
+    "zip": "sonne_q3",
+    "sha256": "9a1e4022d813d88e80eb4482db09d2d5d29d11cd337bfe9ade88d61f50713b6d",
+    "includes": [
+      {
+        "bsp": "sonne-v1",
+        "title": "SoNNe"
+      },
+      {
+        "bsp": "sonne-v2",
+        "title": "SoNNe"
+      }
+    ]
+  },
+  "map_mirea1": {
+    "levelId": "1983",
+    "dateStamp": "2008-04-11",
+    "zip": "map_mirea1",
+    "sha256": "2f56e9c6b1664abe157251020626790619e12af0c83416a99a35072dc3cb0f3a",
+    "includes": [
+      {
+        "bsp": "map_mirea1",
+        "title": "MiREA"
+      }
+    ]
+  },
+  "bloodmart": {
+    "levelId": "1976",
+    "dateStamp": "2008-04-18",
+    "zip": "bloodmart",
+    "sha256": "1a81ce61be80dc2e4ba50692d3e033f051a4ef233e7148093e4d9e405a5fee41",
+    "includes": [
+      {
+        "bsp": "q3martdm",
+        "title": "Quake Mart DM"
+      }
+    ]
+  },
+  "q3shw22": {
+    "levelId": "1987",
+    "dateStamp": "2008-04-26",
+    "zip": "q3shw22",
+    "sha256": "f8042f0f74821ab23c22310ab149b118a23d942ca3b711a756cfd544b0282c99",
+    "includes": [
+      {
+        "bsp": "q3shw22",
+        "title": "Simple brushes by ShadoW"
+      }
+    ]
+  },
+  "twq3tourney2": {
+    "levelId": "1996",
+    "dateStamp": "2008-05-31",
+    "zip": "twq3tourney2",
+    "sha256": "739b3929a0776fd4ea0728f03a5cc9757d9f4cdb05b73d7a949caabee82901e4",
+    "includes": [
+      {
+        "bsp": "twq3tourney2",
+        "title": "Darkness Awaits"
+      }
+    ]
+  },
+  "qydm6": {
+    "levelId": "1988",
+    "dateStamp": "2008-06-15",
+    "zip": "qydm6",
+    "sha256": "6757aa7cbacb1e1268436b8a5f99a3d3d325f1fcbef210d148018290eb843cda",
+    "includes": [
+      {
+        "bsp": "qydm6",
+        "title": "Cyber Hybrid zone"
+      }
+    ]
+  },
+  "qydm8": {
+    "levelId": "1989",
+    "dateStamp": "2008-06-15",
+    "zip": "qydm8",
+    "sha256": "1428dc80a447ed48d7984e5f70bfa34868e8cbfe460d952a5c0ea3e707857f23",
+    "includes": [
+      {
+        "bsp": "qydm8",
+        "title": "Dance Hall 2"
+      }
+    ]
+  },
+  "zih_weirdf": {
+    "levelId": "1992",
+    "dateStamp": "2008-06-28",
+    "zip": "zih_weirdf",
+    "sha256": "2fdda231ccca7b1614c32eec0f9313063fad73b36c29f8e22afcb5075419264c",
+    "includes": [
+      {
+        "bsp": "zih_weirdf",
+        "title": "Unholy Formula"
+      }
+    ]
+  },
+  "eadm": {
+    "levelId": "1995",
+    "dateStamp": "2008-06-28",
+    "zip": "eadm",
+    "sha256": "5d3e6c5b4c19cd2fc13fb9f31f9afd600d554a4f889c53efa183dbf9f60d360d",
+    "includes": [
+      {
+        "bsp": "eactf1",
+        "title": "Monochrome CTF - by - Utah"
+      },
+      {
+        "bsp": "eadm1",
+        "title": "Monochrome - by - Utah"
+      },
+      {
+        "bsp": "eadm10",
+        "title": "Circle Jerk - by - Santo"
+      },
+      {
+        "bsp": "eadm11",
+        "title": "Impossible Dinosaur Battlefield"
+      },
+      {
+        "bsp": "eadm12",
+        "title": "Carbon - by - Utah"
+      },
+      {
+        "bsp": "eadm2",
+        "title": "Have a banana! - by - raYGunn"
+      },
+      {
+        "bsp": "eadm3",
+        "title": "SHADY TOWERS"
+      },
+      {
+        "bsp": "eadm4",
+        "title": "SHADY TOWERS 2"
+      },
+      {
+        "bsp": "eadm5",
+        "title": "Zion's Quarry - by - Brian Ball"
+      },
+      {
+        "bsp": "eadm6",
+        "title": "Asylum - by - Sean Soucy"
+      },
+      {
+        "bsp": "eadm7",
+        "title": "Reduced Fat Wheat Thins - by - Sean Soucy"
+      },
+      {
+        "bsp": "eadm8",
+        "title": "Stomping Arena - by - Aldawg"
+      },
+      {
+        "bsp": "eadm9",
+        "title": "Aerodrome - by - Aldawg"
+      }
+    ]
+  },
+  "brickyard": {
+    "levelId": "1993",
+    "dateStamp": "2008-07-10",
+    "zip": "brickyard",
+    "sha256": "14571979e5696b8cb5da42fa7c47b475d68352c71b89fd6d82319b88a97249b2",
+    "includes": [
+      {
+        "bsp": "brickyard",
+        "title": "brickyard"
+      }
+    ]
+  },
+  "tlipps_nu": {
+    "levelId": "2000",
+    "dateStamp": "2008-07-16",
+    "zip": "tlipps_nu",
+    "sha256": "2d109da996713251f1de81fef1916822cdf42849d2b497de2bd47a3db52c2780",
+    "includes": [
+      {
+        "bsp": "tlipps_nu",
+        "title": "Thunderlipps - A new beginning"
+      }
+    ]
+  },
+  "lifeline": {
+    "levelId": "1998",
+    "dateStamp": "2008-07-22",
+    "zip": "lifeline",
+    "sha256": "565b5b0d9d013a16d91330ff258feb6287f6471041ab830dfbad6a86613e184b",
+    "includes": [
+      {
+        "bsp": "lifeline",
+        "title": "Lifeline"
+      },
+      {
+        "bsp": "lifelinesnow",
+        "title": "Lifeline Snow"
+      }
+    ]
+  },
+  "q3jmdm1": {
+    "levelId": "2003",
+    "dateStamp": "2008-08-14",
+    "zip": "q3jmdm1",
+    "sha256": "4022ca734ba839880cc7e184f90412540438868f5f49706f0382ef3281da51d4",
+    "includes": [
+      {
+        "bsp": "jmdm1",
+        "title": "JMDM1 - GREASE LIGHTNING - joshuamilburn@aol.com"
+      }
+    ]
+  },
+  "knightmb1-ta": {
+    "levelId": "909",
+    "dateStamp": "2008-08-24",
+    "zip": "knightmb1-ta",
+    "sha256": "e8fe6db4e6d76c7bfd60a37a1d1c533148e3178407aa6659fc77ea81e9c54277",
+    "includes": [
+      {
+        "bsp": "knightmb1-ta",
+        "title": "All Your Base Are Belong To Us"
+      }
+    ]
+  },
+  "mg_final": {
+    "levelId": "2002",
+    "dateStamp": "2008-08-24",
+    "zip": "mg_final",
+    "sha256": "fb2c1ce60d62c88600e101f1a48260dde50c6ab9339b7318d71a8368e264419d",
+    "includes": [
+      {
+        "bsp": "mg_final",
+        "title": "Mystic Gemini"
+      }
+    ]
+  },
+  "e_mc2dm1": {
+    "levelId": "1999",
+    "dateStamp": "2008-08-29",
+    "zip": "e_mc2dm1",
+    "sha256": "dc62c917e9cce994f5b06c6d4b726ba4a3001d5cc8f7f3e4b2380148cfbeaa90",
+    "includes": [
+      {
+        "bsp": "E=mc2dm1",
+        "title": "map for ROTA"
+      }
+    ]
+  },
+  "q3ctfp3": {
+    "levelId": "2017",
+    "dateStamp": "2008-09-02",
+    "zip": "q3ctfp3",
+    "sha256": "23b1e8209e66b4a8946e77bcff88918c861aa645d44895cb5d6ed2300fb6f11c",
+    "includes": [
+      {
+        "bsp": "q3ctfp3",
+        "title": "Test"
+      }
+    ]
+  },
+  "bball": {
+    "levelId": "2005",
+    "dateStamp": "2008-09-27",
+    "zip": "bball",
+    "sha256": "80bf1a4200f2c0ae3d95aab512659860e6ae9194c67614fb2e8f5778b31140ef",
+    "includes": [
+      {
+        "bsp": "bball",
+        "title": "No Goal Tending!"
+      },
+      {
+        "bsp": "bball2",
+        "title": "bball2"
+      }
+    ]
+  },
+  "lobby": {
+    "levelId": "2004",
+    "dateStamp": "2008-09-27",
+    "zip": "lobby",
+    "sha256": "183478ad734e6f4db81849a7fef6996e7ecb973ef3d92e234d388aabb3321f72",
+    "includes": [
+      {
+        "bsp": "lobby",
+        "title": "Lobby Shootout"
+      },
+      {
+        "bsp": "lobby2",
+        "title": "Lobby Rocket"
+      },
+      {
+        "bsp": "lobby3",
+        "title": "Lobby Instagib"
+      },
+      {
+        "bsp": "lobby4",
+        "title": "Lobby Shootout Duel"
+      },
+      {
+        "bsp": "lobby5",
+        "title": "Lobby Rocket Duel"
+      },
+      {
+        "bsp": "lobby6",
+        "title": "Lobby Instagib Duel"
+      }
+    ]
+  },
+  "map_monsoon": {
+    "levelId": "2018",
+    "dateStamp": "2008-10-04",
+    "zip": "map_monsoon",
+    "sha256": "7ab665aa0f13561cafa0df4788ff992f5d9180f8d7b6e0a41d534272fce13451",
+    "includes": [
+      {
+        "bsp": "monsoon",
+        "title": "Monsoon by Lukin (xtn's remix)"
+      }
+    ]
+  },
+  "map-13base": {
+    "levelId": "2016",
+    "dateStamp": "2008-10-05",
+    "zip": "map-13base",
+    "sha256": "d6f7dea5384241084ff64a6b662da039041af3cfd0e9d3506dff249a74ba261d",
+    "includes": [
+      {
+        "bsp": "13base",
+        "title": "Hangar Base (by sst13)"
+      }
+    ]
+  },
+  "dade_rage": {
+    "levelId": "2008",
+    "dateStamp": "2008-10-09",
+    "zip": "dade_rage",
+    "sha256": "80b9368be6e275fecf5c403576a49a72c8b5497f422fe8a59110a86db8f5fddf",
+    "includes": [
+      {
+        "bsp": "dAde_rage",
+        "title": "dAde_Rage "
+      }
+    ]
+  },
+  "q3jmdm2": {
+    "levelId": "2015",
+    "dateStamp": "2008-10-15",
+    "zip": "q3jmdm2",
+    "sha256": "dc78d621056c14d7ff45d136c14d5c21a0797729c0624baec9e525e99835c36d",
+    "includes": [
+      {
+        "bsp": "jmdm2",
+        "title": "JMDM2 - JUMPIN' JACK FLASH - joshuamilburn@aol.com"
+      }
+    ]
+  },
+  "rota3dm3": {
+    "levelId": "2010",
+    "dateStamp": "2008-10-15",
+    "zip": "rota3dm3",
+    "sha256": "835822965b70d85b4916dad5ab9e4dbeab5a8b4a5992bcb2fadbe89753448b07",
+    "includes": [
+      {
+        "bsp": "rota3dm3",
+        "title": "Marilyn"
+      }
+    ]
+  },
+  "empack": {
+    "levelId": "2011",
+    "dateStamp": "2008-10-20",
+    "zip": "empack",
+    "sha256": "8496e589791b5af7c7c2ce978423ac7f3ab08accdd4210ae1b2756f3cd0c707c",
+    "includes": [
+      {
+        "bsp": "qoox",
+        "title": "Qoox - by emelis"
+      },
+      {
+        "bsp": "voox",
+        "title": "Voox - by emelis"
+      }
+    ]
+  },
+  "thefront": {
+    "levelId": "2019",
+    "dateStamp": "2008-10-20",
+    "zip": "thefront",
+    "sha256": "8931f4d7de7ab309f3b3c53f40a47c114f74a224559cde060b55ccb36baf6f78",
+    "includes": [
+      {
+        "bsp": "thefront",
+        "title": "TheFront"
+      }
+    ]
+  },
+  "q3dmp4": {
+    "levelId": "2022",
+    "dateStamp": "2008-10-24",
+    "zip": "q3dmp4",
+    "sha256": "12516af923405ad913e323ed8a961cfc3f0bd24e25848f588c2a52d739de07f2",
+    "includes": [
+      {
+        "bsp": "q3dmp4",
+        "title": "Sublevel27"
+      }
+    ]
+  },
+  "jumprun": {
+    "levelId": "2031",
+    "dateStamp": "2008-10-31",
+    "zip": "jumprun",
+    "sha256": "4ae5744f585dac4e95341d737a3b96da007df447b0e4f72cd1ac7fb84a067560",
+    "includes": [
+      {
+        "bsp": "jumprun",
+        "title": "Get in the pit"
+      }
+    ]
+  },
+  "canyadoit": {
+    "levelId": "2030",
+    "dateStamp": "2008-10-31",
+    "zip": "canyadoit",
+    "sha256": "285d031e96b80e3f90f6d33a8291a076b08aa9f064fd104695c18ff1b42fe65d",
+    "includes": [
+      {
+        "bsp": "canyadoit",
+        "title": "canyadoit"
+      },
+      {
+        "bsp": "roompie",
+        "title": "Pile of Rooms"
+      }
+    ]
+  },
+  "bloodsky": {
+    "levelId": "2024",
+    "dateStamp": "2008-10-31",
+    "zip": "bloodsky",
+    "sha256": "fe43a2018e46af7aa184218709a2ccf471ffe7d1cd7c64bf867d449fbd97738b",
+    "includes": [
+      {
+        "bsp": "bloodsky",
+        "title": "bloodsky"
+      }
+    ]
+  },
+  "nkstrdm7": {
+    "levelId": "2021",
+    "dateStamp": "2008-11-07",
+    "zip": "nkstrdm7",
+    "sha256": "77f4ef17a38018c19699619d6e25669b1281986c4461febf3df83ead33d4acf5",
+    "includes": [
+      {
+        "bsp": "nkstrdm7",
+        "title": "Slipgate"
+      }
+    ]
+  },
+  "blumetal": {
+    "levelId": "2012",
+    "dateStamp": "2008-11-08",
+    "zip": "blumetal",
+    "sha256": "0cc94cc3745d5bf12779f200ea1702d4b9ef2842665f9cd51aaca5b30561ce4b",
+    "includes": [
+      {
+        "bsp": "blumetal",
+        "title": "blumetal"
+      }
+    ]
+  },
+  "canyafigureitout": {
+    "levelId": "2014",
+    "dateStamp": "2008-11-16",
+    "zip": "canyafigureitout",
+    "sha256": "811fef40c5a2bcaf90223430155b65446713c15b28005e5c62986df8ab566744",
+    "includes": [
+      {
+        "bsp": "cyfio",
+        "title": "canyafigureitout"
+      },
+      {
+        "bsp": "cyfionhv",
+        "title": "canyafigureitout n00b help version"
+      }
+    ]
+  },
+  "pohan3dm4": {
+    "levelId": "2020",
+    "dateStamp": "2008-11-18",
+    "zip": "pohan3dm4",
+    "sha256": "a6c790b559d5b4b68eeb359f54affcccde5b802848dbdd2ed252e52482e4222a",
+    "includes": [
+      {
+        "bsp": "pohan3dm4",
+        "title": "Zacharias"
+      }
+    ]
+  },
+  "map-gothicj": {
+    "levelId": "2029",
+    "dateStamp": "2008-11-18",
+    "zip": "map-gothicj",
+    "sha256": "a68f3bb475da7c0b6c4c1ccaeb56b752481edf6274e601a93adaf939b8f887cd",
+    "includes": [
+      {
+        "bsp": "GothicJ",
+        "title": "Gothic Jumper by Martinus"
+      },
+      {
+        "bsp": "gothicj_m",
+        "title": "Gothic Jumper [mini edition] by Martinus"
+      }
+    ]
+  },
+  "q3_bloodflowers": {
+    "levelId": "2035",
+    "dateStamp": "2008-11-30",
+    "zip": "q3_bloodflowers",
+    "sha256": "df4d8972738c6529a8233cbed26d9a46ccf7e58aabefdb2c94bad392a034662b",
+    "includes": [
+      {
+        "bsp": "q3_bloodflowers",
+        "title": "Bloodflowers"
+      }
+    ]
+  },
+  "q3_curse2": {
+    "levelId": "2034",
+    "dateStamp": "2008-11-30",
+    "zip": "q3_curse2",
+    "sha256": "5925c4ab4a16446b8432af5c3f639aec09b33666d5ed8171e94db81f804abe7a",
+    "includes": [
+      {
+        "bsp": "q3_curse2",
+        "title": "Curse on the Liandri!"
+      }
+    ]
+  },
+  "blueray": {
+    "levelId": "2033",
+    "dateStamp": "2008-12-09",
+    "zip": "blueray",
+    "sha256": "a52a1cb88848de95b31da6cc2de10a431fdaffa1d50b3874e9ac8e444b67a1af",
+    "includes": [
+      {
+        "bsp": "blueray",
+        "title": "blueray"
+      }
+    ]
+  },
+  "map-13dream": {
+    "levelId": "2042",
+    "dateStamp": "2008-12-13",
+    "zip": "map-13dream",
+    "sha256": "bbe089454824420e6f3b1fbe1fa8686ad51752b094840a21f4161d3d101ecfc5",
+    "includes": [
+      {
+        "bsp": "13dream",
+        "title": "Dreamscape (by sst13)"
+      }
+    ]
+  },
+  "pictish_ruins": {
+    "levelId": "2025",
+    "dateStamp": "2008-12-21",
+    "zip": "pictish_ruins",
+    "sha256": "7ea9836146c276e886b0ded3293db987184c8d15a42825d970541a7e04afd1ee",
+    "includes": [
+      {
+        "bsp": "pictish_ruins",
+        "title": "pictish_ruins"
+      }
+    ]
+  },
+  "obs3dm2": {
+    "levelId": "2028",
+    "dateStamp": "2008-12-25",
+    "zip": "obs3dm2",
+    "sha256": "742b373bd196f8c3f2b32d850c79927d57d47c534eafa21158236455af16eae8",
+    "includes": [
+      {
+        "bsp": "obs3dm2",
+        "title": "Blood Run tribute by Obsessed"
+      }
+    ]
+  }
+}

@@ -1,0 +1,210 @@
+{
+  "akutadm1": {
+    "levelId": "2349",
+    "dateStamp": "2017-01-26",
+    "zip": "akutadm1",
+    "sha256": "cc32c22509ff376b3aafc65db94d6ba76c2d9ce06946c707d3e388267b35d60c",
+    "includes": [
+      {
+        "bsp": "akutadm1",
+        "title": "ALIEN"
+      }
+    ]
+  },
+  "map-13black_hd": {
+    "levelId": "2357",
+    "dateStamp": "2017-01-26",
+    "zip": "map-13black_hd",
+    "sha256": "e59368e2ce0f46c82bf3c29531f903197ef4ad22a446ab638e93d2fa9670755d",
+    "includes": [
+      {
+        "bsp": "13black_hd",
+        "title": "The Black Realm - HD (by sst13)"
+      }
+    ]
+  },
+  "map-13dream_xt": {
+    "levelId": "2358",
+    "dateStamp": "2017-01-26",
+    "zip": "map-13dream_xt",
+    "sha256": "86c044bdbc7b5bb224a7d676f3563b1b7814d0f8ed63325c5fd43a3a16bc8bc4",
+    "includes": [
+      {
+        "bsp": "13dream_xt",
+        "title": "Dreamscape - Extended (by sst13)"
+      }
+    ]
+  },
+  "map-13matrix": {
+    "levelId": "2353",
+    "dateStamp": "2017-01-26",
+    "zip": "map-13matrix",
+    "sha256": "a44dc034058c89c134fdbdacf38f735a882ea41da17d46ab316bc8f521d06b1b",
+    "includes": [
+      {
+        "bsp": "13matrix",
+        "title": "Campgrounds - Matrix Edition (by sst13)"
+      }
+    ]
+  },
+  "map-13power": {
+    "levelId": "2351",
+    "dateStamp": "2017-01-26",
+    "zip": "map-13power",
+    "sha256": "cbb3327b62160586d1b02d3d13b0f5a0f940c6b10d31d1176386c4051cef527f",
+    "includes": [
+      {
+        "bsp": "13power",
+        "title": "Powerstation - Extended (by sst13)"
+      }
+    ]
+  },
+  "map-13power_ctf": {
+    "levelId": "2350",
+    "dateStamp": "2017-01-26",
+    "zip": "map-13power_ctf",
+    "sha256": "251b825e4f47e6af36841ed841b00606825dde11247a770c1aab2151f75802e5",
+    "includes": [
+      {
+        "bsp": "13power_ctf",
+        "title": "Powerstation CTF (by sst13)"
+      }
+    ]
+  },
+  "czg_sude": {
+    "levelId": "2355",
+    "dateStamp": "2017-02-04",
+    "zip": "czg_sude",
+    "sha256": "617e00ccf1eec282ab65393983fbf51614b4e961f8fc7f2abab0884012571d3e",
+    "includes": [
+      {
+        "bsp": "czg_sude",
+        "title": "Sudden Death"
+      }
+    ]
+  },
+  "nijoo_ctf": {
+    "levelId": "2360",
+    "dateStamp": "2017-04-06",
+    "zip": "nijoo_ctf",
+    "sha256": "acc80cb20a483789ecfd75b3999608b2949c258df3517c94dca74d13845cfab4",
+    "includes": [
+      {
+        "bsp": "nijoo",
+        "title": "Nijoo Asteroid"
+      }
+    ]
+  },
+  "akutatourney8": {
+    "levelId": "2362",
+    "dateStamp": "2017-05-02",
+    "zip": "akutatourney8",
+    "sha256": "deef702422936e04c274da1555e72e5c5db0b93f10c98c30816e16c93e182d8f",
+    "includes": [
+      {
+        "bsp": "akutatourney8",
+        "title": "Running Man"
+      }
+    ]
+  },
+  "water001": {
+    "levelId": "2359",
+    "dateStamp": "2017-05-05",
+    "zip": "water001",
+    "sha256": "e83ea8660bfec294cd62bc10bd72d88a2f79f916c3010b5d13d4c212a7e61a3a",
+    "includes": [
+      {
+        "bsp": "water001",
+        "title": "Water001"
+      }
+    ]
+  },
+  "perramses": {
+    "levelId": "2222",
+    "dateStamp": "2017-05-26",
+    "zip": "perramses",
+    "sha256": "2d56dbe005676173b2168ddc1ffe8947ca08a80f78cb7411e4558ec02dce5e72",
+    "includes": [
+      {
+        "bsp": "perramses",
+        "title": "the City of Per-Ramses"
+      }
+    ]
+  },
+  "q3map_lighttower": {
+    "levelId": "2361",
+    "dateStamp": "2017-06-18",
+    "zip": "q3map_lighttower",
+    "sha256": "a46e1d8da4ddb0bbcd6fa36f1ba325f697971e7fc0b9b5fcf3b96b419c52e015",
+    "includes": [
+      {
+        "bsp": "lighttower",
+        "title": "Lighttower by Martinus"
+      },
+      {
+        "bsp": "lighttower_v2",
+        "title": "Lighttower V2 by Martinus"
+      }
+    ]
+  },
+  "q3ctfp22_final": {
+    "levelId": "2365",
+    "dateStamp": "2017-08-29",
+    "zip": "q3ctfp22_final",
+    "sha256": "5e99c4bb1491cf4c8bd188f088d695c00f6ff00a4c624bbb8397371205ca2e0e",
+    "includes": [
+      {
+        "bsp": "q3ctfp22_final",
+        "title": "Server Overload - fKD"
+      }
+    ]
+  },
+  "q3dmp15": {
+    "levelId": "2366",
+    "dateStamp": "2017-08-29",
+    "zip": "q3dmp15",
+    "sha256": "c7c146772f3ec0193c5c5d018d28847935757cb6ae15d4f40a6d8173aaffcb2e",
+    "includes": [
+      {
+        "bsp": "q3dmp15",
+        "title": "electric substation 30"
+      }
+    ]
+  },
+  "sonicboil_by_zarr": {
+    "levelId": "2364",
+    "dateStamp": "2017-08-29",
+    "zip": "sonicboil_by_zarr",
+    "sha256": "59e03e849d4d3c765c9515114a5c2abc5cb61dfb97489611c97806d937e38cf2",
+    "includes": [
+      {
+        "bsp": "sonicboil",
+        "title": "SonicBoil"
+      }
+    ]
+  },
+  "q3oamap_blackh": {
+    "levelId": "2369",
+    "dateStamp": "2017-09-14",
+    "zip": "q3oamap_blackh",
+    "sha256": "e7a7917de478251a7d5e2201243e669ade761114a9d0b6edbf46d98635263bc2",
+    "includes": [
+      {
+        "bsp": "blackh",
+        "title": "BlackHurricane by Martinus"
+      }
+    ]
+  },
+  "moistboilv2": {
+    "levelId": "2363",
+    "dateStamp": "2017-12-12",
+    "zip": "moistboilv2",
+    "sha256": "3636bfe4d585773af6371e43d4efd7ff7a7a314c98f30cae2a4b2b2742c5a434",
+    "includes": [
+      {
+        "bsp": "moistboilv2",
+        "title": "moistboilv2"
+      }
+    ]
+  }
+}

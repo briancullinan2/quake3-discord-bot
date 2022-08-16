@@ -19,25 +19,6 @@
       "2-4 players"
     ]
   },
-  "q3sod2s": {
-    "levelId": "2140",
-    "dateStamp": "2010-01-10",
-    "zip": "q3sod2s",
-    "sha256": "512db515ff452760e9df33717c2a6a541053ea8917f22766e2204608ea1f40ca",
-    "author": "Ney",
-    "extract": "Once again, an Excessive Plus map by Ney. Pretty much a huge tube, with a big column of water in the center. Playing with bots is pretty boring, since all they do is swing around obliviously in the tube, or stay in their base and do nothing. So, if you do",
-    "includes": [
-      {
-        "bsp": "q3sod2s",
-        "title": "Q3SOD2s"
-      }
-    ],
-    "gameMode": [
-      "DM",
-      "Excessive Plus",
-      "2-6 players"
-    ]
-  },
   "tsu-eround": {
     "levelId": "2134",
     "dateStamp": "2010-01-10",
@@ -74,6 +55,25 @@
       "Excessive Plus",
       "Experimental",
       "4-12 players"
+    ]
+  },
+  "q3sod2s": {
+    "levelId": "2140",
+    "dateStamp": "2010-01-10",
+    "zip": "q3sod2s",
+    "sha256": "512db515ff452760e9df33717c2a6a541053ea8917f22766e2204608ea1f40ca",
+    "author": "Ney",
+    "extract": "Once again, an Excessive Plus map by Ney. Pretty much a huge tube, with a big column of water in the center. Playing with bots is pretty boring, since all they do is swing around obliviously in the tube, or stay in their base and do nothing. So, if you do",
+    "includes": [
+      {
+        "bsp": "q3sod2s",
+        "title": "Q3SOD2s"
+      }
+    ],
+    "gameMode": [
+      "DM",
+      "Excessive Plus",
+      "2-6 players"
     ]
   },
   "q3sod2": {
@@ -339,6 +339,25 @@
       "2-6 players"
     ]
   },
+  "ct3tourney1_final": {
+    "levelId": "2115",
+    "dateStamp": "2010-03-23",
+    "zip": "ct3tourney1_final",
+    "sha256": "8053dc9d20fdfc5da60ff48eaaef6a46699bae51453c886f3783614ee41901cc",
+    "author": "cityy",
+    "extract": "What a nice simple, small, clean map cityy has created. It is not an architectural wonder, but the cel shading suits this level of complexity. The name of the map is \"Colors\", and you will get a lot of them. Actually there are 3 basic colors. Blue (3 types",
+    "includes": [
+      {
+        "bsp": "ct3tourney1",
+        "title": "None yet"
+      }
+    ],
+    "gameMode": [
+      "DM",
+      "Tourney",
+      "2-3 players"
+    ]
+  },
   "q3shw25": {
     "levelId": "2095",
     "dateStamp": "2010-03-23",
@@ -359,25 +378,6 @@
       "2-6 players"
     ]
   },
-  "ct3tourney1_final": {
-    "levelId": "2115",
-    "dateStamp": "2010-03-23",
-    "zip": "ct3tourney1_final",
-    "sha256": "8053dc9d20fdfc5da60ff48eaaef6a46699bae51453c886f3783614ee41901cc",
-    "author": "cityy",
-    "extract": "What a nice simple, small, clean map cityy has created. It is not an architectural wonder, but the cel shading suits this level of complexity. The name of the map is \"Colors\", and you will get a lot of them. Actually there are 3 basic colors. Blue (3 types",
-    "includes": [
-      {
-        "bsp": "ct3tourney1",
-        "title": "None yet"
-      }
-    ],
-    "gameMode": [
-      "DM",
-      "Tourney",
-      "2-3 players"
-    ]
-  },
   "lostctf": {
     "levelId": "2101",
     "dateStamp": "2010-03-25",
@@ -396,23 +396,23 @@
       "2-6 players"
     ]
   },
-  "q3map_zastavka": {
-    "levelId": "2089",
+  "cinnamonpoptart": {
+    "levelId": "2094",
     "dateStamp": "2010-03-27",
-    "zip": "q3map_zastavka",
-    "sha256": "a2e51f6df44145dd316a407384fb8d098b8f3dab5259ebfc707e6724a5c9bb7e",
-    "author": "Maxell",
-    "extract": "The map transports the player to a small town in the Czech Republic.  Plenty of detail and ambiance, such as birds chirping and a pay phone ringing, make this an enjoyable place to assemble for battle.  You will almost immediately notice a mysterious UFO h",
+    "zip": "cinnamonpoptart",
+    "sha256": "4a2dcd242fa7733cd7deaa08ff5b562ece59a52b1b7cf933e89956da49a40b80",
+    "author": "Kris Barnes",
+    "extract": "Cinnamonpoptart is based on the idea of \"Poptart\", a map by NaturalSpringWater. Instead of shooting enemies you must find little things like rubbers, rocks, pictures etc. Running around in the author's house and garden the player has to get 92 frags by act",
     "includes": [
       {
-        "bsp": "zastavka",
-        "title": "Obec: Zastavka u Brna"
+        "bsp": "cinnamonpoptart",
+        "title": "Cinnamon Poptart"
       }
     ],
     "gameMode": [
-      "DM",
-      "Team DM",
-      "3-8 players"
+      "Experimental",
+      "Scavenger Hunt",
+      "Single Player"
     ]
   },
   "complexes": {
@@ -442,23 +442,23 @@
       "2-4 players"
     ]
   },
-  "cinnamonpoptart": {
-    "levelId": "2094",
+  "q3map_zastavka": {
+    "levelId": "2089",
     "dateStamp": "2010-03-27",
-    "zip": "cinnamonpoptart",
-    "sha256": "4a2dcd242fa7733cd7deaa08ff5b562ece59a52b1b7cf933e89956da49a40b80",
-    "author": "Kris Barnes",
-    "extract": "Cinnamonpoptart is based on the idea of \"Poptart\", a map by NaturalSpringWater. Instead of shooting enemies you must find little things like rubbers, rocks, pictures etc. Running around in the author's house and garden the player has to get 92 frags by act",
+    "zip": "q3map_zastavka",
+    "sha256": "a2e51f6df44145dd316a407384fb8d098b8f3dab5259ebfc707e6724a5c9bb7e",
+    "author": "Maxell",
+    "extract": "The map transports the player to a small town in the Czech Republic.  Plenty of detail and ambiance, such as birds chirping and a pay phone ringing, make this an enjoyable place to assemble for battle.  You will almost immediately notice a mysterious UFO h",
     "includes": [
       {
-        "bsp": "cinnamonpoptart",
-        "title": "Cinnamon Poptart"
+        "bsp": "zastavka",
+        "title": "Obec: Zastavka u Brna"
       }
     ],
     "gameMode": [
-      "Experimental",
-      "Scavenger Hunt",
-      "Single Player"
+      "DM",
+      "Team DM",
+      "3-8 players"
     ]
   },
   "suriel": {
@@ -486,7 +486,7 @@
     "dateStamp": "2010-04-16",
     "zip": "mrksrbrt3dm1",
     "sha256": "e088f94a8841308006d46140e31c21c68a28b9cbb42597cb930937a13a773000",
-    "author": "mrks and rbrt",
+    "author": "mrks & rbrt",
     "extract": "This map is was contribution of the 2009 Noghost Mapping Competition. Beside the 3 first places by StormShadow, Phantazm11 and Sock, this map ranked among the top. Its the first and only map of both authors mrks and rbrt I could find so far. And first of a",
     "includes": [
       {
@@ -537,26 +537,6 @@
       "6-10 players"
     ]
   },
-  "map-13dawn": {
-    "levelId": "2103",
-    "dateStamp": "2010-04-29",
-    "zip": "map-13dawn",
-    "sha256": "4aec3f932b962021cef935a563275074ac352609d433e66730580d25c161b735",
-    "author": "sst13",
-    "extract": "A very nice DM map with some cool eye candy, in that typical gothic style that id Software used in the default maps so many times. The author, sst13 managed to upgrade this style with some very well done architecture and texturing. The centerpiece is obvio",
-    "includes": [
-      {
-        "bsp": "13dawn",
-        "title": "Gothic Dawn (by sst13)"
-      }
-    ],
-    "gameMode": [
-      "DM",
-      "Team DM",
-      "Tourney",
-      "2-6 players"
-    ]
-  },
   "map-13camp": {
     "levelId": "2114",
     "dateStamp": "2010-04-29",
@@ -575,6 +555,26 @@
       "DM",
       "Team DM",
       "4-8 players"
+    ]
+  },
+  "map-13dawn": {
+    "levelId": "2103",
+    "dateStamp": "2010-04-29",
+    "zip": "map-13dawn",
+    "sha256": "4aec3f932b962021cef935a563275074ac352609d433e66730580d25c161b735",
+    "author": "sst13",
+    "extract": "A very nice DM map with some cool eye candy, in that typical gothic style that id Software used in the default maps so many times. The author, sst13 managed to upgrade this style with some very well done architecture and texturing. The centerpiece is obvio",
+    "includes": [
+      {
+        "bsp": "13dawn",
+        "title": "Gothic Dawn (by sst13)"
+      }
+    ],
+    "gameMode": [
+      "DM",
+      "Team DM",
+      "Tourney",
+      "2-6 players"
     ]
   },
   "map-13octo": {
@@ -1025,7 +1025,7 @@
     "dateStamp": "2010-10-29",
     "zip": "gobl_tourney1",
     "sha256": "a4ffd509c5d3a7bf58941bc275348648b586c8982d470bb8769861162b5a0f29",
-    "author": "Bliccer and g0th",
+    "author": "Bliccer & g0th",
     "extract": "Gobl_tourney1 was a submission in the Summer 2010 NoGhost Mapping Competition where it received seventh place.  While one may think seventh place is a bit unspectacular, one may think otherwise after seeing this map.  This was the only collaboration m",
     "includes": [
       {
@@ -1066,7 +1066,7 @@
     "zip": "jstrq3dm1",
     "sha256": "511dc54464c58827a4caa0150af67aa9033a2b0331cac4f79aa3628e4abbccbe",
     "author": "Jester",
-    "extract": "Named after the classic late-medieval allegory, Danse Macabre is a map that is built for the furious action of tourney gameplay, though is also playable in small FFAs of 3 players. For a first map, it delivers superb visuals and gameplay, and h",
+    "extract": "Named after the classic late-medieval allegory, Danse Macabre is a map that is built for the furious action of tourney gameplay, though is also playable in small FFAs of 3 players. For a first map, it delivers superb visuals and gamepl",
     "includes": [
       {
         "bsp": "jstrq3dm1",

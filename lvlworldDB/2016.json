@@ -18,6 +18,44 @@
       "2-6 players"
     ]
   },
+  "dm-dogmeat-dt": {
+    "levelId": "2335",
+    "dateStamp": "2016-01-04",
+    "zip": "dm-dogmeat-dt",
+    "sha256": "c7d87a2b2f8c04754a98a8057472fb66eb9a416371643ea51ae60d2437532462",
+    "author": "Hot[DOG]",
+    "extract": "There's not really too much to be said here. This map was originally released in 2003 and is one of those humongous maps that gained popularity at LAN parties in Quake 3 Arena's heydays. Because of this, it is pretty simple and uniform in its texturing. Th",
+    "includes": [
+      {
+        "bsp": "DM-Dogmeat-DT",
+        "title": "Another Hot[Dog] Custom... Enjoy"
+      }
+    ],
+    "gameMode": [
+      "DM",
+      "Team DM",
+      "6-16 players"
+    ]
+  },
+  "hotdog2": {
+    "levelId": "2331",
+    "dateStamp": "2016-01-04",
+    "zip": "hotdog2",
+    "sha256": "023a5bd6f9972c2481a29017a8408a292c84c9e2c83556fc9a4867b96c0177a2",
+    "author": "Hot[DOG]",
+    "extract": "A bland Clan Map complete with awkwardly monotone stone block architecture, lava trim, colored lights lacking sources and pictures of random people and dogs. According to the date on the files inside the .zip this map was created in 2003, which would mean ",
+    "includes": [
+      {
+        "bsp": "hotdog2",
+        "title": "Welcome to the [Dog] Pound"
+      }
+    ],
+    "gameMode": [
+      "Clan Arena",
+      "DM",
+      "4-12 players"
+    ]
+  },
   "q3map_forttown": {
     "levelId": "2330",
     "dateStamp": "2016-01-04",
@@ -40,44 +78,6 @@
       "DM",
       "Team DM",
       "4-10 players"
-    ]
-  },
-  "hotdog2": {
-    "levelId": "2331",
-    "dateStamp": "2016-01-04",
-    "zip": "hotdog2",
-    "sha256": "023a5bd6f9972c2481a29017a8408a292c84c9e2c83556fc9a4867b96c0177a2",
-    "author": "Hot[DOG]",
-    "extract": "A bland Clan Map complete with awkwardly monotone stone block architecture, lava trim, colored lights lacking sources and pictures of random people and dogs. According to the date on the files inside the .zip this map was created in 2003, which would mean ",
-    "includes": [
-      {
-        "bsp": "hotdog2",
-        "title": "Welcome to the [Dog] Pound"
-      }
-    ],
-    "gameMode": [
-      "Clan Arena",
-      "DM",
-      "4-12 players"
-    ]
-  },
-  "dm-dogmeat-dt": {
-    "levelId": "2335",
-    "dateStamp": "2016-01-04",
-    "zip": "dm-dogmeat-dt",
-    "sha256": "c7d87a2b2f8c04754a98a8057472fb66eb9a416371643ea51ae60d2437532462",
-    "author": "Hot[DOG]",
-    "extract": "There's not really too much to be said here. This map was originally released in 2003 and is one of those humongous maps that gained popularity at LAN parties in Quake 3 Arena's heydays. Because of this, it is pretty simple and uniform in its texturing. Th",
-    "includes": [
-      {
-        "bsp": "DM-Dogmeat-DT",
-        "title": "Another Hot[Dog] Custom... Enjoy"
-      }
-    ],
-    "gameMode": [
-      "DM",
-      "Team DM",
-      "6-16 players"
     ]
   },
   "fx-techdamn": {
@@ -200,7 +200,7 @@
     "dateStamp": "2016-05-10",
     "zip": "q3ultradm13",
     "sha256": "150267996bc193431331b242ef940bc82c636144d651801dad0dcb86ef614b4c",
-    "author": "NEY",
+    "author": "Ney",
     "extract": "Grab Lost World (q3dm13), duplicate it and rotate the second map around the large central pillar. Place some CTF flags and this is what you have. Being a fan of the original map, I was a little excited at first to see how it would play. Sadly, a 3 vs 3 mat",
     "includes": [
       {

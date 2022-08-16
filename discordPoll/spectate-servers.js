@@ -20,6 +20,10 @@ var subInterval = setInterval(subscribeUpdates, 100)
 function subscribeUpdates() {
   var now = Date.now()
   for(var i = 0; i < servers.length; i++) {
+    if(!servers[i]) {
+      continue
+    }
+
     Promise.resolve(sendSequence(servers[i].ip, servers[i].port, servers[i].channel))
     if(now - servers[i].lastScore > SCORE_FREQUENCY) {
       Promise.resolve(sendReliable(servers[i].ip, servers[i].port, 'score'))
@@ -36,7 +40,6 @@ function subscribeUpdates() {
         servers[i].threadName,
         servers[i].discordChannel, servers[i])
       servers[i].previousCommandNum = servers[i].channel.commandSequence
-      servers[i].lastCommand = now
     }
     if(now - servers[i].lastRelay > RELAY_FREQUENCY) {
       Promise.resolve(relayChat(servers[i].threadName, servers[i].discordChannel, servers[i]))
@@ -106,6 +109,7 @@ async function spectateServer(address = 'localhost', port = 27960) {
   await sendReliable(address, port, 'team s')
   await nextResponse('svc_snapshot', address, port, true /* isChannel */)
 
+  server.lastCommand = Date.now()
   server.threadName = getThreadName(server)
   server.discordChannel = await getServerChannel(server)
   server.lastScore 

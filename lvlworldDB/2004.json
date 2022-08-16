@@ -910,7 +910,7 @@
     "dateStamp": "2004-07-16",
     "zip": "aodm3",
     "sha256": "6bbbaf452438c606a3dc9513b52c7183c957c51aca8821adb87afa32508900d6",
-    "author": "Agent Orange",
+    "author": "Q",
     "extract": "A very dark space map which requires similar skills to pin the tail on the donkey. Anything you hit is pure coincidence.  Low ledges around the platforms makes it even easier to fall off in the dark. Further enhanced by an overly elaborate pinball bounce c",
     "includes": [
       {
@@ -1198,8 +1198,8 @@
     "dateStamp": "2004-07-16",
     "zip": "asb_dm1",
     "sha256": "5ec0901da55d5c422c73ef0a1ba08498737a5cdb919ee61452a8e01530d0c4ec",
-    "author": "Arshish",
-    "extract": "The author's debut release and it shows. Texturing is decent but item placement and layout dont make for much game play. LvL has some restrictions for submitted maps. This one is only just eligible because it isn't a fullbright box - it's a fullbright box",
+    "author": "arshishb",
+    "extract": "The author's debut release and it shows. Texturing is decent but item placement and layout do not make for much game play. ..::LvL has some restrictions for submitted maps. This one is only just eligible because it is not a fullbright box - it is a fullbri",
     "includes": [
       {
         "bsp": "asb_dm1",
@@ -1685,7 +1685,7 @@
     "zip": "bap3dm2",
     "sha256": "9857aaf38fe0328262035c6bf2e7565fdcbdd1f60d659b6b9bc5bacd9fb57551",
     "author": "Shallow[BAP]",
-    "extract": "This arena is built with many new textures and the lighting is great, particularly around the Lightning Gun area. The connectivity is very good although there needs to be another path to the Quad. There is a frame based jump that leads to the  Grenade Laun",
+    "extract": "This arena is built with many new textures and the lighting is great, particularly around the Lightning Gun area. The connectivity is very good although there needs to be another path to the Quad. There is a frame based jump that leads to the Grenade Launc",
     "includes": [
       {
         "bsp": "bap3dm2",
@@ -1721,8 +1721,8 @@
     "dateStamp": "2004-07-16",
     "zip": "basicinstincts",
     "sha256": "72480ce2dfaac84d21b6948886210ceefe01f1a5d0917f91769b5ca3bd422e51",
-    "author": "Jon Skinner",
-    "extract": "Fast layout with decent game flow and well sized areas for intense encounters. Its a simple gothic stone and steel theme with a few minor texturing issues. Connections from section to section are pretty good with the teleports helping to speed it all up. Y",
+    "author": "QPsiren",
+    "extract": "Fast layout with decent game flow and well sized areas for intense encounters. It is a simple Gothic stone and steel theme with a few minor texturing issues. Connections from section to section are pretty good with the teleports helping to speed it all up.",
     "includes": [
       {
         "bsp": "basic",

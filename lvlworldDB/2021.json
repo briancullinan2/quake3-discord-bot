@@ -1,18 +1,22 @@
 {
-  "map-13circle_xt": {
-    "levelId": null,
+  "map-13yard_xt": {
+    "levelId": "2445",
     "dateStamp": "2021-01-15",
-    "zip": "map-13circle_xt",
-    "sha256": "f6782b94778add0d2ca9a6ff058899780f9bea942265dbe2ee570f68e5c24f9b",
-    "author": null,
-    "extract": null,
+    "zip": "map-13yard_xt",
+    "sha256": "c8f69807daa7bc718e119a1b1c368dec7ce768a6edaa49b55575fa46e74689b7",
+    "author": "sst13",
+    "extract": "sst13 continues to improve existing maps with The Lost Yard - Extended. This time, not only is it a remake of The Longest Yard (q3dm17), this release is also an extended version of the authors previous remake of the same map, The Lost Ya",
     "includes": [
       {
-        "bsp": "13circle_xt",
-        "title": "Circle Of Death - Extended (by sst13)"
+        "bsp": "13yard_xt",
+        "title": "Lost Yard - Extended (by sst13)"
       }
     ],
-    "gameMode": []
+    "gameMode": [
+      "DM",
+      "Tourney",
+      "2-5 players"
+    ]
   },
   "map-13house": {
     "levelId": "2433",
@@ -33,79 +37,23 @@
       "4-8 players"
     ]
   },
-  "map-13yard_xt": {
-    "levelId": "2445",
+  "map-13circle_xt": {
+    "levelId": "2462",
     "dateStamp": "2021-01-15",
-    "zip": "map-13yard_xt",
-    "sha256": "c8f69807daa7bc718e119a1b1c368dec7ce768a6edaa49b55575fa46e74689b7",
+    "zip": "map-13circle_xt",
+    "sha256": "f6782b94778add0d2ca9a6ff058899780f9bea942265dbe2ee570f68e5c24f9b",
     "author": "sst13",
-    "extract": "sst13 continues to improve existing maps with The Lost Yard - Extended. This time, not only is it a remake of The Longest Yard (q3dm17), this release is also an extended version of the authors previous remake of the same map, The Lost Ya",
+    "extract": "This map is an extended version of the Circle of Death map, reviewed earlier by cityy. His review does a great job of describing this map so I suggest you read that first. cityy's review mentions the problem with th",
     "includes": [
       {
-        "bsp": "13yard_xt",
-        "title": "Lost Yard - Extended (by sst13)"
+        "bsp": "13circle_xt",
+        "title": "Circle Of Death - Extended (by sst13)"
       }
     ],
     "gameMode": [
-      "DM",
-      "Tourney",
-      "2-5 players"
-    ]
-  },
-  "agony": {
-    "levelId": "1556",
-    "dateStamp": "2021-01-25",
-    "zip": "agony",
-    "sha256": "bf07a1ff7ef6db525844227bf15d386006ac716a88af9492b8249fa8cc1af67e",
-    "author": "Boffo",
-    "extract": "The author says in his readme, The map is a conversion of Agony from Nintendo 64's Quake 2. I immediately assume the graphics would not be pretty and lighting would be gaudy colored, to show off what was once the great Quake",
-    "includes": [
-      {
-        "bsp": "agony",
-        "title": "Agony by Boffo"
-      }
-    ],
-    "gameMode": [
-      "DM",
-      "Tourney",
-      "2-3 players"
-    ]
-  },
-  "arena": {
-    "levelId": "285",
-    "dateStamp": "2021-01-25",
-    "zip": "arena",
-    "sha256": "c3d2bfbcd8c1c0009e139a914bf93811379f19683f74f254a87c75e8204aa9ac",
-    "author": "Zero",
-    "extract": "The elaborate layout, detailing and shear size of this master piece of Q3A level design will really challenge both your hardware and your skills ... not. This is the level that dares to ask the question, when is a box not a box.. When its a bone.",
-    "includes": [
-      {
-        "bsp": "arena",
-        "title": "arena"
-      }
-    ],
-    "gameMode": [
-      "Tourney",
-      "2 players"
-    ]
-  },
-  "arena110": {
-    "levelId": "1053",
-    "dateStamp": "2021-01-25",
-    "zip": "arena110",
-    "sha256": "89dff9454f9b50b150fb7f99f5f3794f8b37cb069678a21a28b54e7010b694c3",
-    "author": "Anwulf",
-    "extract": "A Railgun only arena, presented exclusively for tourney play. The physical  design of the map is an elegant take on neo-classical architecture ( that's  Greek- and Roman-influenced for those who don't know ) and contains a large  amount of attractive detai",
-    "includes": [
-      {
-        "bsp": "arena110",
-        "title": "subtilis et simplex"
-      }
-    ],
-    "gameMode": [
-      "DM",
-      "Tourney",
-      "2-3 players"
+      "CTF",
+      "Team Arena",
+      "6-10 players"
     ]
   },
   "at": {
@@ -261,7 +209,7 @@
     "dateStamp": "2021-01-25",
     "zip": "center",
     "sha256": "6306b2377bb57a481b59b4d53135eeddfc711549c2bdaa658b4e42b2c06f3501",
-    "author": "maxxus",
+    "author": "KRIS",
     "extract": "A tech themed box map with tight walkways. The game play is fun for a while but it soon becomes repetitive and predictable. Much like the constant bipping sounds. The tightness of the upper level is really irritating, its just way too restrictive. It almos",
     "includes": [
       {
@@ -408,6 +356,25 @@
       "Floater",
       "Tourney",
       "2-6 players"
+    ]
+  },
+  "zq3dm4": {
+    "levelId": "35",
+    "dateStamp": "2021-01-25",
+    "zip": "zq3dm4",
+    "sha256": "562aa721798938472f7c18795c2895904dd2284146a5d65269aa1b0442618156",
+    "author": "ZeroSecond",
+    "extract": "I was unsure about reviewing this map as the author has used a dodgy map building technique of placing the map within a box (so that the compile tools work correctly). This has made what should have been a super fast map a bit laggy in parts :[ However its",
+    "includes": [
+      {
+        "bsp": "zq3dm4",
+        "title": "The Bad Place by ZeroSecond"
+      }
+    ],
+    "gameMode": [
+      "DM",
+      "Tourney",
+      "2-4 players"
     ]
   },
   "dm3dm17": {
@@ -559,7 +526,7 @@
     "dateStamp": "2021-01-25",
     "zip": "fortress",
     "sha256": "7755a8da45b976a7767d7b1f136ee7568e3e446ad84056e936b486d49a275776",
-    "author": "maxxus",
+    "author": "KRIS",
     "extract": "A small space map with an asteroid belt sky. The layout is primarily a platform, hovering in space, with a small ledge above and below. The propellers are very cool and the ambient sounds are spot on. A problem with the skybox is that the mapper has not us",
     "includes": [
       {
@@ -765,6 +732,62 @@
       "2-4 players"
     ]
   },
+  "arena110": {
+    "levelId": "1053",
+    "dateStamp": "2021-01-25",
+    "zip": "arena110",
+    "sha256": "89dff9454f9b50b150fb7f99f5f3794f8b37cb069678a21a28b54e7010b694c3",
+    "author": "Anwulf",
+    "extract": "A Railgun only arena, presented exclusively for tourney play. The physical  design of the map is an elegant take on neo-classical architecture ( that's  Greek- and Roman-influenced for those who don't know ) and contains a large  amount of attractive detai",
+    "includes": [
+      {
+        "bsp": "arena110",
+        "title": "subtilis et simplex"
+      }
+    ],
+    "gameMode": [
+      "DM",
+      "Tourney",
+      "2-3 players"
+    ]
+  },
+  "arena": {
+    "levelId": "285",
+    "dateStamp": "2021-01-25",
+    "zip": "arena",
+    "sha256": "c3d2bfbcd8c1c0009e139a914bf93811379f19683f74f254a87c75e8204aa9ac",
+    "author": "Zero",
+    "extract": "The elaborate layout, detailing and shear size of this master piece of Q3A level design will really challenge both your hardware and your skills ... not. This is the level that dares to ask the question, when is a box not a box.. When its a bone.",
+    "includes": [
+      {
+        "bsp": "arena",
+        "title": "arena"
+      }
+    ],
+    "gameMode": [
+      "Tourney",
+      "2 players"
+    ]
+  },
+  "agony": {
+    "levelId": "1556",
+    "dateStamp": "2021-01-25",
+    "zip": "agony",
+    "sha256": "bf07a1ff7ef6db525844227bf15d386006ac716a88af9492b8249fa8cc1af67e",
+    "author": "Boffo",
+    "extract": "The author says in his readme, The map is a conversion of Agony from Nintendo 64's Quake 2. I immediately assume the graphics would not be pretty and lighting would be gaudy colored, to show off what was once the great Quake",
+    "includes": [
+      {
+        "bsp": "agony",
+        "title": "Agony by Boffo"
+      }
+    ],
+    "gameMode": [
+      "DM",
+      "Tourney",
+      "2-3 players"
+    ]
+  },
   "marsv1": {
     "levelId": "1056",
     "dateStamp": "2021-01-25",
@@ -898,6 +921,25 @@
       "CPM",
       "Team DM",
       "4-8 players"
+    ]
+  },
+  "vq2dm1": {
+    "levelId": "2294",
+    "dateStamp": "2021-01-25",
+    "zip": "vq2dm1",
+    "sha256": "32bbd1304e7e7717abce89471c27b2d335bfe5136d4097092d1b73c41689a409",
+    "author": "V1979",
+    "extract": "A pure conversion of The Edge (q2dm1). As stated in the readme.txt. And I have to agree this is as close as you get with a conversion tool as q2toq3a. V1979 did not simply run the tool and left it at that. No, the leaks are fixed, textures replaced with be",
+    "includes": [
+      {
+        "bsp": "vq2dm1",
+        "title": "The Edge"
+      }
+    ],
+    "gameMode": [
+      "DM",
+      "Tourney",
+      "2-6 players"
     ]
   },
   "ordm1": {
@@ -1069,6 +1111,43 @@
       "3-8 players"
     ]
   },
+  "utopia": {
+    "levelId": "1343",
+    "dateStamp": "2021-01-25",
+    "zip": "utopia",
+    "sha256": "79e5c0eca08171b3dd2d37294fc1ff1cf32c9e10fe32387b92f2087ffae48188",
+    "author": "Anton",
+    "extract": "This map is a boxmap, and a really bad boxmap at that. There are good boxmaps, check out Whitemeat from the Meatpak for example.  Alas, there is nothing fun in this one.  The map consists of a big square high walled courtyard with ledges that run all aroun",
+    "includes": [
+      {
+        "bsp": "utopia",
+        "title": "Utopia"
+      }
+    ],
+    "gameMode": [
+      "DM",
+      "3-6 players"
+    ]
+  },
+  "towers": {
+    "levelId": "1329",
+    "dateStamp": "2021-01-25",
+    "zip": "towers",
+    "sha256": "3bc98e152f543b37299409dc5edf679b9df093827687a3ade4032b57d0f0f701",
+    "author": "Anton",
+    "extract": "The author's first Q3A map shows two multi-leveled towers put in a large open area. At the different levels of each tower, you find different weapons, including the railgun, the grenade launcher, and the grappling hook. Via teleport, you reach the quad on ",
+    "includes": [
+      {
+        "bsp": "towers",
+        "title": "towers of death"
+      }
+    ],
+    "gameMode": [
+      "DM",
+      "Tourney",
+      "2-3 players"
+    ]
+  },
   "q3_prison": {
     "levelId": "927",
     "dateStamp": "2021-01-25",
@@ -1129,8 +1208,8 @@
     "dateStamp": "2021-01-25",
     "zip": "q3_race",
     "sha256": "c7044118e4a6c61fe8523c98e98c379ebb2e9a068edc18738a94224cf299f51d",
-    "author": "chris",
-    "extract": "An experimental map that is probably best suited to the QuakeRally mod. The layout is a figure 8 race track in space, players run around the track picking up weapons and power-ups. A 3 player DM game is surprisingly fun for a few rounds but the game play g",
+    "author": "Chris.",
+    "extract": "An experimental map that is probably best suited to the Q3Rally mod. The layout is a figure 8 race track in space, players run around the track picking up weapons and power-ups. A 3 player DM game is surprisingly fun for a few rounds but the game play gets",
     "includes": [
       {
         "bsp": "q3_race",
@@ -1498,6 +1577,75 @@
       "2-5 players"
     ]
   },
+  "tm1": {
+    "levelId": "1152",
+    "dateStamp": "2021-01-25",
+    "zip": "tm1",
+    "sha256": "ee66601c699454160aed2ca78da694f97a99e937fed7c39ac90b9ff7e3041f37",
+    "author": "Various",
+    "extract": "An eclectic collection of 13 maps by a variety of authors, each created within a strict time limit of 1 week! Yikes. The authors : Akuma, Ad5, Amphetamine, AsNagrim, Quakeulf (aka Hrewty), Jher, Julian 'Juz' Priestley, Monsto Brukes, Mr (Michael Cuneo), My",
+    "includes": [
+      {
+        "bsp": "tm1_ad5",
+        "title": "Fates Angel"
+      },
+      {
+        "bsp": "tm1_akuma",
+        "title": "Vertical Gimmick"
+      },
+      {
+        "bsp": "tm1_amphetamine",
+        "title": "The Last Strogg Base"
+      },
+      {
+        "bsp": "tm1_asnagrim",
+        "title": "tm1_asnagrim"
+      },
+      {
+        "bsp": "tm1_hrewty",
+        "title": "unpretty"
+      },
+      {
+        "bsp": "tm1_jher",
+        "title": "Clockwork Rush"
+      },
+      {
+        "bsp": "tm1_juz",
+        "title": "Fistagon by Juz"
+      },
+      {
+        "bsp": "tm1_monsto",
+        "title": "tm1_monsto"
+      },
+      {
+        "bsp": "tm1_mr",
+        "title": "Vertisan : Turtlemap 1, 2001"
+      },
+      {
+        "bsp": "tm1_myth",
+        "title": "GOLGAFRINCHAM - by Myth"
+      },
+      {
+        "bsp": "tm1_rayden",
+        "title": "So close, yet so far"
+      },
+      {
+        "bsp": "tm1_systemkrash",
+        "title": "Roast Turtle"
+      },
+      {
+        "bsp": "tm1_watt",
+        "title": "^4Base^0"
+      }
+    ],
+    "gameMode": [
+      "CTF",
+      "DM",
+      "Map pack",
+      "Tourney",
+      "2-10 players"
+    ]
+  },
   "rev1": {
     "levelId": "2339",
     "dateStamp": "2021-01-25",
@@ -1524,8 +1672,8 @@
     "dateStamp": "2021-01-25",
     "zip": "rq3dm1",
     "sha256": "992046d28abd28fc5d563a1337b3c27b062017695648bfb7617ef5e46d1b5ee2",
-    "author": "RainmanTD",
-    "extract": "An enjoyable Tourney/FFA level with a symmetrical layout. The simple gothic architecture and texturing is used consistently and works well. Connectivity is good and so is the game flow. Items are located sensibly for Tourney games and are also good for FFA",
+    "author": "McBugzz",
+    "extract": "An enjoyable Tourney and FFA level with a symmetrical layout. The simple Gothic architecture and texturing is used consistently and works well. Connectivity is good and so is the game flow. Items are located sensibly for Tourney games and are also well pos",
     "includes": [
       {
         "bsp": "rq3dm1",
@@ -1538,12 +1686,30 @@
       "2-4 players"
     ]
   },
+  "temple": {
+    "levelId": "685",
+    "dateStamp": "2021-01-25",
+    "zip": "temple",
+    "sha256": "02a627d036334c61eef158c4939d3e13c421dc6df3d1668d610d052a125bae72",
+    "author": "KRIS",
+    "extract": "A small, symmetrical arena that is more like a small RA3 arena than anything. The weapons are Machine Gun, Shotgun, Grenade and Lighting, with a teamed entity in the center that is either Yellow Armour, Red Armour or a Mega health. The map feels like a pra",
+    "includes": [
+      {
+        "bsp": "temple",
+        "title": "the forbidden temple"
+      }
+    ],
+    "gameMode": [
+      "Tourney",
+      "2 players"
+    ]
+  },
   "s": {
     "levelId": "101",
     "dateStamp": "2021-01-25",
     "zip": "s",
     "sha256": "559038825d1aa63eb92bbf50358891cc96b41dbf43787e909bd429c6e0cf4b7a",
-    "author": "dd sCrEAm",
+    "author": "dd SCREAM",
     "extract": "What can only be described as a bad conversion of SinCity (I think that's what the level is called) from SiN. I really don't know what people see in it. The gameplay, physics, and weapons are so different in Q3A to SiN. You have to be a converted map colle",
     "includes": [
       {
@@ -1689,168 +1855,6 @@
       "2 players"
     ]
   },
-  "temple": {
-    "levelId": "685",
-    "dateStamp": "2021-01-25",
-    "zip": "temple",
-    "sha256": "02a627d036334c61eef158c4939d3e13c421dc6df3d1668d610d052a125bae72",
-    "author": "maxxus",
-    "extract": "A small, symmetrical arena that is more like a small RA3 arena than anything. The weapons are Machine Gun, Shotgun, Grenade and Lighting, with a teamed entity in the center that is either Yellow Armour, Red Armour or a Mega health. The map feels like a pra",
-    "includes": [
-      {
-        "bsp": "temple",
-        "title": "the forbidden temple"
-      }
-    ],
-    "gameMode": [
-      "Tourney",
-      "2 players"
-    ]
-  },
-  "tm1": {
-    "levelId": "1152",
-    "dateStamp": "2021-01-25",
-    "zip": "tm1",
-    "sha256": "ee66601c699454160aed2ca78da694f97a99e937fed7c39ac90b9ff7e3041f37",
-    "author": "Various",
-    "extract": "An eclectic collection of 13 maps by a variety of authors, each created within a strict time limit of 1 week! Yikes.  The authors : Akuma, Ad5, Amphetamine, AsNagrim, Quakeulf (aka Hrewty), Jher, Julian 'Juz' Priestley, Monsto Brukes, Mr (Michael Cuneo), M",
-    "includes": [
-      {
-        "bsp": "tm1_ad5",
-        "title": "Fates Angel"
-      },
-      {
-        "bsp": "tm1_akuma",
-        "title": "Vertical Gimmick"
-      },
-      {
-        "bsp": "tm1_amphetamine",
-        "title": "The Last Strogg Base"
-      },
-      {
-        "bsp": "tm1_asnagrim",
-        "title": "tm1_asnagrim"
-      },
-      {
-        "bsp": "tm1_hrewty",
-        "title": "unpretty"
-      },
-      {
-        "bsp": "tm1_jher",
-        "title": "Clockwork Rush"
-      },
-      {
-        "bsp": "tm1_juz",
-        "title": "Fistagon by Juz"
-      },
-      {
-        "bsp": "tm1_monsto",
-        "title": "tm1_monsto"
-      },
-      {
-        "bsp": "tm1_mr",
-        "title": "Vertisan : Turtlemap 1, 2001"
-      },
-      {
-        "bsp": "tm1_myth",
-        "title": "GOLGAFRINCHAM - by Myth"
-      },
-      {
-        "bsp": "tm1_rayden",
-        "title": "So close, yet so far"
-      },
-      {
-        "bsp": "tm1_systemkrash",
-        "title": "Roast Turtle"
-      },
-      {
-        "bsp": "tm1_watt",
-        "title": "^4Base^0"
-      }
-    ],
-    "gameMode": [
-      "CTF",
-      "DM",
-      "Map pack",
-      "Tourney",
-      "2-10 players"
-    ]
-  },
-  "towers": {
-    "levelId": "1329",
-    "dateStamp": "2021-01-25",
-    "zip": "towers",
-    "sha256": "3bc98e152f543b37299409dc5edf679b9df093827687a3ade4032b57d0f0f701",
-    "author": "Anton",
-    "extract": "The author's first Q3A map shows two multi-leveled towers put in a large open area. At the different levels of each tower, you find different weapons, including the railgun, the grenade launcher, and the grappling hook. Via teleport, you reach the quad on ",
-    "includes": [
-      {
-        "bsp": "towers",
-        "title": "towers of death"
-      }
-    ],
-    "gameMode": [
-      "DM",
-      "Tourney",
-      "2-3 players"
-    ]
-  },
-  "utopia": {
-    "levelId": "1343",
-    "dateStamp": "2021-01-25",
-    "zip": "utopia",
-    "sha256": "79e5c0eca08171b3dd2d37294fc1ff1cf32c9e10fe32387b92f2087ffae48188",
-    "author": "Anton",
-    "extract": "This map is a boxmap, and a really bad boxmap at that. There are good boxmaps, check out Whitemeat from the Meatpak for example.  Alas, there is nothing fun in this one.  The map consists of a big square high walled courtyard with ledges that run all aroun",
-    "includes": [
-      {
-        "bsp": "utopia",
-        "title": "Utopia"
-      }
-    ],
-    "gameMode": [
-      "DM",
-      "3-6 players"
-    ]
-  },
-  "vq2dm1": {
-    "levelId": "2294",
-    "dateStamp": "2021-01-25",
-    "zip": "vq2dm1",
-    "sha256": "32bbd1304e7e7717abce89471c27b2d335bfe5136d4097092d1b73c41689a409",
-    "author": "V1979",
-    "extract": "A pure conversion of The Edge (q2dm1). As stated in the readme.txt. And I have to agree this is as close as you get with a conversion tool as q2toq3a. V1979 did not simply run the tool and left it at that. No, the leaks are fixed, textures replaced with be",
-    "includes": [
-      {
-        "bsp": "vq2dm1",
-        "title": "The Edge"
-      }
-    ],
-    "gameMode": [
-      "DM",
-      "Tourney",
-      "2-6 players"
-    ]
-  },
-  "zq3dm4": {
-    "levelId": "35",
-    "dateStamp": "2021-01-25",
-    "zip": "zq3dm4",
-    "sha256": "562aa721798938472f7c18795c2895904dd2284146a5d65269aa1b0442618156",
-    "author": "ZeroSecond",
-    "extract": "I was unsure about reviewing this map as the author has used a dodgy map building technique of placing the map within a box (so that the compile tools work correctly). This has made what should have been a super fast map a bit laggy in parts :[ However its",
-    "includes": [
-      {
-        "bsp": "zq3dm4",
-        "title": "The Bad Place by ZeroSecond"
-      }
-    ],
-    "gameMode": [
-      "DM",
-      "Tourney",
-      "2-4 players"
-    ]
-  },
   "deepspace1": {
     "levelId": "987",
     "dateStamp": "2021-04-17",
@@ -1871,61 +1875,27 @@
       "2-4 players"
     ]
   },
-  "ondadm1": {
-    "levelId": "537",
+  "ruutq3dm8": {
+    "levelId": "48",
     "dateStamp": "2021-04-18",
-    "zip": "ondadm1",
-    "sha256": "c5764fe8f9f9172e53e560f466b4194ffe2873deacfb914ee5c80a17b04a8613",
-    "author": "ONDA",
-    "extract": "A damn fine space rail arena, there's plenty of room to move around, and good connectivity between the platforms but it will be a little laggy on lower end set-ups. You do not respawn with a Railgun, but there are plenty around, as well as health and other",
+    "zip": "ruutq3dm8",
+    "sha256": "92396992e13aa49247a5ccc9cf7ec8a797e9c880deacef8625dd4d6115769334",
+    "author": "G.C.",
+    "extract": "An ok space map, personally I found it a bit on the blocky side. By which I mean it could have been refined a bit more. I hate items being placed in really dumb locations which require really convoluted access paths - they just don't seem to ever work. The",
     "includes": [
       {
-        "bsp": "ondadm1",
-        "title": "ONDADM1"
+        "bsp": "ruutq3dm8",
+        "title": "A Night at the Fragsbury - By: RuuT"
+      },
+      {
+        "bsp": "ruuttourney1",
+        "title": "A Night at the Fragsbury - By: RuuT"
       }
     ],
     "gameMode": [
+      "DM",
       "Floater",
-      "Rail Arena",
-      "2-4 players"
-    ]
-  },
-  "q3q1dm1": {
-    "levelId": "113",
-    "dateStamp": "2021-04-18",
-    "zip": "q3q1dm1",
-    "sha256": "b305717fd8e6a0b06f8b02463544e2838a15a1e44d36f0e2638aef904f9a4284",
-    "author": "Mike Zuber",
-    "extract": "It is hard to review a map like this. The original (by Tim Willits, id Software) was kind of hated for not including a rocketlaucher or lighting gun in it. However, it was a good, solidly designed map. This Q3A conversion has been made from the original re",
-    "includes": [
-      {
-        "bsp": "q3q1dm1",
-        "title": "Place of Two Deaths"
-      }
-    ],
-    "gameMode": [
-      "DM",
-      "Tourney",
-      "2-4 players"
-    ]
-  },
-  "q3q1dm2": {
-    "levelId": "117",
-    "dateStamp": "2021-04-18",
-    "zip": "q3q1dm2",
-    "sha256": "a56f0684dba5ed1d4c65aa29d5a5a1fc36af98e17ef3d9b6f422934e0443c994",
-    "author": "Mike Zuber",
-    "extract": "The quake classic (by American McGee for idsoftware) has been rebuilt again. A number of textures, and a few other structure changed in this build. The lava jump to RA and 100h is a snap, the around the couner jump still can not be done and the YA trap pus",
-    "includes": [
-      {
-        "bsp": "q3q1dm2",
-        "title": "Claustrophobopolis"
-      }
-    ],
-    "gameMode": [
-      "DM",
-      "Tourney",
-      "2-8 players"
+      "3-6 players"
     ]
   },
   "reine10": {
@@ -1951,27 +1921,61 @@
       "3-5 players"
     ]
   },
-  "ruutq3dm8": {
-    "levelId": "48",
+  "q3q1dm2": {
+    "levelId": "117",
     "dateStamp": "2021-04-18",
-    "zip": "ruutq3dm8",
-    "sha256": "92396992e13aa49247a5ccc9cf7ec8a797e9c880deacef8625dd4d6115769334",
-    "author": "G.C.",
-    "extract": "An ok space map, personally I found it a bit on the blocky side. By which I mean it could have been refined a bit more. I hate items being placed in really dumb locations which require really convoluted access paths - they just don't seem to ever work. The",
+    "zip": "q3q1dm2",
+    "sha256": "a56f0684dba5ed1d4c65aa29d5a5a1fc36af98e17ef3d9b6f422934e0443c994",
+    "author": "Mike Zuber",
+    "extract": "The quake classic (by American McGee for idsoftware) has been rebuilt again. A number of textures, and a few other structure changed in this build. The lava jump to RA and 100h is a snap, the around the couner jump still can not be done and the YA trap pus",
     "includes": [
       {
-        "bsp": "ruutq3dm8",
-        "title": "A Night at the Fragsbury - By: RuuT"
-      },
-      {
-        "bsp": "ruuttourney1",
-        "title": "A Night at the Fragsbury - By: RuuT"
+        "bsp": "q3q1dm2",
+        "title": "Claustrophobopolis"
       }
     ],
     "gameMode": [
       "DM",
+      "Tourney",
+      "2-8 players"
+    ]
+  },
+  "q3q1dm1": {
+    "levelId": "113",
+    "dateStamp": "2021-04-18",
+    "zip": "q3q1dm1",
+    "sha256": "b305717fd8e6a0b06f8b02463544e2838a15a1e44d36f0e2638aef904f9a4284",
+    "author": "Mike Zuber",
+    "extract": "It is hard to review a map like this. The original (by Tim Willits, id Software) was kind of hated for not including a rocketlaucher or lighting gun in it. However, it was a good, solidly designed map. This Q3A conversion has been made from the original re",
+    "includes": [
+      {
+        "bsp": "q3q1dm1",
+        "title": "Place of Two Deaths"
+      }
+    ],
+    "gameMode": [
+      "DM",
+      "Tourney",
+      "2-4 players"
+    ]
+  },
+  "ondadm1": {
+    "levelId": "537",
+    "dateStamp": "2021-04-18",
+    "zip": "ondadm1",
+    "sha256": "c5764fe8f9f9172e53e560f466b4194ffe2873deacfb914ee5c80a17b04a8613",
+    "author": "ONDA",
+    "extract": "A damn fine space rail arena, there's plenty of room to move around, and good connectivity between the platforms but it will be a little laggy on lower end set-ups. You do not respawn with a Railgun, but there are plenty around, as well as health and other",
+    "includes": [
+      {
+        "bsp": "ondadm1",
+        "title": "ONDADM1"
+      }
+    ],
+    "gameMode": [
       "Floater",
-      "3-6 players"
+      "Rail Arena",
+      "2-4 players"
     ]
   }
 }

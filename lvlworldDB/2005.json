@@ -1,4 +1,147 @@
 {
+  "map-13out": {
+    "levelId": "1781",
+    "dateStamp": "2005-01-21",
+    "zip": "map-13out",
+    "sha256": "4ffc774eacd3628f48b707102300d2a51980683bf7b3c34e59ea5ad79bab91f3",
+    "author": "sst13",
+    "extract": "Three levels of squared paths all around one bounce pad in the space. A one-minute built map that failed to even keep me for one minute. Do not download this one. Reviewed by DJ(KURWA)  Tigs notes: This level was constructed for the",
+    "includes": [
+      {
+        "bsp": "13out",
+        "title": "Outpost 20-B (by sst13)"
+      }
+    ],
+    "gameMode": [
+      "DM",
+      "Floater",
+      "Tourney",
+      "2-3 players"
+    ]
+  },
+  "map-acid3dm5": {
+    "levelId": "1779",
+    "dateStamp": "2005-01-21",
+    "zip": "map-acid3dm5",
+    "sha256": "3922b2c05c6764de7be2c8a42424bf257ce84627c75555b6f403a714841f9f5d",
+    "author": "acid",
+    "extract": "Unbalanced by acid  is a tdm/ffa/duel map that was thrown-together from two layouts that the author was creating for his next CPMA map. He wasn't happy with the outcome so he left it be.  He got into",
+    "includes": [
+      {
+        "bsp": "acid3dm5",
+        "title": "unbalanced by [acid]"
+      }
+    ],
+    "gameMode": [
+      "CPM",
+      "DM",
+      "Team DM",
+      "Tourney",
+      "2-6 players"
+    ]
+  },
+  "map-acid3dm4": {
+    "levelId": "1784",
+    "dateStamp": "2005-01-21",
+    "zip": "map-acid3dm4",
+    "sha256": "f3ae8f7b80d482310e15526c67d3b6c169c93a8d8e7334aae32117f75d9568b9",
+    "author": "acid",
+    "extract": "even darker is a remake of the Quake level, The Dark Zone (dm6). A series of tight corridors, and a few teleporters to navigate you to the same corridors is pretty much what makes up acid3dm4. There are some dead ends which don't come into play, but should",
+    "includes": [
+      {
+        "bsp": "acid3dm4",
+        "title": "even darker by [acid]"
+      }
+    ],
+    "gameMode": [
+      "DM",
+      "Tourney",
+      "2-4 players"
+    ]
+  },
+  "map-13void": {
+    "levelId": "1806",
+    "dateStamp": "2005-01-21",
+    "zip": "map-13void",
+    "sha256": "4c62bca2137395df9b5d8069a6de4dd5409a21df075f891f872e6cf0ddad0775",
+    "author": "sst13",
+    "extract": "Once again an original map that is killer! OK, the gameplay revolves around space platforms, but they can't be seen by one another. There's a dark fog that encompasses the entire space so you can't just rail that jackass on the other side of the map with t",
+    "includes": [
+      {
+        "bsp": "13void",
+        "title": "Dark Void (by sst13)"
+      }
+    ],
+    "gameMode": [
+      "CTF",
+      "DM",
+      "Floater",
+      "Team Arena",
+      "Team DM",
+      "6-10 players"
+    ]
+  },
+  "map-13vast": {
+    "levelId": "1807",
+    "dateStamp": "2005-01-21",
+    "zip": "map-13vast",
+    "sha256": "53a72b3a2edcee10fec3ffda02a41f70f1db9b05b40c018e890390a7977d9fe6",
+    "author": "sst13",
+    "extract": "OK, the map has a few little improvements but overall, the original The Vast and the Furious still played very well and didn't need to be touched. As far as the changes go, they are minor. Play it if you like Bub's original with changes. 5/10.",
+    "includes": [
+      {
+        "bsp": "13vast",
+        "title": "The Vast And Furious - 13th RMX"
+      }
+    ],
+    "gameMode": [
+      "CTF",
+      "DM",
+      "Floater",
+      "OpenArena",
+      "Team Arena",
+      "Team DM",
+      "3-7 players"
+    ]
+  },
+  "map-13sky": {
+    "levelId": "1805",
+    "dateStamp": "2005-01-21",
+    "zip": "map-13sky",
+    "sha256": "514aab835e7e252fd73476860fd21a909e87ef7cef4ada036c2f01aeb94fc5e8",
+    "author": "sst13",
+    "extract": "Look up, look down, and look all around. This interesting piece of mapping has been done very well. The textures suit each other vigilantly, as with the lighting - both done very consistently. The gameplay could use some tweaking seeing as it was pretty di",
+    "includes": [
+      {
+        "bsp": "13sky",
+        "title": "Dead Sun Skies (by sst13)"
+      }
+    ],
+    "gameMode": [
+      "DM",
+      "Floater",
+      "Tourney",
+      "2-4 players"
+    ]
+  },
+  "map-13gate": {
+    "levelId": "1818",
+    "dateStamp": "2005-01-21",
+    "zip": "map-13gate",
+    "sha256": "d0d7b7ff116fa73abb1e2bdaa011386839f33bde504c6f6d3dd42b30c498903e",
+    "author": "sst13",
+    "extract": "This level is a pretty cool idea. I always wondered what it would be like to take the sample q3dm1 map from the map editor installation and make it a CTF map. That seems to be exactly what sst13 has done! It's a pretty cool little map. But you didn't make ",
+    "includes": [
+      {
+        "bsp": "13gate",
+        "title": "Arena Gate CTF (by sst13)"
+      }
+    ],
+    "gameMode": [
+      "CTF",
+      "4-6 players"
+    ]
+  },
   "map-13dyna": {
     "levelId": "1819",
     "dateStamp": "2005-01-21",
@@ -37,146 +180,6 @@
       "2-3 players"
     ]
   },
-  "map-13gate": {
-    "levelId": "1818",
-    "dateStamp": "2005-01-21",
-    "zip": "map-13gate",
-    "sha256": "d0d7b7ff116fa73abb1e2bdaa011386839f33bde504c6f6d3dd42b30c498903e",
-    "author": "sst13",
-    "extract": "This level is a pretty cool idea. I always wondered what it would be like to take the sample q3dm1 map from the map editor installation and make it a CTF map. That seems to be exactly what sst13 has done! It's a pretty cool little map. But you didn't make ",
-    "includes": [
-      {
-        "bsp": "13gate",
-        "title": "Arena Gate CTF (by sst13)"
-      }
-    ],
-    "gameMode": [
-      "CTF",
-      "4-6 players"
-    ]
-  },
-  "map-13out": {
-    "levelId": "1781",
-    "dateStamp": "2005-01-21",
-    "zip": "map-13out",
-    "sha256": "4ffc774eacd3628f48b707102300d2a51980683bf7b3c34e59ea5ad79bab91f3",
-    "author": "sst13",
-    "extract": "Three levels of squared paths all around one bounce pad in the space. A one-minute built map that failed to even keep me for one minute. Do not download this one. Reviewed by DJ(KURWA)  Tigs notes: This level was constructed for the",
-    "includes": [
-      {
-        "bsp": "13out",
-        "title": "Outpost 20-B (by sst13)"
-      }
-    ],
-    "gameMode": [
-      "DM",
-      "Floater",
-      "Tourney",
-      "2-3 players"
-    ]
-  },
-  "map-13sky": {
-    "levelId": "1805",
-    "dateStamp": "2005-01-21",
-    "zip": "map-13sky",
-    "sha256": "514aab835e7e252fd73476860fd21a909e87ef7cef4ada036c2f01aeb94fc5e8",
-    "author": "sst13",
-    "extract": "Look up, look down, and look all around. This interesting piece of mapping has been done very well. The textures suit each other vigilantly, as with the lighting - both done very consistently. The gameplay could use some tweaking seeing as it was pretty di",
-    "includes": [
-      {
-        "bsp": "13sky",
-        "title": "Dead Sun Skies (by sst13)"
-      }
-    ],
-    "gameMode": [
-      "DM",
-      "Floater",
-      "Tourney",
-      "2-4 players"
-    ]
-  },
-  "ctctf6": {
-    "levelId": "1817",
-    "dateStamp": "2005-01-21",
-    "zip": "ctctf6",
-    "sha256": "5e220f4d4d5a5feb44ca825bc163ca9cfbf7d31daa7c6e60e021bfeea65f6833",
-    "author": "Agent Orange",
-    "extract": "Outstanding. The texture selection is this map is as brilliant as it's usage. The lighting in the map is completely phenomenal, and the gameplay soared like the rockets that were flying past my face while playing a hectic match. The map could have benefite",
-    "includes": [
-      {
-        "bsp": "ctctf6",
-        "title": "Rocky Rampage"
-      }
-    ],
-    "gameMode": [
-      "CTF",
-      "6-12 players"
-    ]
-  },
-  "map-13vast": {
-    "levelId": "1807",
-    "dateStamp": "2005-01-21",
-    "zip": "map-13vast",
-    "sha256": "53a72b3a2edcee10fec3ffda02a41f70f1db9b05b40c018e890390a7977d9fe6",
-    "author": "sst13",
-    "extract": "OK, the map has a few little improvements but overall, the original The Vast and the Furious still played very well and didn't need to be touched. As far as the changes go, they are minor. Play it if you like Bub's original with changes. 5/10.",
-    "includes": [
-      {
-        "bsp": "13vast",
-        "title": "The Vast And Furious - 13th RMX"
-      }
-    ],
-    "gameMode": [
-      "CTF",
-      "DM",
-      "Floater",
-      "OpenArena",
-      "Team Arena",
-      "Team DM",
-      "3-7 players"
-    ]
-  },
-  "map-13void": {
-    "levelId": "1806",
-    "dateStamp": "2005-01-21",
-    "zip": "map-13void",
-    "sha256": "4c62bca2137395df9b5d8069a6de4dd5409a21df075f891f872e6cf0ddad0775",
-    "author": "sst13",
-    "extract": "Once again an original map that is killer! OK, the gameplay revolves around space platforms, but they can't be seen by one another. There's a dark fog that encompasses the entire space so you can't just rail that jackass on the other side of the map with t",
-    "includes": [
-      {
-        "bsp": "13void",
-        "title": "Dark Void (by sst13)"
-      }
-    ],
-    "gameMode": [
-      "CTF",
-      "DM",
-      "Floater",
-      "Team Arena",
-      "Team DM",
-      "6-10 players"
-    ]
-  },
-  "map-acid3dm4": {
-    "levelId": "1784",
-    "dateStamp": "2005-01-21",
-    "zip": "map-acid3dm4",
-    "sha256": "f3ae8f7b80d482310e15526c67d3b6c169c93a8d8e7334aae32117f75d9568b9",
-    "author": "acid",
-    "extract": "even darker is a remake of the Quake level, The Dark Zone (dm6). A series of tight corridors, and a few teleporters to navigate you to the same corridors is pretty much what makes up acid3dm4. There are some dead ends which don't come into play, but should",
-    "includes": [
-      {
-        "bsp": "acid3dm4",
-        "title": "even darker by [acid]"
-      }
-    ],
-    "gameMode": [
-      "DM",
-      "Tourney",
-      "2-4 players"
-    ]
-  },
   "map-13black": {
     "levelId": "1783",
     "dateStamp": "2005-01-21",
@@ -196,25 +199,22 @@
       "2-3 players"
     ]
   },
-  "map-acid3dm5": {
-    "levelId": "1779",
+  "ctctf6": {
+    "levelId": "1817",
     "dateStamp": "2005-01-21",
-    "zip": "map-acid3dm5",
-    "sha256": "3922b2c05c6764de7be2c8a42424bf257ce84627c75555b6f403a714841f9f5d",
-    "author": "acid",
-    "extract": "Unbalanced by acid  is a tdm/ffa/duel map that was thrown-together from two layouts that the author was creating for his next CPMA map. He wasn't happy with the outcome so he left it be.  He got into",
+    "zip": "ctctf6",
+    "sha256": "5e220f4d4d5a5feb44ca825bc163ca9cfbf7d31daa7c6e60e021bfeea65f6833",
+    "author": "Q",
+    "extract": "Outstanding. The texture selection is this map is as brilliant as it's usage. The lighting in the map is completely phenomenal, and the gameplay soared like the rockets that were flying past my face while playing a hectic match. The map could have benefite",
     "includes": [
       {
-        "bsp": "acid3dm5",
-        "title": "unbalanced by [acid]"
+        "bsp": "ctctf6",
+        "title": "Rocky Rampage"
       }
     ],
     "gameMode": [
-      "CPM",
-      "DM",
-      "Team DM",
-      "Tourney",
-      "2-6 players"
+      "CTF",
+      "6-12 players"
     ]
   },
   "q3dade4": {
@@ -272,6 +272,24 @@
       "3-5 players"
     ]
   },
+  "froz": {
+    "levelId": "1820",
+    "dateStamp": "2005-03-11",
+    "zip": "froz",
+    "sha256": "b3f2a5778e3fbfb9fc58df70b2875dd5ab11a907841e36188c56b7d9735a861e",
+    "author": "Hack-writer",
+    "extract": "The r_speeds on this map are ridiculous and it's no wonder this map took two weeks to make... Other than that carelessness, this is a pretty good boxy level with an interesting twist. If you have a ridiculously fast computer, you won't notice it's flaws. H",
+    "includes": [
+      {
+        "bsp": "frozen",
+        "title": "FROZEN [by Hack-writer]"
+      }
+    ],
+    "gameMode": [
+      "DM",
+      "3-6 players"
+    ]
+  },
   "storm3tourney6": {
     "levelId": "1788",
     "dateStamp": "2005-03-11",
@@ -289,24 +307,6 @@
       "DM",
       "Tourney",
       "2-4 players"
-    ]
-  },
-  "froz": {
-    "levelId": "1820",
-    "dateStamp": "2005-03-11",
-    "zip": "froz",
-    "sha256": "b3f2a5778e3fbfb9fc58df70b2875dd5ab11a907841e36188c56b7d9735a861e",
-    "author": "Hack-writer",
-    "extract": "The r_speeds on this map are ridiculous and it's no wonder this map took two weeks to make... Other than that carelessness, this is a pretty good boxy level with an interesting twist. If you have a ridiculously fast computer, you won't notice it's flaws. H",
-    "includes": [
-      {
-        "bsp": "frozen",
-        "title": "FROZEN [by Hack-writer]"
-      }
-    ],
-    "gameMode": [
-      "DM",
-      "3-6 players"
     ]
   },
   "wolfenwinter": {
@@ -365,26 +365,6 @@
       "4-8 players"
     ]
   },
-  "bal3void1": {
-    "levelId": "1823",
-    "dateStamp": "2005-03-17",
-    "zip": "bal3void1",
-    "sha256": "303e2d2ba94a617c03d8fbcf612bb10acaed6aa0ecbfd54cbf8ad4916060b360",
-    "author": "Bal",
-    "extract": "Haha! Bal, one of the communities most respected mappers just has to make like a bunch of other people and release a map that plays absolutely bad... This level looks great, as far as texturing and lighting go (always a plus Bal) But we all know for sure t",
-    "includes": [
-      {
-        "bsp": "bal3void1",
-        "title": "Peaceful Holidays in Egypt"
-      }
-    ],
-    "gameMode": [
-      "DM",
-      "OpenArena",
-      "Tourney",
-      "2-4 players"
-    ]
-  },
   "bal3void2": {
     "levelId": "1787",
     "dateStamp": "2005-03-17",
@@ -401,6 +381,26 @@
     "gameMode": [
       "DM",
       "Floater",
+      "OpenArena",
+      "Tourney",
+      "2-4 players"
+    ]
+  },
+  "bal3void1": {
+    "levelId": "1823",
+    "dateStamp": "2005-03-17",
+    "zip": "bal3void1",
+    "sha256": "303e2d2ba94a617c03d8fbcf612bb10acaed6aa0ecbfd54cbf8ad4916060b360",
+    "author": "Bal",
+    "extract": "Haha! Bal, one of the communities most respected mappers just has to make like a bunch of other people and release a map that plays absolutely bad... This level looks great, as far as texturing and lighting go (always a plus Bal) But we all know for sure t",
+    "includes": [
+      {
+        "bsp": "bal3void1",
+        "title": "Peaceful Holidays in Egypt"
+      }
+    ],
+    "gameMode": [
+      "DM",
       "OpenArena",
       "Tourney",
       "2-4 players"
@@ -444,24 +444,6 @@
       "2-4 players"
     ]
   },
-  "bpool": {
-    "levelId": "1803",
-    "dateStamp": "2005-03-28",
-    "zip": "bpool",
-    "sha256": "e11059f9a49d8aef4b7fd85baff4fd4907026d18ae59d2b5e65234f8a3ed2eaa",
-    "author": "KRIS",
-    "extract": "If there were ever a time in which a cool technique was used with a bad idea, that time would be now. I liked the author's use of textures and craftsmanship throughout this level, however, the fundamental idea of this level really bugged me. The whole leve",
-    "includes": [
-      {
-        "bsp": "bigbox",
-        "title": "the big pool"
-      }
-    ],
-    "gameMode": [
-      "DM",
-      "3-6 players"
-    ]
-  },
   "hibernia": {
     "levelId": "1840",
     "dateStamp": "2005-03-28",
@@ -479,6 +461,24 @@
       "DM",
       "Floater",
       "4-7 players"
+    ]
+  },
+  "bpool": {
+    "levelId": "1803",
+    "dateStamp": "2005-03-28",
+    "zip": "bpool",
+    "sha256": "e11059f9a49d8aef4b7fd85baff4fd4907026d18ae59d2b5e65234f8a3ed2eaa",
+    "author": "KRIS",
+    "extract": "If there were ever a time in which a cool technique was used with a bad idea, that time would be now. I liked the author's use of textures and craftsmanship throughout this level, however, the fundamental idea of this level really bugged me. The whole leve",
+    "includes": [
+      {
+        "bsp": "bigbox",
+        "title": "the big pool"
+      }
+    ],
+    "gameMode": [
+      "DM",
+      "3-6 players"
     ]
   },
   "dm-cursed2": {
@@ -538,6 +538,25 @@
       "2-4 players"
     ]
   },
+  "q3shw6": {
+    "levelId": "1777",
+    "dateStamp": "2005-04-29",
+    "zip": "q3shw6",
+    "sha256": "8f755ffaf662882d3003ffa6faeddbd16344f63a95b7effce7639362e5ff1325",
+    "author": "ShadoW",
+    "extract": "This relatively small map with many halls and rooms certainly gives me the feeling as if I'm at school. Each room features some creative structures; for instance, the stairs platforms stilled in the air.  There are mostly old textures and an odd combinatio",
+    "includes": [
+      {
+        "bsp": "q3shw6",
+        "title": "Szkola by_ShadoW"
+      }
+    ],
+    "gameMode": [
+      "DM",
+      "Team DM",
+      "3-6 players"
+    ]
+  },
   "q3shw18": {
     "levelId": "1839",
     "dateStamp": "2005-04-29",
@@ -556,25 +575,6 @@
       "Team Arena",
       "Tourney",
       "2-5 players"
-    ]
-  },
-  "q3shw6": {
-    "levelId": "1777",
-    "dateStamp": "2005-04-29",
-    "zip": "q3shw6",
-    "sha256": "8f755ffaf662882d3003ffa6faeddbd16344f63a95b7effce7639362e5ff1325",
-    "author": "ShadoW",
-    "extract": "This relatively small map with many halls and rooms certainly gives me the feeling as if I'm at school. Each room features some creative structures; for instance, the stairs platforms stilled in the air.  There are mostly old textures and an odd combinatio",
-    "includes": [
-      {
-        "bsp": "q3shw6",
-        "title": "Szkola by_ShadoW"
-      }
-    ],
-    "gameMode": [
-      "DM",
-      "Team DM",
-      "3-6 players"
     ]
   },
   "wolves": {
@@ -602,7 +602,7 @@
     "zip": "mjkq3adm1_rev",
     "sha256": "b3f5ebd0451bb916a1b5a1ae577874646fe97877787bdd4fcf893a5f79e8204a",
     "author": "ShadowZombie",
-    "extract": "A cool rocket practice map, not all too much more. Nicely built. Keep for those warm-up rounds. 6/10. Reviewed by BFG20K",
+    "extract": "A cool rocket practice map, not all too much more. Nicely built. Keep for those warm-up rounds. 6/10. Reviewed by BFG20K Tigs notes: This is a remake of the authors earlier release, eruption_by mjk from 200",
     "includes": [
       {
         "bsp": "mjkq3adm1_rev",
@@ -620,7 +620,7 @@
     "dateStamp": "2005-05-15",
     "zip": "q3mrltourney1",
     "sha256": "ca7a475c69d0945eb3c8a30650cf3a0ba8ff6cd7d5d51c40da385032c6a57811",
-    "author": "MrLyCon",
+    "author": "Mr.LyCon",
     "extract": "Ensiferum - Ferrum Aternum is a good release considering that it was in progress for only four days. Texturing relies heavily on two metal textures - one gray and one rusty. The outdoor area features some pretty good looking pipes and some tall structures,",
     "includes": [
       {
@@ -632,25 +632,6 @@
       "DM",
       "Tourney",
       "2-7 players"
-    ]
-  },
-  "dk_se_final": {
-    "levelId": "1831",
-    "dateStamp": "2005-05-17",
-    "zip": "dk_se_final",
-    "sha256": "96f6e4afb887ab740f85348211ca5112bb1624418fea10881da0f55094a58870",
-    "author": "dONKEY",
-    "extract": "This map r00lz. I really like the architecture and the gameplay (even though it could definitely use some more ammo) as well as the soft consistent lighting throughout the level. The only thing I have a problem with is that this map could have benefited fr",
-    "includes": [
-      {
-        "bsp": "dk_se",
-        "title": "Change the moment with a gun"
-      }
-    ],
-    "gameMode": [
-      "DM",
-      "OpenArena",
-      "4-8 players"
     ]
   },
   "pro-q3dm17_beta": {
@@ -671,6 +652,25 @@
       "Floater",
       "Tourney",
       "2-4 players"
+    ]
+  },
+  "dk_se_final": {
+    "levelId": "1831",
+    "dateStamp": "2005-05-17",
+    "zip": "dk_se_final",
+    "sha256": "96f6e4afb887ab740f85348211ca5112bb1624418fea10881da0f55094a58870",
+    "author": "dONKEY",
+    "extract": "This map r00lz. I really like the architecture and the gameplay (even though it could definitely use some more ammo) as well as the soft consistent lighting throughout the level. The only thing I have a problem with is that this map could have benefited fr",
+    "includes": [
+      {
+        "bsp": "dk_se",
+        "title": "Change the moment with a gun"
+      }
+    ],
+    "gameMode": [
+      "DM",
+      "OpenArena",
+      "4-8 players"
     ]
   },
   "aveq3dm1": {
@@ -864,23 +864,24 @@
       "4-8 players"
     ]
   },
-  "void744": {
-    "levelId": "1848",
+  "17t6remix": {
+    "levelId": "1847",
     "dateStamp": "2005-08-04",
-    "zip": "void744",
-    "sha256": "cc3f5a7a33f05497ae7987fc96f11f9bb53e6ec2be614945cdbaaf1c399a8560",
-    "author": "Kali",
-    "extract": "void744 is a kind of cross between a void map and a space map which seems to have been inspired, in part, by q3dm18. I've been trying to find a way of describing the feel of this map. I think the word I'm looking for is 'unfocused'. The map has no real hea",
+    "zip": "17t6remix",
+    "sha256": "22a920bc653630605166c05d798e5fe8766822b2daf5629f44049506505bf3d4",
+    "author": "DIXOFT<ReMiX<",
+    "extract": "Some of you are probably thinking that the fusion of q3dm17 and q3tourney6 would be totally the Bride of Frankenstein, but this has been generally well done. The only thing that needed rejigging was the jump you make to the quad damage in q3dm17 (although ",
     "includes": [
       {
-        "bsp": "Void744",
-        "title": "Void 744 - edge-zero.com"
+        "bsp": "17t6remix",
+        "title": "The Very End of The Longest Yard"
       }
     ],
     "gameMode": [
       "DM",
       "Floater",
-      "4-8 players"
+      "Tourney",
+      "2-8 players"
     ]
   },
   "mrh_dm2": {
@@ -903,6 +904,25 @@
       "2-5 players"
     ]
   },
+  "void744": {
+    "levelId": "1848",
+    "dateStamp": "2005-08-04",
+    "zip": "void744",
+    "sha256": "cc3f5a7a33f05497ae7987fc96f11f9bb53e6ec2be614945cdbaaf1c399a8560",
+    "author": "Kali",
+    "extract": "void744 is a kind of cross between a void map and a space map which seems to have been inspired, in part, by q3dm18. I've been trying to find a way of describing the feel of this map. I think the word I'm looking for is 'unfocused'. The map has no real hea",
+    "includes": [
+      {
+        "bsp": "Void744",
+        "title": "Void 744 - edge-zero.com"
+      }
+    ],
+    "gameMode": [
+      "DM",
+      "Floater",
+      "4-8 players"
+    ]
+  },
   "mvdm14": {
     "levelId": "1809",
     "dateStamp": "2005-08-04",
@@ -920,44 +940,6 @@
       "CPM",
       "Tourney",
       "2-4 players"
-    ]
-  },
-  "17t6remix": {
-    "levelId": "1847",
-    "dateStamp": "2005-08-04",
-    "zip": "17t6remix",
-    "sha256": "22a920bc653630605166c05d798e5fe8766822b2daf5629f44049506505bf3d4",
-    "author": "DIXOFT<ReMiX<",
-    "extract": "Some of you are probably thinking that the fusion of q3dm17 and q3tourney6 would be totally the Bride of Frankenstein, but this has been generally well done. The only thing that needed rejigging was the jump you make to the quad damage in q3dm17 (although ",
-    "includes": [
-      {
-        "bsp": "17t6remix",
-        "title": "The Very End of The Longest Yard"
-      }
-    ],
-    "gameMode": [
-      "DM",
-      "Floater",
-      "Tourney",
-      "2-8 players"
-    ]
-  },
-  "hellrazor": {
-    "levelId": "1826",
-    "dateStamp": "2005-08-19",
-    "zip": "hellrazor",
-    "sha256": "30adebc1f304580ebf59738de9f13d2764071f7a656b9adf7ab44717c9c9ec1b",
-    "author": "ROODOG",
-    "extract": "Roodog is a mate of mine, he got me to test this map with a few mate's. Well its fun, fast and quite big so I would suggest at least 4 players. Best suited to DM style of play.  Overall, the map is well balanced, with a good flow. Each section of the level",
-    "includes": [
-      {
-        "bsp": "hellrazor",
-        "title": "hellrazor"
-      }
-    ],
-    "gameMode": [
-      "DM",
-      "3-6 players"
     ]
   },
   "necro6": {
@@ -979,24 +961,62 @@
       "2-3 players"
     ]
   },
-  "20kdm3": {
-    "levelId": "1850",
-    "dateStamp": "2005-09-10",
-    "zip": "20kdm3",
-    "sha256": "8bb0f64341d72db2103a0cc2bbafcf0898d8352e4847c75afd2d810dcf599e59",
-    "author": "<|3FG20K>",
-    "extract": "According to the readme, this map took three years to see the light of day, although the author worked on it for a total of about three months. The result was this grubby, slimy industrial map. Visually, it looks good with the green of the slime contrastin",
+  "hellrazor": {
+    "levelId": "1826",
+    "dateStamp": "2005-08-19",
+    "zip": "hellrazor",
+    "sha256": "30adebc1f304580ebf59738de9f13d2764071f7a656b9adf7ab44717c9c9ec1b",
+    "author": "ROODOG",
+    "extract": "Roodog is a mate of mine, he got me to test this map with a few mate's. Well its fun, fast and quite big so I would suggest at least 4 players. Best suited to DM style of play.  Overall, the map is well balanced, with a good flow. Each section of the level",
     "includes": [
       {
-        "bsp": "20kdm3",
-        "title": "Insane Products - by Mast3r BFG20K"
+        "bsp": "hellrazor",
+        "title": "hellrazor"
       }
     ],
     "gameMode": [
       "DM",
-      "Team DM",
+      "3-6 players"
+    ]
+  },
+  "pukka3tourney2": {
+    "levelId": "1841",
+    "dateStamp": "2005-09-10",
+    "zip": "pukka3tourney2",
+    "sha256": "5b3a65f224e2ba136721aab8c0d607bfa3bedd1b360ae9144a48f5bcd8123bbc",
+    "author": "thefury",
+    "extract": "Evolution by thefury is a ground-breaking map that was optimized for CPMA. Promode maps have received a lot of criticism in the past for being very plain looking maps graphically, due to most CPMA players reducing their in-",
+    "includes": [
+      {
+        "bsp": "pukka3tourney2",
+        "title": "evolution [by thefury]"
+      }
+    ],
+    "gameMode": [
+      "CPM",
       "Tourney",
-      "2-12 players"
+      "2-4 players"
+    ]
+  },
+  "pukka3tourney4": {
+    "levelId": "1859",
+    "dateStamp": "2005-09-10",
+    "zip": "pukka3tourney4",
+    "sha256": "7018b627f93e87f988ddd0286d62e5293e5b5578e80a1a9cc76f0779e6844eff",
+    "author": "thefury",
+    "extract": "Otherworld by thefury was made for use with Promode enabled.  You have to learn standard Promode physics to control the map. With the silence in the Quake 3 crowd scene, with eve",
+    "includes": [
+      {
+        "bsp": "pukka3tourney4",
+        "title": "otherworld [by thefury]"
+      }
+    ],
+    "gameMode": [
+      "CPM",
+      "DM",
+      "OpenArena",
+      "Tourney",
+      "2-4 players"
     ]
   },
   "pukka3dm1": {
@@ -1041,43 +1061,24 @@
       "2-4 players"
     ]
   },
-  "pukka3tourney2": {
-    "levelId": "1841",
+  "20kdm3": {
+    "levelId": "1850",
     "dateStamp": "2005-09-10",
-    "zip": "pukka3tourney2",
-    "sha256": "5b3a65f224e2ba136721aab8c0d607bfa3bedd1b360ae9144a48f5bcd8123bbc",
-    "author": "thefury",
-    "extract": "Evolution by thefury is a ground-breaking map that was optimized for CPMA.  Promode maps have received a lot of criticism in the past for being very plain looking maps graphically, due to most",
+    "zip": "20kdm3",
+    "sha256": "8bb0f64341d72db2103a0cc2bbafcf0898d8352e4847c75afd2d810dcf599e59",
+    "author": "<|3FG20K>",
+    "extract": "According to the readme, this map took three years to see the light of day, although the author worked on it for a total of about three months. The result was this grubby, slimy industrial map. Visually, it looks good with the green of the slime contrastin",
     "includes": [
       {
-        "bsp": "pukka3tourney2",
-        "title": "evolution [by thefury]"
+        "bsp": "20kdm3",
+        "title": "Insane Products - by Mast3r BFG20K"
       }
     ],
     "gameMode": [
-      "CPM",
-      "Tourney",
-      "2-4 players"
-    ]
-  },
-  "pukka3tourney4": {
-    "levelId": "1859",
-    "dateStamp": "2005-09-10",
-    "zip": "pukka3tourney4",
-    "sha256": "7018b627f93e87f988ddd0286d62e5293e5b5578e80a1a9cc76f0779e6844eff",
-    "author": "thefury",
-    "extract": "Otherworld by thefury was made for use with Promode enabled.  You have to learn standard Promode physics to control the map. With the silence in the Quake 3 crowd scene, with eve",
-    "includes": [
-      {
-        "bsp": "pukka3tourney4",
-        "title": "otherworld [by thefury]"
-      }
-    ],
-    "gameMode": [
-      "CPM",
       "DM",
-      "OpenArena",
-      "2-4 players"
+      "Team DM",
+      "Tourney",
+      "2-12 players"
     ]
   },
   "swarmdm1": {
@@ -1144,6 +1145,26 @@
       "2-6 players"
     ]
   },
+  "q3shw19": {
+    "levelId": "1844",
+    "dateStamp": "2005-10-14",
+    "zip": "q3shw19",
+    "sha256": "25f31a5cf5a25cbf05d35ba28ce02eb065f6fdf22d7e08941844075ca7aaa84b",
+    "author": "ShadoW",
+    "extract": "Time to die by ShadoW is a remake of q3shw12.  With all the mappers making remakes in this day and age, it's nice to see someone remaking one of their own maps into such perfection.  In the original review, the reviewer said that it needed a face-lift, and",
+    "includes": [
+      {
+        "bsp": "q3shw19",
+        "title": "''Time to die'' remix by ShadoW"
+      }
+    ],
+    "gameMode": [
+      "CPM",
+      "DM",
+      "Tourney",
+      "2-6 players"
+    ]
+  },
   "wisdomrun": {
     "levelId": "1869",
     "dateStamp": "2005-10-14",
@@ -1160,26 +1181,6 @@
     "gameMode": [
       "DeFRaG",
       "Single Player"
-    ]
-  },
-  "q3shw19": {
-    "levelId": "1844",
-    "dateStamp": "2005-10-14",
-    "zip": "q3shw19",
-    "sha256": "25f31a5cf5a25cbf05d35ba28ce02eb065f6fdf22d7e08941844075ca7aaa84b",
-    "author": "ShadoW",
-    "extract": "Time to die by ShadoW is a remake of q3shw12.  With all the mappers making remakes in this day and age, it's nice to see someone remaking one of their own maps into such perfection.  In the original review, the reviewer said that it needed a face-lift,",
-    "includes": [
-      {
-        "bsp": "q3shw19",
-        "title": "''Time to die'' remix by ShadoW"
-      }
-    ],
-    "gameMode": [
-      "CPM",
-      "DM",
-      "Tourney",
-      "2-6 players"
     ]
   },
   "reqkitchen": {
@@ -1245,7 +1246,7 @@
     "zip": "cf",
     "sha256": "b656af4f3de6afac7288c21e3d2ffcbc3a514b465a884605069c8e4d23f3fb78",
     "author": "Myth",
-    "extract": "Citadel Fantasia by Myth, is a must download for all players with ATI and Nvidia videocards that would love to see a still skybox without lines.  Instant Love! A sky! The sky is what I noticed last though as I am used to r_fastsky \"1\", and was amazed with",
+    "extract": "Citadel Fantasia by Myth, is a must download for all players with ATi and Nvidia video cards that would love to see a still skybox without lines.  Instant Love! A sky! The sky is what I noticed last though as I am used to r_fastsky \"1\", and was amazed with",
     "includes": [
       {
         "bsp": "cf",
@@ -1256,24 +1257,6 @@
       "DM",
       "Team DM",
       "4-12 players"
-    ]
-  },
-  "uozq3ta3": {
-    "levelId": "1870",
-    "dateStamp": "2005-12-26",
-    "zip": "uozq3ta3",
-    "sha256": "3f046f8c37b911bbaffbcf36475f5087e464e885497a418e44e69b612b4665e4",
-    "author": "uoz",
-    "extract": "What an excellent map. I used to enjoy Team Arena and was happy to give this one a blast with a few bots. It is very kick ass except for one issue. My problem was that some of the launchpads kept shooting me back and forth and if they did not I almost fell",
-    "includes": [
-      {
-        "bsp": "uozq3ta3",
-        "title": "Given to fly"
-      }
-    ],
-    "gameMode": [
-      "Team Arena",
-      "4-10 players"
     ]
   },
   "q3won": {
@@ -1294,6 +1277,24 @@
       "DM",
       "Team DM",
       "8-18 players"
+    ]
+  },
+  "uozq3ta3": {
+    "levelId": "1870",
+    "dateStamp": "2005-12-26",
+    "zip": "uozq3ta3",
+    "sha256": "3f046f8c37b911bbaffbcf36475f5087e464e885497a418e44e69b612b4665e4",
+    "author": "uoz",
+    "extract": "What an excellent map. I used to enjoy Team Arena and was happy to give this one a blast with a few bots. It is very kick ass except for one issue. My problem was that some of the launchpads kept shooting me back and forth and if they did not I almost fell",
+    "includes": [
+      {
+        "bsp": "uozq3ta3",
+        "title": "Given to fly"
+      }
+    ],
+    "gameMode": [
+      "Team Arena",
+      "4-10 players"
     ]
   },
   "map-mictourney1a": {

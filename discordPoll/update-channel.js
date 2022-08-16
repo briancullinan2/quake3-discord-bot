@@ -26,7 +26,8 @@ async function updateThread(threadName, channel, json) {
     if(archived.length > 0) {
       thread = archived[0]
     } else {
-      thread = await createThread(threadName, channel.id)
+      //thread = await createThread(threadName, channel.id)
+      console.log('WARNING: no thread named', threadName, 'in channel', channel.id);
     }
   }
   if(json)
@@ -51,7 +52,6 @@ async function updateChannelThread(threadName, channel, json, noUpdate) {
   pins = (await getPins(thread.id))
     .filter(p => p.author.username == DEFAULT_USERNAME)
 
-console.log(pins, thread)
   if(pins.length > 0 && !thread.thread_metadata.archived) {
     console.log('Updating ', threadName)
     message = pins[0]

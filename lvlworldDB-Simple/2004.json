@@ -1,0 +1,1226 @@
+{
+  "aawy": {
+    "levelId": "1697",
+    "dateStamp": "2004-07-16",
+    "zip": "aawy",
+    "sha256": "3a572d130ca70c2346f24dd282868b0480869e969c218dcdbb2e6559bc2ade2e",
+    "includes": [
+      {
+        "bsp": "aawy",
+        "title": "And Also With You"
+      }
+    ]
+  },
+  "abomination": {
+    "levelId": "204",
+    "dateStamp": "2004-07-16",
+    "zip": "abomination",
+    "sha256": "b3d97ccd511a78054e5d67edec3fe1635f44647f8632d30819403b6b49ceb935",
+    "includes": [
+      {
+        "bsp": "abomination",
+        "title": "Abomination Complex"
+      }
+    ]
+  },
+  "acity": {
+    "levelId": "794",
+    "dateStamp": "2004-07-16",
+    "zip": "acity",
+    "sha256": "0081909c86bb84ac96efccfb65c4ffe6e9682bf41379deab01f4a68e9e7f3b2a",
+    "includes": [
+      {
+        "bsp": "acity",
+        "title": "Ancient City"
+      }
+    ]
+  },
+  "acl_q3dm1": {
+    "levelId": "534",
+    "dateStamp": "2004-07-16",
+    "zip": "acl_q3dm1",
+    "sha256": "00e0f0aa7743951403da6b9a81d023cd8c9e9873f060a3c2fbb372ce1116997e",
+    "includes": [
+      {
+        "bsp": "ACL_q3dm1",
+        "title": "Acacias Crimson Laboratorie"
+      }
+    ]
+  },
+  "acquiescence": {
+    "levelId": "1212",
+    "dateStamp": "2004-07-16",
+    "zip": "acquiescence",
+    "sha256": "245c257c27db20575f242d6f9d546b340fc5ac5550263666c4a3d0a2d18c5d6e",
+    "includes": [
+      {
+        "bsp": "aqui",
+        "title": "Acquiescence"
+      }
+    ]
+  },
+  "addict": {
+    "levelId": "54",
+    "dateStamp": "2004-07-16",
+    "zip": "addict",
+    "sha256": "73ede26c3f3436bd6e5cca8383ac882175e454ac68cb945b0f2bb70a3ebfa45f",
+    "includes": [
+      {
+        "bsp": "addict",
+        "title": "Quake3:Addiction"
+      }
+    ]
+  },
+  "aearena": {
+    "levelId": "326",
+    "dateStamp": "2004-07-16",
+    "zip": "aearena",
+    "sha256": "a5d11a71caa1bc81e2cbf233a9e08fba67603b56bd45c6c7122e834e4218092f",
+    "includes": [
+      {
+        "bsp": "aearena",
+        "title": "AEon's Arena"
+      }
+    ]
+  },
+  "af3gate-final": {
+    "levelId": "1386",
+    "dateStamp": "2004-07-16",
+    "zip": "af3gate-final",
+    "sha256": "b72adac1aee21ba8d60824d5f546392beed026064537c14a176813fecf3a7034",
+    "includes": [
+      {
+        "bsp": "af3gate",
+        "title": "Pharaoh's Gate"
+      }
+    ]
+  },
+  "afearofstone": {
+    "levelId": "1166",
+    "dateStamp": "2004-07-16",
+    "zip": "afearofstone",
+    "sha256": "c5b8a44a46a23f88fb475e51415db9ed4a76574fc3d99ab9a27408eed7be5619",
+    "includes": [
+      {
+        "bsp": "Afearofstone",
+        "title": "afearofstone"
+      }
+    ]
+  },
+  "agr": {
+    "levelId": "726",
+    "dateStamp": "2004-07-16",
+    "zip": "agr",
+    "sha256": "30ad21cf806ddb901b9e7a24678b7a50685c1f45a0cbf3f16b8ba811cfd49825",
+    "includes": [
+      {
+        "bsp": "agr",
+        "title": "On an all game radio"
+      }
+    ]
+  },
+  "airking": {
+    "levelId": "992",
+    "dateStamp": "2004-07-16",
+    "zip": "airking",
+    "sha256": "5702628973a2a57d00e1dbc91c45abee51fd4ad74d2488b815e6382d771efd34",
+    "includes": [
+      {
+        "bsp": "airking",
+        "title": "airking"
+      }
+    ]
+  },
+  "akumaq3dm8": {
+    "levelId": "1374",
+    "dateStamp": "2004-07-16",
+    "zip": "akumaq3dm8",
+    "sha256": "741dcff974c185c5f35d6d08dc204e1b684f2534d9800a75fb55f58db2278da3",
+    "includes": [
+      {
+        "bsp": "akumaq3dm8",
+        "title": "Hardwired by Akuma"
+      }
+    ]
+  },
+  "akuq3dm3": {
+    "levelId": "925",
+    "dateStamp": "2004-07-16",
+    "zip": "akuq3dm3",
+    "sha256": "c497cfbd000c198e7bd5cf5235e944fdf6a3fa68ece31ea43a4701d0614adba8",
+    "includes": [
+      {
+        "bsp": "akuq3dm3",
+        "title": "OutPost 0240"
+      }
+    ]
+  },
+  "alana": {
+    "levelId": "887",
+    "dateStamp": "2004-07-16",
+    "zip": "alana",
+    "sha256": "6e8c1475015276ad36542c09e33553f5af2fac53cbf4347ff0ebba2fe78b3ab8",
+    "includes": [
+      {
+        "bsp": "alana",
+        "title": "Alana Base"
+      }
+    ]
+  },
+  "alc3dm1": {
+    "levelId": "966",
+    "dateStamp": "2004-07-16",
+    "zip": "alc3dm1",
+    "sha256": "2a15cc269f851f462fe570e3007d8a826fdfdbefeaff4be6580bd0101b83be40",
+    "includes": [
+      {
+        "bsp": "alc3dm1",
+        "title": "Source of Agony by Alcatraz"
+      }
+    ]
+  },
+  "alkdm03": {
+    "levelId": "323",
+    "dateStamp": "2004-07-16",
+    "zip": "alkdm03",
+    "sha256": "dcf5a7f0a88c508771295086ec00a83ff7a0ea5fb2dbef89e9688bcaefc1b657",
+    "includes": [
+      {
+        "bsp": "alkdm03a",
+        "title": "Abhorrent Bone"
+      },
+      {
+        "bsp": "alkdm03b",
+        "title": "Animal Tusk"
+      }
+    ]
+  },
+  "alkdm05": {
+    "levelId": "461",
+    "dateStamp": "2004-07-16",
+    "zip": "alkdm05",
+    "sha256": "d3284fad68375fb8a3a96ad32d457c5e8761d7d87e906eeec425122df43c3cb8",
+    "includes": [
+      {
+        "bsp": "alkdm05",
+        "title": "The Devil Deranged by [Kona]"
+      }
+    ]
+  },
+  "alkdm06": {
+    "levelId": "689",
+    "dateStamp": "2004-07-16",
+    "zip": "alkdm06",
+    "sha256": "1b22ed2e41276271d355f5bf06eadfeb4069e3a9299801e2e3bf61ba1c0fdcc0",
+    "includes": [
+      {
+        "bsp": "alkdm06",
+        "title": "GrindMill"
+      }
+    ]
+  },
+  "alkdm07": {
+    "levelId": "613",
+    "dateStamp": "2004-07-16",
+    "zip": "alkdm07",
+    "sha256": "d2ed7d59ce476762995581410f3e1b3465cc460675b6bb09e2a5b4ec07846297",
+    "includes": [
+      {
+        "bsp": "alkdm07",
+        "title": "Devonaire"
+      }
+    ]
+  },
+  "alkdm08": {
+    "levelId": "583",
+    "dateStamp": "2004-07-16",
+    "zip": "alkdm08",
+    "sha256": "873b77a0df42ac428e51ccc5bb37b79f60d3ad31c6d095e574a003f4b697ebc4",
+    "includes": [
+      {
+        "bsp": "alkdm08",
+        "title": "Until The End Of Time"
+      },
+      {
+        "bsp": "alkdm08b",
+        "title": "Until The End Of Time Duel"
+      }
+    ]
+  },
+  "alkdm09": {
+    "levelId": "724",
+    "dateStamp": "2004-07-16",
+    "zip": "alkdm09",
+    "sha256": "6724caecc50e95f78e0b5b51835e18df3c79dccf9f686d7000572d0fc2c201de",
+    "includes": [
+      {
+        "bsp": "alkdm09",
+        "title": "Sinda Legend"
+      }
+    ]
+  },
+  "alkdm10v2": {
+    "levelId": "910",
+    "dateStamp": "2004-07-16",
+    "zip": "alkdm10v2",
+    "sha256": "1375513b7ada7223dfc34bddd534057048f69ca027109bcf0dc9864c8d37f3b2",
+    "includes": [
+      {
+        "bsp": "alkdm10v2",
+        "title": "Impaled by [Kona]"
+      }
+    ]
+  },
+  "alkdm11": {
+    "levelId": "779",
+    "dateStamp": "2004-07-16",
+    "zip": "alkdm11",
+    "sha256": "68223dc92b77dcd7018ec5db41d18cfbedcb33194e6fe2dc79bfd493839796b5",
+    "includes": [
+      {
+        "bsp": "alkdm11",
+        "title": "Early Settlement"
+      }
+    ]
+  },
+  "alkdm12": {
+    "levelId": "961",
+    "dateStamp": "2004-07-16",
+    "zip": "alkdm12",
+    "sha256": "8e6679084bb6925a5668b0990f34d8f52ac1a8e74c27dcf87882f81c84917cca",
+    "includes": [
+      {
+        "bsp": "alkdm12",
+        "title": "Offworld"
+      }
+    ]
+  },
+  "alkdm13": {
+    "levelId": "972",
+    "dateStamp": "2004-07-16",
+    "zip": "alkdm13",
+    "sha256": "5cbada3cd4b0c397a8f8365d4124f142d5d4fb8ef4def1d0a2c413e1e9ecae9c",
+    "includes": [
+      {
+        "bsp": "alkdm13",
+        "title": "Butchered Creatures"
+      }
+    ]
+  },
+  "alkdm14": {
+    "levelId": "1208",
+    "dateStamp": "2004-07-16",
+    "zip": "alkdm14",
+    "sha256": "d01ae329825f089698e510a7feaee74d5b5bcf7d7da5832937f7c374ac2f7857",
+    "includes": [
+      {
+        "bsp": "alkdm14",
+        "title": "Journey"
+      }
+    ]
+  },
+  "alleyq3dc2": {
+    "levelId": "248",
+    "dateStamp": "2004-07-16",
+    "zip": "alleyq3dc2",
+    "sha256": "b2aa91deb69bd13624eb7da157b8c16eb768a7116b3ee053b4dba87348b9844a",
+    "includes": [
+      {
+        "bsp": "alleyq3dc2",
+        "title": "AlleyQ3 - Directors Cut 2 - by THS"
+      }
+    ]
+  },
+  "alm3dm1": {
+    "levelId": "1055",
+    "dateStamp": "2004-07-16",
+    "zip": "alm3dm1",
+    "sha256": "6a8b284975d8a19d03fa11175e8d2d354a207ef8087a97e599e891a1fbe8bb49",
+    "includes": [
+      {
+        "bsp": "alm3dm1",
+        "title": "Power Metal"
+      }
+    ]
+  },
+  "alm3dm2": {
+    "levelId": "1247",
+    "dateStamp": "2004-07-16",
+    "zip": "alm3dm2",
+    "sha256": "a69a05e05f4b16f1fa55e1cdd8df33f3ac04ee55c43e6557042cd1baf583ddbc",
+    "includes": [
+      {
+        "bsp": "alm3dm2",
+        "title": "Darkness of Christ"
+      }
+    ]
+  },
+  "alm3dm3": {
+    "levelId": "1637",
+    "dateStamp": "2004-07-16",
+    "zip": "alm3dm3",
+    "sha256": "0bd3107b098143b1dc045153ec80911a8947ccc1750f483f712bd141cd1778ac",
+    "includes": [
+      {
+        "bsp": "alm3dm3",
+        "title": "LANS Asteroid"
+      }
+    ]
+  },
+  "alpha3d": {
+    "levelId": "330",
+    "dateStamp": "2004-07-16",
+    "zip": "alpha3d",
+    "sha256": "9d42195525c93c6e66dd7583dea3ed46d6260974cefaf1bbe4bcbcb042116ca5",
+    "includes": [
+      {
+        "bsp": "alpha3d",
+        "title": "Alphanoid 3d"
+      }
+    ]
+  },
+  "alphaville-q3a": {
+    "levelId": "1515",
+    "dateStamp": "2004-07-16",
+    "zip": "alphaville-q3a",
+    "sha256": "adf5b598dbfb24ab26628177a4613cab5db12ad7fcdeb05343190af904529ca5",
+    "includes": [
+      {
+        "bsp": "ALPHAVILLE",
+        "title": "187-J4CK4L'S - MOON BASE ALPHAVILLE"
+      }
+    ]
+  },
+  "altarbeta_no_music": {
+    "levelId": "938",
+    "dateStamp": "2004-07-16",
+    "zip": "altarbeta_no_music",
+    "sha256": "6791ccac6990b93a54da68b677be0e6ec75eecc39b3ae170cb4f18add648d965",
+    "includes": [
+      {
+        "bsp": "altarbeta",
+        "title": "AltarBeta by 79DieselRabbit"
+      }
+    ]
+  },
+  "ame7q3ctf1": {
+    "levelId": "1549",
+    "dateStamp": "2004-07-16",
+    "zip": "ame7q3ctf1",
+    "sha256": "c6dcee7715f5b3c48632309ecd2464faf28ff5067753b1a553c89e57363b9eb4",
+    "includes": [
+      {
+        "bsp": "ame7q3ctf1",
+        "title": "Head in the Clouds"
+      }
+    ]
+  },
+  "ame7q3dm1": {
+    "levelId": "1209",
+    "dateStamp": "2004-07-16",
+    "zip": "ame7q3dm1",
+    "sha256": "c906753fc7dd77c075911e1da8a2bddf1e46b20a88a1992b9417fb245538be4f",
+    "includes": [
+      {
+        "bsp": "ame7q3dm1",
+        "title": "Alatair Keep"
+      }
+    ]
+  },
+  "ame7q3dm2": {
+    "levelId": "1517",
+    "dateStamp": "2004-07-16",
+    "zip": "ame7q3dm2",
+    "sha256": "a467819b0a7fd02e80ae2212106696c28c3a8712a907a4e7aed370f12a9ee0e4",
+    "includes": [
+      {
+        "bsp": "ame7q3dm2",
+        "title": "Sleep to Dream"
+      }
+    ]
+  },
+  "ame7q3dm3": {
+    "levelId": "1512",
+    "dateStamp": "2004-07-16",
+    "zip": "ame7q3dm3",
+    "sha256": "6c2a28d508ba2d017cbe275b670a8186fbbb2450fed1519c4af583731ebba6a2",
+    "includes": [
+      {
+        "bsp": "ame7q3dm3",
+        "title": "^7GL^7"
+      }
+    ]
+  },
+  "ame7q3tny1": {
+    "levelId": "1477",
+    "dateStamp": "2004-07-16",
+    "zip": "ame7q3tny1",
+    "sha256": "e4b62179e61822da7b692ba125e68237e67cbb5b1b5fd8be52d0621d34f5a214",
+    "includes": [
+      {
+        "bsp": "ame7q3tny1",
+        "title": "Take to the Sky - Tornado Remix"
+      }
+    ]
+  },
+  "amfq3dm1": {
+    "levelId": "694",
+    "dateStamp": "2004-07-16",
+    "zip": "amfq3dm1",
+    "sha256": "dcb4336cb5b9930dfc64829c09b4e192c318364b0af086d5a00108f8ac833426",
+    "includes": [
+      {
+        "bsp": "amfq3dm1",
+        "title": "Death Cross 3 by Foebane"
+      }
+    ]
+  },
+  "amfq3dm2": {
+    "levelId": "698",
+    "dateStamp": "2004-07-16",
+    "zip": "amfq3dm2",
+    "sha256": "499104c7fa45ee2d761f45a58d9e0ad4ca28fdd4ff8c5376855648163078e282",
+    "includes": [
+      {
+        "bsp": "amfq3dm2",
+        "title": "The Mausoleum by Foebane"
+      }
+    ]
+  },
+  "amfq3dm3": {
+    "levelId": "704",
+    "dateStamp": "2004-07-16",
+    "zip": "amfq3dm3",
+    "sha256": "84c6f907ed8e6ae74adfe678aa3c4fe6a128a0167ac92582cf8244f8e0c4feda",
+    "includes": [
+      {
+        "bsp": "amfq3dm3",
+        "title": "Space Ziggurat by Foebane"
+      }
+    ]
+  },
+  "amp1": {
+    "levelId": "421",
+    "dateStamp": "2004-07-16",
+    "zip": "amp1",
+    "sha256": "94b4a81a88f7abb6999719e4ae8f23c3622a97ba0e7a59c82eced4d39937708f",
+    "includes": [
+      {
+        "bsp": "ampt1",
+        "title": "TeKn0 Tournament - By Amphetamine"
+      }
+    ]
+  },
+  "ancient_pka": {
+    "levelId": "1731",
+    "dateStamp": "2004-07-16",
+    "zip": "ancient_pka",
+    "sha256": "9b28939f4e452bf5b3e5154f205b6bd8998bd558f2b1245568d11c037720f50a",
+    "includes": [
+      {
+        "bsp": "ancient",
+        "title": "Ancient Ways"
+      }
+    ]
+  },
+  "anctc": {
+    "levelId": "1545",
+    "dateStamp": "2004-07-16",
+    "zip": "anctc",
+    "sha256": "8c9cff9efbd4cc7f5257010543499fb6a9356fc083ef723ae2206a3801900519",
+    "includes": [
+      {
+        "bsp": "AncTC",
+        "title": "Ancient Tower Construct"
+      }
+    ]
+  },
+  "angryhatred": {
+    "levelId": "533",
+    "dateStamp": "2004-07-16",
+    "zip": "angryhatred",
+    "sha256": "b732b12293b821c7bbfd4e9f9a9493fa6671cc20ed42e1b20b3e1f6b747c9c1d",
+    "includes": [
+      {
+        "bsp": "angryhatred",
+        "title": "angry hatred by nakedape"
+      }
+    ]
+  },
+  "annoyance": {
+    "levelId": "325",
+    "dateStamp": "2004-07-16",
+    "zip": "annoyance",
+    "sha256": "08a03716f3ad50dc015b217c5c43e9528df5b43eabec5c68500708b0e0446132",
+    "includes": [
+      {
+        "bsp": "annoyance",
+        "title": "Annoyance"
+      }
+    ]
+  },
+  "antilogic": {
+    "levelId": "211",
+    "dateStamp": "2004-07-16",
+    "zip": "antilogic",
+    "sha256": "629037cea99963db45d50c6119cbf5abbe5839ebef82d59ead935b598c02a14a",
+    "includes": [
+      {
+        "bsp": "antilogic",
+        "title": "AntiLogic"
+      }
+    ]
+  },
+  "aod": {
+    "levelId": "347",
+    "dateStamp": "2004-07-16",
+    "zip": "aod",
+    "sha256": "e890efa9e1c02cb112ff9b30b76c7231bc25917f352f2166678bfafc51156d47",
+    "includes": [
+      {
+        "bsp": "aod",
+        "title": "Arena of Death"
+      }
+    ]
+  },
+  "aodm3": {
+    "levelId": "233",
+    "dateStamp": "2004-07-16",
+    "zip": "aodm3",
+    "sha256": "6bbbaf452438c606a3dc9513b52c7183c957c51aca8821adb87afa32508900d6",
+    "includes": [
+      {
+        "bsp": "aodm3",
+        "title": "The Art of Kanly"
+      }
+    ]
+  },
+  "aphdm2": {
+    "levelId": "513",
+    "dateStamp": "2004-07-16",
+    "zip": "aphdm2",
+    "sha256": "86d0700dfaa60fbcd7d9b506465826e64ccf616ddea321423500f6abf103609a",
+    "includes": [
+      {
+        "bsp": "aphdm2",
+        "title": "Personal Space - by aPhobic"
+      }
+    ]
+  },
+  "apodm1": {
+    "levelId": "266",
+    "dateStamp": "2004-07-16",
+    "zip": "apodm1",
+    "sha256": "8416b9fb7ef7beed7e074b776ea871e578447b0e9ed7f38b0321e8cb2d880ab6",
+    "includes": [
+      {
+        "bsp": "apodm1",
+        "title": "Heavy Metal Machine"
+      }
+    ]
+  },
+  "aps_dm4": {
+    "levelId": "260",
+    "dateStamp": "2004-07-16",
+    "zip": "aps_dm4",
+    "sha256": "ae3c0b93ce080657feac44441e901afb3ffb03496f825c5fc647020514f6fa7f",
+    "includes": [
+      {
+        "bsp": "aps_dm4",
+        "title": "The Haunting - By ApolloSoft"
+      }
+    ]
+  },
+  "aps_maps": {
+    "levelId": "268",
+    "dateStamp": "2004-07-16",
+    "zip": "aps_maps",
+    "sha256": "50ce2905a01f0bb148a8588245fd87c40c21fea3f8674facf68eb54a299cfe57",
+    "includes": [
+      {
+        "bsp": "aps_dm1",
+        "title": "No Way Out - By ApolloSoft"
+      },
+      {
+        "bsp": "aps_dm2",
+        "title": "Mario Cart Block Wars - By ApolloSoft"
+      },
+      {
+        "bsp": "aps_dm3",
+        "title": "Full Metal Jacket - by ApolloSoft"
+      }
+    ]
+  },
+  "aqua": {
+    "levelId": "1472",
+    "dateStamp": "2004-07-16",
+    "zip": "aqua",
+    "sha256": "83c8f8f5f2f5982b7169c1c4d56dfa49828c3898e6bd534a94ef0f191e1e6c42",
+    "includes": [
+      {
+        "bsp": "aqua",
+        "title": "AQUA ARENA"
+      }
+    ]
+  },
+  "area15": {
+    "levelId": "206",
+    "dateStamp": "2004-07-16",
+    "zip": "area15",
+    "sha256": "015bcef9d10418ab8f98ae6c6442c9b475cabacdeb5e808deeeba58ed40f0ee8",
+    "includes": [
+      {
+        "bsp": "area15",
+        "title": "Area15"
+      }
+    ]
+  },
+  "arena66": {
+    "levelId": "933",
+    "dateStamp": "2004-07-16",
+    "zip": "arena66",
+    "sha256": "66bcff1a92e9d07fc085f3c82c96052f3fc3031f09664a826f07c2f26fbb690e",
+    "includes": [
+      {
+        "bsp": "arena66",
+        "title": "The Janus Syndrome by Anwulf"
+      }
+    ]
+  },
+  "arena999": {
+    "levelId": "1460",
+    "dateStamp": "2004-07-16",
+    "zip": "arena999",
+    "sha256": "10160143c2145a9d163346e1b72b1feaf4e0363afe4a49e227173abd92d54f45",
+    "includes": [
+      {
+        "bsp": "arena999",
+        "title": "Arena 999 By: BUN"
+      }
+    ]
+  },
+  "arena_2": {
+    "levelId": "453",
+    "dateStamp": "2004-07-16",
+    "zip": "arena_2",
+    "sha256": "a6dac73b1ba6c3df182820b782bd9dddc3e1c7e3f3dd27a1820ba0b0e6232301",
+    "includes": [
+      {
+        "bsp": "arena",
+        "title": "Sirius Arena http://www.sqz.de"
+      }
+    ]
+  },
+  "arrakeenalpha": {
+    "levelId": "283",
+    "dateStamp": "2004-07-16",
+    "zip": "arrakeenalpha",
+    "sha256": "83e2f01ce9fb07baa02fa75e83e3fafdf206c743f13480b8c2544cd3090183bf",
+    "includes": [
+      {
+        "bsp": "arrakeenalpha",
+        "title": "Arrakeen Alpha by Smack2"
+      }
+    ]
+  },
+  "arrakeenbeta": {
+    "levelId": "282",
+    "dateStamp": "2004-07-16",
+    "zip": "arrakeenbeta",
+    "sha256": "f002f3d9d454baf92511ccb77fb3eb46c36409699fa7fd0b59d3d643300a9876",
+    "includes": [
+      {
+        "bsp": "arrakeenbeta",
+        "title": "Arrakeen Beta by Smack2"
+      }
+    ]
+  },
+  "arrakeendelta": {
+    "levelId": "280",
+    "dateStamp": "2004-07-16",
+    "zip": "arrakeendelta",
+    "sha256": "980f9cd5643480b119dc506f8deaede8eb6dc3c04fa6560c24377e844eea91f7",
+    "includes": [
+      {
+        "bsp": "arrakeendelta",
+        "title": "Arrakeen Delta by Smack2"
+      }
+    ]
+  },
+  "arrakeengamma": {
+    "levelId": "281",
+    "dateStamp": "2004-07-16",
+    "zip": "arrakeengamma",
+    "sha256": "a8c4ff03da2787b803a0f6a88a7be8f4ec68106f66b88b0da5e1b1641416a7f3",
+    "includes": [
+      {
+        "bsp": "arrakeengamma",
+        "title": "Arrakeen Gamma by Smack2"
+      }
+    ]
+  },
+  "ar_dm_ir": {
+    "levelId": "1695",
+    "dateStamp": "2004-07-16",
+    "zip": "ar_dm_ir",
+    "sha256": "ed97bcdecca465e6229ba59c08c9e7642ad297e13e249611dfba06662b91006f",
+    "includes": [
+      {
+        "bsp": "ar_dm_ir",
+        "title": "ar_dm_ir"
+      }
+    ]
+  },
+  "asb_dm1": {
+    "levelId": "1118",
+    "dateStamp": "2004-07-16",
+    "zip": "asb_dm1",
+    "sha256": "5ec0901da55d5c422c73ef0a1ba08498737a5cdb919ee61452a8e01530d0c4ec",
+    "includes": [
+      {
+        "bsp": "asb_dm1",
+        "title": "The Shortest Yard"
+      }
+    ]
+  },
+  "asb_dm3": {
+    "levelId": "1213",
+    "dateStamp": "2004-07-16",
+    "zip": "asb_dm3",
+    "sha256": "f951a58d09c35a83c3d65dce45394a7654ae91149270474677a0651c9b27b1c3",
+    "includes": [
+      {
+        "bsp": "asb_dm3",
+        "title": "The Fire Temple"
+      }
+    ]
+  },
+  "ascend": {
+    "levelId": "1192",
+    "dateStamp": "2004-07-16",
+    "zip": "ascend",
+    "sha256": "7b29baa1ed172edebedfc8ebf74597fbf51c1df4d3fdac55b1edf4c1b1a23d88",
+    "includes": [
+      {
+        "bsp": "ascend",
+        "title": "ascend"
+      }
+    ]
+  },
+  "asnatourney1": {
+    "levelId": "1646",
+    "dateStamp": "2004-07-16",
+    "zip": "asnatourney1",
+    "sha256": "d861f0be89735b72170ab215fc36250d97f0ba2cc6018c28c0ac25ab094ffd2c",
+    "includes": [
+      {
+        "bsp": "asnatourney1",
+        "title": "Forgotten Temple"
+      }
+    ]
+  },
+  "assault": {
+    "levelId": "1210",
+    "dateStamp": "2004-07-16",
+    "zip": "assault",
+    "sha256": "148a440149dfd6a4da1813eb49d1e857cbd0d64ae6b721f7548fb2b8e75ee009",
+    "includes": [
+      {
+        "bsp": "ASSault",
+        "title": "Ass Ault"
+      }
+    ]
+  },
+  "asteroid": {
+    "levelId": "1405",
+    "dateStamp": "2004-07-16",
+    "zip": "asteroid",
+    "sha256": "d8abcf5088ca74664e21d3a3eb1579e2d0cb078b14d912791b94d9ea3231dce1",
+    "includes": [
+      {
+        "bsp": "asteroid",
+        "title": "Red Base"
+      }
+    ]
+  },
+  "asylum": {
+    "levelId": "73",
+    "dateStamp": "2004-07-16",
+    "zip": "asylum",
+    "sha256": "ceef714b88e542ad7e4af6aa141563bd1f0f125f1c27ad6adc6be87a59746998",
+    "includes": [
+      {
+        "bsp": "asylum",
+        "title": "the Asylum of Remorse"
+      }
+    ]
+  },
+  "atkq3adm01": {
+    "levelId": "1566",
+    "dateStamp": "2004-07-16",
+    "zip": "atkq3adm01",
+    "sha256": "498f9d446039a34fa7faf5b28d83273ea40f97b8271b8033814b8eddf996ba7d",
+    "includes": [
+      {
+        "bsp": "atkq3adm01",
+        "title": "Sewer"
+      }
+    ]
+  },
+  "atomic": {
+    "levelId": "41",
+    "dateStamp": "2004-07-16",
+    "zip": "atomic",
+    "sha256": "f071560700c7319d9bf12851e6dbb935aee69a0f0a4c9bd36f00aba250c64daa",
+    "includes": [
+      {
+        "bsp": "atomic",
+        "title": "Atomic Flow by Cole Savage"
+      }
+    ]
+  },
+  "auh3dm1a": {
+    "levelId": "614",
+    "dateStamp": "2004-07-16",
+    "zip": "auh3dm1a",
+    "sha256": "8540e203170445c51591aceaefc0cffd47fad525579d8a5363e53018cf585c2e",
+    "includes": [
+      {
+        "bsp": "auh3dm1",
+        "title": "OverWhelming HostiLity"
+      }
+    ]
+  },
+  "auh3dm2": {
+    "levelId": "501",
+    "dateStamp": "2004-07-16",
+    "zip": "auh3dm2",
+    "sha256": "fe3caf556be7539e8313f14a1973b7a322a0f22cd7eb8a37ce326b3b73c7da23",
+    "includes": [
+      {
+        "bsp": "auh3dm2",
+        "title": "The Backstab"
+      }
+    ]
+  },
+  "avctf1": {
+    "levelId": "830",
+    "dateStamp": "2004-07-16",
+    "zip": "avctf1",
+    "sha256": "5089c3c90cca64643eedec0ea77e7f2ac6c3db5b0c69ade4d5d1ab6c9607ef47",
+    "includes": [
+      {
+        "bsp": "avctf1",
+        "title": "Sonic Bounce"
+      }
+    ]
+  },
+  "awg4": {
+    "levelId": "970",
+    "dateStamp": "2004-07-16",
+    "zip": "awg4",
+    "sha256": "cc6250fbb2d755934a8c47f41b1970641e3d32e323594353ff7d3c40d457bd61",
+    "includes": [
+      {
+        "bsp": "awg4",
+        "title": "Liquid Hong (A Watery Grave IV)"
+      }
+    ]
+  },
+  "axbabyra3": {
+    "levelId": "608",
+    "dateStamp": "2004-07-16",
+    "zip": "axbabyra3",
+    "sha256": "793d8da2d1b32cff59716fcd9c088247f04a25c4b12c8b451ce805a84bc8ce0f",
+    "includes": [
+      {
+        "bsp": "axbabyra3",
+        "title": "AXBABY'S HOUSE"
+      }
+    ]
+  },
+  "axzctfmaps": {
+    "levelId": "1493",
+    "dateStamp": "2004-07-16",
+    "zip": "axzctfmaps",
+    "sha256": "d03a0a2faf258becd77d7cd77f68671ff84fe56c7bc304528f4d3cab118a9490",
+    "includes": [
+      {
+        "bsp": "axzctf1",
+        "title": "Derkesthai's Domain"
+      },
+      {
+        "bsp": "axzctf2",
+        "title": "Sexual's Frustration"
+      }
+    ]
+  },
+  "azradm1": {
+    "levelId": "880",
+    "dateStamp": "2004-07-16",
+    "zip": "azradm1",
+    "sha256": "ce2c7c9c53edda8a5886e01a38a4d3c4bb2c582cbf787ab0aaf9a1f03f6e973e",
+    "includes": [
+      {
+        "bsp": "azradm1",
+        "title": "Into the Void"
+      }
+    ]
+  },
+  "b2kpit": {
+    "levelId": "431",
+    "dateStamp": "2004-07-16",
+    "zip": "b2kpit",
+    "sha256": "537572909342dd65658c4b7c46e9b49012a94f678aee7814dd2f58b422f09fa7",
+    "includes": [
+      {
+        "bsp": "b2kpit",
+        "title": "b2kpit"
+      }
+    ]
+  },
+  "badassdm1": {
+    "levelId": "642",
+    "dateStamp": "2004-07-16",
+    "zip": "badassdm1",
+    "sha256": "86cfb1e975b59e878dbd5a8cbe71afc335c405f2bae8234064c8dcddf3119847",
+    "includes": [
+      {
+        "bsp": "badassdm1",
+        "title": "hell in a very small place"
+      }
+    ]
+  },
+  "badhaus": {
+    "levelId": "708",
+    "dateStamp": "2004-07-16",
+    "zip": "badhaus",
+    "sha256": "81f140fc66ec8f714267dde40da1d7b129353160a3c146d317a85b3ea56b6483",
+    "includes": [
+      {
+        "bsp": "badhaus",
+        "title": "The Bad Scheishaus"
+      }
+    ]
+  },
+  "badmojo": {
+    "levelId": "668",
+    "dateStamp": "2004-07-16",
+    "zip": "badmojo",
+    "sha256": "286cb5259e079bef81fe0cc27860bcc8af9f56d8066e079ff010a0bb7787960a",
+    "includes": [
+      {
+        "bsp": "badmojo",
+        "title": "badmojo by gonnakillya!"
+      }
+    ]
+  },
+  "bah": {
+    "levelId": "1585",
+    "dateStamp": "2004-07-16",
+    "zip": "bah",
+    "sha256": "57797a7e6e9893066f404e8791fdea1179bf8f991d8faa4631186d8bafd91f14",
+    "includes": [
+      {
+        "bsp": "bah",
+        "title": "BAH (by cRunCh)"
+      }
+    ]
+  },
+  "bal3dm1": {
+    "levelId": "228",
+    "dateStamp": "2004-07-16",
+    "zip": "bal3dm1",
+    "sha256": "2a5a9ab96bd3772062d35b9ddd2228bb930db9a2a0cf2e0ac688bc4b933cb7bd",
+    "includes": [
+      {
+        "bsp": "bal3dm1",
+        "title": "Bal3dm1 - Ash Rain"
+      }
+    ]
+  },
+  "bal3dm2": {
+    "levelId": "429",
+    "dateStamp": "2004-07-16",
+    "zip": "bal3dm2",
+    "sha256": "c08e925b35d44e1ac21480d29d5eb0afd305d8250bf6188bfb8bc58db6a5db35",
+    "includes": [
+      {
+        "bsp": "Bal3dm2",
+        "title": "Golconda by Bal"
+      }
+    ]
+  },
+  "bal3dm3": {
+    "levelId": "670",
+    "dateStamp": "2004-07-16",
+    "zip": "bal3dm3",
+    "sha256": "aab7987bab43d103c86c8a91680ca82226f814d6c38bad778b30893ff7bd300c",
+    "includes": [
+      {
+        "bsp": "bal3dm3",
+        "title": "Bal3dm3 - Disinfomation"
+      }
+    ]
+  },
+  "bal3dm4": {
+    "levelId": "857",
+    "dateStamp": "2004-07-16",
+    "zip": "bal3dm4",
+    "sha256": "4d8922bad1c8e9bdbb64c5c5fad33a1c19cb1c40fe30d2c78a59d60f45c30026",
+    "includes": [
+      {
+        "bsp": "Bal3dm4",
+        "title": "Bal3dm4 - Scrap Metal ]["
+      }
+    ]
+  },
+  "bap3dm1": {
+    "levelId": "763",
+    "dateStamp": "2004-07-16",
+    "zip": "bap3dm1",
+    "sha256": "7cb0dac66589e183fc0146ed022fa456adba9cbb6cad6812eb7ad73ae1db1f14",
+    "includes": [
+      {
+        "bsp": "bap3dm1",
+        "title": "Eat Steak"
+      }
+    ]
+  },
+  "bap3dm2": {
+    "levelId": "1216",
+    "dateStamp": "2004-07-16",
+    "zip": "bap3dm2",
+    "sha256": "9857aaf38fe0328262035c6bf2e7565fdcbdd1f60d659b6b9bc5bacd9fb57551",
+    "includes": [
+      {
+        "bsp": "bap3dm2",
+        "title": "Cachectic Machination by Shallow[BAP]"
+      }
+    ]
+  },
+  "bario_dm2": {
+    "levelId": "1339",
+    "dateStamp": "2004-07-16",
+    "zip": "bario_dm2",
+    "sha256": "f584c049e381825589d573e8095fc9f37fcc493424a82a55823ea47e673473c0",
+    "includes": [
+      {
+        "bsp": "BARIO_Dm2",
+        "title": "Once was One Way."
+      }
+    ]
+  },
+  "basicinstincts": {
+    "levelId": "634",
+    "dateStamp": "2004-07-16",
+    "zip": "basicinstincts",
+    "sha256": "72480ce2dfaac84d21b6948886210ceefe01f1a5d0917f91769b5ca3bd422e51",
+    "includes": [
+      {
+        "bsp": "basic",
+        "title": "Basic Instincts"
+      }
+    ]
+  },
+  "bastir": {
+    "levelId": "1331",
+    "dateStamp": "2004-07-16",
+    "zip": "bastir",
+    "sha256": "c007c4e4eded96b81799739986239c88ae193d2d588c2d867bb5a3e9f0859e65",
+    "includes": [
+      {
+        "bsp": "bastir",
+        "title": "La Bastille"
+      }
+    ]
+  },
+  "batcula": {
+    "levelId": "1008",
+    "dateStamp": "2004-07-16",
+    "zip": "batcula",
+    "sha256": "f561df133a5a615372ce340197471158920254c6f7a3b467311e3bbda9e2e275",
+    "includes": [
+      {
+        "bsp": "batcula",
+        "title": "-batcula-"
+      }
+    ]
+  },
+  "battledome": {
+    "levelId": "1052",
+    "dateStamp": "2004-07-16",
+    "zip": "battledome",
+    "sha256": "e68743d79a56103877b5318b5ce6f4bf0549f9cfb3e92b3e1bb4ce74f9e0346f",
+    "includes": [
+      {
+        "bsp": "battlerail",
+        "title": "Battle Dome"
+      },
+      {
+        "bsp": "battlerocket",
+        "title": "Battle Dome"
+      }
+    ]
+  },
+  "bbq3dm1": {
+    "levelId": "516",
+    "dateStamp": "2004-07-16",
+    "zip": "bbq3dm1",
+    "sha256": "49e03f0523fa542eff8057a080b9f43b0c8ed98515ad56d21ee15b33ba54a1b9",
+    "includes": [
+      {
+        "bsp": "bbq3dm1",
+        "title": "Arenaholica by Bushboy"
+      }
+    ]
+  },
+  "bbq3dm2": {
+    "levelId": "1064",
+    "dateStamp": "2004-07-16",
+    "zip": "bbq3dm2",
+    "sha256": "2f6798c5223c739458f1ca69589f04fbfbb87c260f629dd728aa97368abfa624",
+    "includes": [
+      {
+        "bsp": "bbq3dm2",
+        "title": "Mental Oasis"
+      }
+    ]
+  },
+  "bdog3dm1": {
+    "levelId": "1684",
+    "dateStamp": "2004-07-16",
+    "zip": "bdog3dm1",
+    "sha256": "f76fc6f3a52543ad7c385e66cb7e99f2675057c9f1ca2fb7d467ef8716d96f9d",
+    "includes": [
+      {
+        "bsp": "bdog3dm1",
+        "title": "BDOG3DM1"
+      }
+    ]
+  },
+  "bdra3": {
+    "levelId": "288",
+    "dateStamp": "2004-07-16",
+    "zip": "bdra3",
+    "sha256": "dbafb4a29b9736dee1df3072e7e01c089c05ab034cdc9acf6989a538ddb1848f",
+    "includes": [
+      {
+        "bsp": "bdra3",
+        "title": "Cathedral Square By:Bulldog"
+      }
+    ]
+  },
+  "bdra3-2": {
+    "levelId": "394",
+    "dateStamp": "2004-07-16",
+    "zip": "bdra3-2",
+    "sha256": "d1412193a5dfb367b9e306c2af2b127d8d2c4475c8b6dbb7e865e33ffe0490d6",
+    "includes": [
+      {
+        "bsp": "sector5a",
+        "title": "Sector 5A By: Bulldog"
+      }
+    ]
+  }
+}

@@ -39,6 +39,25 @@
       "Team Arena"
     ]
   },
+  "map-13star": {
+    "levelId": "2153",
+    "dateStamp": "2011-02-13",
+    "zip": "map-13star",
+    "sha256": "e6d1c5f6465645a73fd93014553ba5cc68c627a62ccff210e93200e1b0f1a24b",
+    "author": "sst13",
+    "extract": "An entry into the Leveldesign.nl 20 Brush Contest Volume 1, Starforce is a small gauntlet-only space arena. The layout consists purely of a star-shaped platform and a void. All bullets are removed from players upon spawning to keep gameplay p",
+    "includes": [
+      {
+        "bsp": "13star",
+        "title": "Starforce (by sst13)"
+      }
+    ],
+    "gameMode": [
+      "DM",
+      "Experimental",
+      "2-5 players"
+    ]
+  },
   "map-13hive": {
     "levelId": "2147",
     "dateStamp": "2011-02-13",
@@ -58,25 +77,6 @@
       "Team DM",
       "Tourney",
       "2-4 players"
-    ]
-  },
-  "map-13star": {
-    "levelId": "2153",
-    "dateStamp": "2011-02-13",
-    "zip": "map-13star",
-    "sha256": "e6d1c5f6465645a73fd93014553ba5cc68c627a62ccff210e93200e1b0f1a24b",
-    "author": "sst13",
-    "extract": "An entry into the Leveldesign.nl 20 Brush Contest Volume 1, Starforce is a small gauntlet-only space arena. The layout consists purely of a star-shaped platform and a void. All bullets are removed from players upon spawning to keep gameplay p",
-    "includes": [
-      {
-        "bsp": "13star",
-        "title": "Starforce (by sst13)"
-      }
-    ],
-    "gameMode": [
-      "DM",
-      "Experimental",
-      "2-5 players"
     ]
   },
   "ermap4": {
@@ -195,6 +195,24 @@
       "4-8 players"
     ]
   },
+  "azazel": {
+    "levelId": "997",
+    "dateStamp": "2011-03-23",
+    "zip": "azazel",
+    "sha256": "d5fb266f117351838d43f86f072267511848d400612c7f53e5b2d2387b405743",
+    "author": "neg!ke",
+    "extract": "A large DM arena with some impressive architecture, inspired by  nunuk's geometry challenge competition. Texturing is well executed, and the author has done well with the limited number of textures the rules of the competition allow. The great architecture",
+    "includes": [
+      {
+        "bsp": "azazel",
+        "title": "Azazel"
+      }
+    ],
+    "gameMode": [
+      "DM",
+      "6-12 players"
+    ]
+  },
   "spirit3t3a": {
     "levelId": "1945",
     "dateStamp": "2011-03-23",
@@ -213,24 +231,6 @@
       "DM",
       "Tourney",
       "2-4 players"
-    ]
-  },
-  "mmachine": {
-    "levelId": "820",
-    "dateStamp": "2011-03-23",
-    "zip": "mmachine",
-    "sha256": "a9adbf8b98075d78188454d659345d390389dbc38dc58cf2f7d3419030cac87d",
-    "author": "neg!ke",
-    "extract": "Some great brush work with a well realised and consistent theme running throughout the level. Unfortunately, the game play is terrible. The connectivity and game flow are almost non-existent with too many convoluted paths and dead ends. The author clearly ",
-    "includes": [
-      {
-        "bsp": "mmachine",
-        "title": "misanthropy machine"
-      }
-    ],
-    "gameMode": [
-      "DM",
-      "4-8 players"
     ]
   },
   "longscreams": {
@@ -252,22 +252,22 @@
       "2-4 players"
     ]
   },
-  "azazel": {
-    "levelId": "997",
+  "mmachine": {
+    "levelId": "820",
     "dateStamp": "2011-03-23",
-    "zip": "azazel",
-    "sha256": "d5fb266f117351838d43f86f072267511848d400612c7f53e5b2d2387b405743",
+    "zip": "mmachine",
+    "sha256": "a9adbf8b98075d78188454d659345d390389dbc38dc58cf2f7d3419030cac87d",
     "author": "neg!ke",
-    "extract": "A large DM arena with some impressive architecture, inspired by  nunuk's geometry challenge competition. Texturing is well executed, and the author has done well with the limited number of textures the rules of the competition allow. The great architecture",
+    "extract": "Some great brush work with a well realised and consistent theme running throughout the level. Unfortunately, the game play is terrible. The connectivity and game flow are almost non-existent with too many convoluted paths and dead ends. The author clearly ",
     "includes": [
       {
-        "bsp": "azazel",
-        "title": "Azazel"
+        "bsp": "mmachine",
+        "title": "misanthropy machine"
       }
     ],
     "gameMode": [
       "DM",
-      "6-12 players"
+      "4-8 players"
     ]
   },
   "jstrq3dm2": {
@@ -309,24 +309,6 @@
       "2-8 players"
     ]
   },
-  "q3ultradm3": {
-    "levelId": "2149",
-    "dateStamp": "2011-04-11",
-    "zip": "q3ultradm3",
-    "sha256": "6c1a0a28cb64509644166504e928cedb656a55788b754c2f8afae694bf55217b",
-    "author": "Ney",
-    "extract": "This is in all practicality a straight-forward CTF version of Arena of Death (Q3DM3). The bases are mirrored and joined by the RA courtyard with the flags spawning at the PG/RL teamed spawn. There are no base color schemes so the only way to know which bas",
-    "includes": [
-      {
-        "bsp": "q3ultradm3",
-        "title": "Arena of Death"
-      }
-    ],
-    "gameMode": [
-      "CTF",
-      "4-6 players"
-    ]
-  },
   "q3ultratourney3": {
     "levelId": "2150",
     "dateStamp": "2011-04-11",
@@ -345,102 +327,22 @@
       "6-12 players"
     ]
   },
-  "storm3tourney8": {
-    "levelId": "2160",
-    "dateStamp": "2011-04-13",
-    "zip": "storm3tourney8",
-    "sha256": "40dc913f5d42c191ed7411d69c70cc01d8ccf269e2afc9f3f8aed6cf010a6e59",
-    "author": "StormShadow",
-    "extract": "Devilish (storm3tourney8) was created for the first Maverick Mapping Competition held in the winter of 2009. Amongst some tough competition with maps like Focal Point and",
+  "q3ultradm3": {
+    "levelId": "2149",
+    "dateStamp": "2011-04-11",
+    "zip": "q3ultradm3",
+    "sha256": "6c1a0a28cb64509644166504e928cedb656a55788b754c2f8afae694bf55217b",
+    "author": "Ney",
+    "extract": "This is in all practicality a straight-forward CTF version of Arena of Death (Q3DM3). The bases are mirrored and joined by the RA courtyard with the flags spawning at the PG/RL teamed spawn. There are no base color schemes so the only way to know which bas",
     "includes": [
       {
-        "bsp": "storm3tourney8",
-        "title": "Devilish"
-      }
-    ],
-    "gameMode": [
-      "Clan Arena",
-      "DM",
-      "FreezeTag",
-      "Team DM",
-      "Tourney",
-      "2-8 players"
-    ]
-  },
-  "q3wpak1": {
-    "levelId": "2181",
-    "dateStamp": "2011-04-13",
-    "zip": "q3wpak1",
-    "sha256": "ea97c0362ba0da8971b7b7ac01b563429122ecc67b623b68c9659cc60bea431b",
-    "author": "Various",
-    "extract": "Although most people probably have a copy of the ThreeWave mappacks installed on their computer, this is the first time on ..::LvL that they have been reviewed. Some of the maps included have already been reviewed. Some of these maps are also available on ",
-    "includes": [
-      {
-        "bsp": "q3wcp1",
-        "title": "Japanese Castles - 3W"
-      },
-      {
-        "bsp": "q3wcp10",
-        "title": "Crude Crossings - 3W"
-      },
-      {
-        "bsp": "q3wcp11",
-        "title": "Industrial Accident - 3W"
-      },
-      {
-        "bsp": "q3wcp12",
-        "title": "Mostly Harmless - 3W"
-      },
-      {
-        "bsp": "q3wcp13",
-        "title": "funk dat! - 3w"
-      },
-      {
-        "bsp": "q3wcp14",
-        "title": "Camper Crossings - 3W"
-      },
-      {
-        "bsp": "q3wcp15",
-        "title": "Industrial Revolution - 3W"
-      },
-      {
-        "bsp": "q3wcp16",
-        "title": "Coral CTF - 3W"
-      },
-      {
-        "bsp": "q3wcp9",
-        "title": "Spider Crossings - 3W"
-      },
-      {
-        "bsp": "q3wxs2",
-        "title": "Silly Shootings - 3W"
+        "bsp": "q3ultradm3",
+        "title": "Arena of Death"
       }
     ],
     "gameMode": [
       "CTF",
-      "Map pack",
-      "Team Arena",
-      "6-12 players"
-    ]
-  },
-  "storm3tourney9": {
-    "levelId": "2172",
-    "dateStamp": "2011-04-13",
-    "zip": "storm3tourney9",
-    "sha256": "f7e5f41d85acd2401580cc973e8c8f1a47b44aaba303a96e747eaba5d8c346fb",
-    "author": "StormShadow",
-    "extract": "A freezy themed level with some nice details: icicles, snow and ice. The ice is slippery to touch and as such becomes a hazard to be aware of. Textures are very realistic. The metal finish adds a lot to the cold feel of the level. The map has well placed i",
-    "includes": [
-      {
-        "bsp": "storm3tourney9",
-        "title": "Arctica"
-      }
-    ],
-    "gameMode": [
-      "DM",
-      "Team DM",
-      "Tourney",
-      "2-4 players"
+      "4-6 players"
     ]
   },
   "q3wpak4": {
@@ -449,7 +351,7 @@
     "zip": "q3wpak4",
     "sha256": "af90a801b5238909fdc61b66fa82ab9ce4f50c97faa99d4c1b18144149179e30",
     "author": "Various",
-    "extract": "As with Threewave releases, the maps are all made from different Authors. All CTF related game modes are supported including Team Arena. Also, Bots are support and play without issues and appear to have no issues with item pick-ups unless stated otherwise.",
+    "extract": "As with all Threewave releases, the maps are all made from different Authors. All CTF related game modes are supported including Team Arena. Also, Bots are supported and play without issues and appear to have no issues with item pick-ups unless stated othe",
     "includes": [
       {
         "bsp": "q3wcp17",
@@ -539,6 +441,104 @@
       "6-12 players"
     ]
   },
+  "storm3tourney8": {
+    "levelId": "2160",
+    "dateStamp": "2011-04-13",
+    "zip": "storm3tourney8",
+    "sha256": "40dc913f5d42c191ed7411d69c70cc01d8ccf269e2afc9f3f8aed6cf010a6e59",
+    "author": "StormShadow",
+    "extract": "Devilish (storm3tourney8) was created for the first Maverick Mapping Competition held in the winter of 2009. Amongst some tough competition with maps like Focal Point and",
+    "includes": [
+      {
+        "bsp": "storm3tourney8",
+        "title": "Devilish"
+      }
+    ],
+    "gameMode": [
+      "Clan Arena",
+      "DM",
+      "FreezeTag",
+      "Team DM",
+      "Tourney",
+      "2-8 players"
+    ]
+  },
+  "storm3tourney9": {
+    "levelId": "2172",
+    "dateStamp": "2011-04-13",
+    "zip": "storm3tourney9",
+    "sha256": "f7e5f41d85acd2401580cc973e8c8f1a47b44aaba303a96e747eaba5d8c346fb",
+    "author": "StormShadow",
+    "extract": "A freezy themed level with some nice details: icicles, snow and ice. The ice is slippery to touch and as such becomes a hazard to be aware of. Textures are very realistic. The metal finish adds a lot to the cold feel of the level. The map has well placed i",
+    "includes": [
+      {
+        "bsp": "storm3tourney9",
+        "title": "Arctica"
+      }
+    ],
+    "gameMode": [
+      "DM",
+      "Team DM",
+      "Tourney",
+      "2-4 players"
+    ]
+  },
+  "q3wpak1": {
+    "levelId": "2181",
+    "dateStamp": "2011-04-13",
+    "zip": "q3wpak1",
+    "sha256": "ea97c0362ba0da8971b7b7ac01b563429122ecc67b623b68c9659cc60bea431b",
+    "author": "Various",
+    "extract": "Although most people probably have a copy of the ThreeWave mappacks installed on their computer, this is the first time on ..::LvL that they have been reviewed. Some of the maps included have already been reviewed. Some of these maps are also available on ",
+    "includes": [
+      {
+        "bsp": "q3wcp1",
+        "title": "Japanese Castles - 3W"
+      },
+      {
+        "bsp": "q3wcp10",
+        "title": "Crude Crossings - 3W"
+      },
+      {
+        "bsp": "q3wcp11",
+        "title": "Industrial Accident - 3W"
+      },
+      {
+        "bsp": "q3wcp12",
+        "title": "Mostly Harmless - 3W"
+      },
+      {
+        "bsp": "q3wcp13",
+        "title": "funk dat! - 3w"
+      },
+      {
+        "bsp": "q3wcp14",
+        "title": "Camper Crossings - 3W"
+      },
+      {
+        "bsp": "q3wcp15",
+        "title": "Industrial Revolution - 3W"
+      },
+      {
+        "bsp": "q3wcp16",
+        "title": "Coral CTF - 3W"
+      },
+      {
+        "bsp": "q3wcp9",
+        "title": "Spider Crossings - 3W"
+      },
+      {
+        "bsp": "q3wxs2",
+        "title": "Silly Shootings - 3W"
+      }
+    ],
+    "gameMode": [
+      "CTF",
+      "Map pack",
+      "Team Arena",
+      "6-12 players"
+    ]
+  },
   "q3wpak3": {
     "levelId": "2207",
     "dateStamp": "2011-04-13",
@@ -591,44 +591,6 @@
       "6-16 players"
     ]
   },
-  "q3dmcod1": {
-    "levelId": "2155",
-    "dateStamp": "2011-04-24",
-    "zip": "q3dmcod1",
-    "sha256": "79ad11ea190ff5b5dee7b29c210e0b810375db4d7bc0aad7a588a453460942c3",
-    "author": "KOHTPA",
-    "extract": "q3dmcod1, which you might have guessed by the filename, is a remake of a Call of Duty 4: Modern Warfare map, in this case \"Shipment\" from COD4. Being such a different game from Quake and requiring different skills, you would expect something completely unp",
-    "includes": [
-      {
-        "bsp": "q3dmcod1",
-        "title": "q3dmcod1"
-      }
-    ],
-    "gameMode": [
-      "DM",
-      "Tourney",
-      "2-4 players"
-    ]
-  },
-  "dk_dk": {
-    "levelId": "2159",
-    "dateStamp": "2011-04-24",
-    "zip": "dk_dk",
-    "sha256": "f9bfe7b7ceb7ccbf026976b16abd153595fca2f84b15421c218a1826a8874ed1",
-    "author": "dONKEY",
-    "extract": "A medium sized, Steampunked theme release (according to the author), with pretty dang good gameplay. The eye candy is pretty sweet! Leaking pipes, bird chirping and even the fan jumppads have leaves blowing above them - nice. And the bots play great, usual",
-    "includes": [
-      {
-        "bsp": "dk_dk",
-        "title": "Quake 3 Steam Arena"
-      }
-    ],
-    "gameMode": [
-      "DM",
-      "Tourney",
-      "2-4 players"
-    ]
-  },
   "dk_ng2_final": {
     "levelId": "2171",
     "dateStamp": "2011-04-24",
@@ -669,6 +631,44 @@
       "2-4 players"
     ]
   },
+  "dk_dk": {
+    "levelId": "2159",
+    "dateStamp": "2011-04-24",
+    "zip": "dk_dk",
+    "sha256": "f9bfe7b7ceb7ccbf026976b16abd153595fca2f84b15421c218a1826a8874ed1",
+    "author": "dONKEY",
+    "extract": "A medium sized, Steampunked theme release (according to the author), with pretty dang good gameplay. The eye candy is pretty sweet! Leaking pipes, bird chirping and even the fan jumppads have leaves blowing above them - nice. And the bots play great, usual",
+    "includes": [
+      {
+        "bsp": "dk_dk",
+        "title": "Quake 3 Steam Arena"
+      }
+    ],
+    "gameMode": [
+      "DM",
+      "Tourney",
+      "2-4 players"
+    ]
+  },
+  "q3dmcod1": {
+    "levelId": "2155",
+    "dateStamp": "2011-04-24",
+    "zip": "q3dmcod1",
+    "sha256": "79ad11ea190ff5b5dee7b29c210e0b810375db4d7bc0aad7a588a453460942c3",
+    "author": "KOHTPA",
+    "extract": "q3dmcod1, which you might have guessed by the filename, is a remake of a Call of Duty 4: Modern Warfare map, in this case \"Shipment\" from COD4. Being such a different game from Quake and requiring different skills, you would expect something completely unp",
+    "includes": [
+      {
+        "bsp": "q3dmcod1",
+        "title": "q3dmcod1"
+      }
+    ],
+    "gameMode": [
+      "DM",
+      "Tourney",
+      "2-4 players"
+    ]
+  },
   "q3sod3": {
     "levelId": "2152",
     "dateStamp": "2011-05-02",
@@ -692,7 +692,7 @@
     "dateStamp": "2011-05-20",
     "zip": "cpm4a",
     "sha256": "e8366b12da7c8464ecb4a1982d1f1ff64ad0f467bb606daca4325b477a1b3284",
-    "author": "Khaile and swelt",
+    "author": "Khaile & swelt",
     "extract": "How does one write a review of an established map retrospectively, years after its initial release date? Where the traditional supports available to a writer (such as first impressions and personal opinion) no longer apply, the review becomes something of ",
     "includes": [
       {
@@ -804,6 +804,26 @@
       "3-8 players"
     ]
   },
+  "nodm6": {
+    "levelId": "2168",
+    "dateStamp": "2011-06-15",
+    "zip": "nodm6",
+    "sha256": "91cd4d401500a63d2f0721e24638b011f8d5b8650c0b5d5e34338cf78994dced",
+    "author": "Phage & swelt",
+    "extract": "Abandoned Rugs by Phage and swelt is a large, well connected map for FFA or TDM. For FFA, the author says 4 - 10 players, and I agree with this range. In my opinion the map plays best with 6. TDM team sizes can range from 3 to about 6. The map is large, co",
+    "includes": [
+      {
+        "bsp": "nodm6",
+        "title": "Abandoned Rugs"
+      }
+    ],
+    "gameMode": [
+      "CPM",
+      "DM",
+      "Team DM",
+      "4-10 players"
+    ]
+  },
   "ospdm14rc1": {
     "levelId": "2176",
     "dateStamp": "2011-06-15",
@@ -822,26 +842,6 @@
       "DM",
       "Team DM",
       "6-10 players"
-    ]
-  },
-  "nodm6": {
-    "levelId": "2168",
-    "dateStamp": "2011-06-15",
-    "zip": "nodm6",
-    "sha256": "91cd4d401500a63d2f0721e24638b011f8d5b8650c0b5d5e34338cf78994dced",
-    "author": "Phage and swelt",
-    "extract": "Abandoned Rugs by Phage and swelt is a large, well connected map for FFA or TDM. For FFA, the author says 4 - 10 players, and I agree with this range. In my opinion the map plays best with 6. TDM team sizes can range from 3 to about 6. The map is large, co",
-    "includes": [
-      {
-        "bsp": "nodm6",
-        "title": "Abandoned Rugs"
-      }
-    ],
-    "gameMode": [
-      "CPM",
-      "DM",
-      "Team DM",
-      "4-10 players"
     ]
   },
   "sanctum": {
@@ -968,7 +968,7 @@
     "dateStamp": "2011-08-05",
     "zip": "cpm18r",
     "sha256": "fddd94479e38996f0a184081b4643531479d6a5cd5d0f245e02d7ae860b33eea",
-    "author": "swelt and Lunaran",
+    "author": "swelt & Lunaran",
     "extract": "Swelt's career in ProMode mapping began with his involvement with the Challenge ProMode (CPM) clan Nobles and In December of 2000 CPM finally became CPMA with the mod's first public release featuring multi-arena support. Because there were very few Team De",
     "includes": [
       {
@@ -981,6 +981,26 @@
       "DM",
       "Team DM",
       "4-8 players"
+    ]
+  },
+  "lun3_20b1": {
+    "levelId": "2183",
+    "dateStamp": "2011-08-05",
+    "zip": "lun3_20b1",
+    "sha256": "2d3534bed098071f8b351db99e2df03c98af2e90b50e994eb5cd699ae804545d",
+    "author": "Lunaran",
+    "extract": "What a mouthful of a map name! I was as confused as you were, reader, when I stumbled upon this arena and took a gander at the title. Fortunately for us, the term is defined simply at Wikipedia, where it is said to be \"...logical incons",
+    "includes": [
+      {
+        "bsp": "lun3_20b1",
+        "title": "Ludonarrative Dissonance"
+      }
+    ],
+    "gameMode": [
+      "DM",
+      "Floater",
+      "Tourney",
+      "2-6 players"
     ]
   },
   "czg3team1": {
@@ -1006,32 +1026,12 @@
       "2-8 players"
     ]
   },
-  "lun3_20b1": {
-    "levelId": "2183",
-    "dateStamp": "2011-08-05",
-    "zip": "lun3_20b1",
-    "sha256": "2d3534bed098071f8b351db99e2df03c98af2e90b50e994eb5cd699ae804545d",
-    "author": "Lunaran",
-    "extract": "What a mouthful of a map name! I was as confused as you were, reader, when I stumbled upon this arena and took a gander at the title. Fortunately for us, the term is defined simply at Wikipedia, where it is said to be \"...logical incons",
-    "includes": [
-      {
-        "bsp": "lun3_20b1",
-        "title": "Ludonarrative Dissonance"
-      }
-    ],
-    "gameMode": [
-      "DM",
-      "Floater",
-      "Tourney",
-      "2-6 players"
-    ]
-  },
   "map_cpm3a": {
     "levelId": "2213",
     "dateStamp": "2011-08-15",
     "zip": "map_cpm3a",
     "sha256": "e42f4b9a2898a654c97fbe5ccd529deecc864641038131ee1cf0bf8091c933ef",
-    "author": "FxR|Jude and swelt",
+    "author": "FxR|jude & swelt",
     "extract": "Based on the Quake level, The Bad Place (DM4) and used as extensively as the original Q3A levels The Camping Grounds and Lost World in certain circles. This map was used for many CPMA tournament matches. The changes from map_cpm3 to map_cpm3a are almost to",
     "includes": [
       {
@@ -1043,6 +1043,42 @@
       "CPM",
       "Tourney",
       "2 players"
+    ]
+  },
+  "map-rjlctf2": {
+    "levelId": "2188",
+    "dateStamp": "2011-08-15",
+    "zip": "map-rjlctf2",
+    "sha256": "b50293b2cf2a8cc0c7455a24dbd6bee47a69d68dd1e22888af18693d82966929",
+    "author": "r3tina",
+    "extract": "Constructed for nunuk's Geo Challenge #2, Concrete Void is a medium-large, bilateral symmetry CTF arena. As with all maps designed for the GeoComp, don't expect a lot of textures, because instead what you'll be finding is lots of fancy geometry!",
+    "includes": [
+      {
+        "bsp": "rjlctf2",
+        "title": "Concrete Void - by r3tina"
+      }
+    ],
+    "gameMode": [
+      "CTF",
+      "4-10 players"
+    ]
+  },
+  "map-rjlctf1": {
+    "levelId": "2194",
+    "dateStamp": "2011-08-15",
+    "zip": "map-rjlctf1",
+    "sha256": "a575b56864643a0f29b4968328a105f2e3896ada3e4d17c2b036179cd4a035e4",
+    "author": "r3tina",
+    "extract": "A brush too far was originally released in 2001 by r3tina. 11 years later this level finally appears on ..::LvL but, does it pass the test of time? If I am not mistaken, this was the first official CTF map for Quake3 by r3tina. H",
+    "includes": [
+      {
+        "bsp": "rjlctf1",
+        "title": "A brush too far - by r3tina"
+      }
+    ],
+    "gameMode": [
+      "CTF",
+      "6-10 players"
     ]
   },
   "map-erta1": {
@@ -1065,40 +1101,27 @@
       "4-8 players"
     ]
   },
-  "map-rjlctf1": {
-    "levelId": "2194",
-    "dateStamp": "2011-08-15",
-    "zip": "map-rjlctf1",
-    "sha256": "a575b56864643a0f29b4968328a105f2e3896ada3e4d17c2b036179cd4a035e4",
-    "author": "r3tina",
-    "extract": "A brush too far was originally released in 2001 by r3tina. 11 years later this level finally appears on ..::LvL but, does it pass the test of time? If I am not mistaken, this was the first official CTF map for Quake3 by r3tina. H",
+  "pasctf4_final": {
+    "levelId": "2195",
+    "dateStamp": "2011-09-04",
+    "zip": "pasctf4_final",
+    "sha256": "7d91b8a6a381d066f61ce4a6c458983a55a884b7f3ddf633771c607ba90d984f",
+    "author": "EmeraldTiger",
+    "extract": "EmeraldTiger's entry for the Summer 2011 Maverick Mapping Competition is a nice, small CTF map compatible with all modes from Team Arena - nice work! Right from the beginning you can see that quality is the mos",
     "includes": [
       {
-        "bsp": "rjlctf1",
-        "title": "A brush too far - by r3tina"
+        "bsp": "pasctf4",
+        "title": "Tactical Assault"
       }
     ],
     "gameMode": [
+      "CPM",
       "CTF",
-      "6-10 players"
-    ]
-  },
-  "map-rjlctf2": {
-    "levelId": "2188",
-    "dateStamp": "2011-08-15",
-    "zip": "map-rjlctf2",
-    "sha256": "b50293b2cf2a8cc0c7455a24dbd6bee47a69d68dd1e22888af18693d82966929",
-    "author": "r3tina",
-    "extract": "Constructed for nunuk's Geo Challenge #2, Concrete Void is a medium-large, bilateral symmetry CTF arena. As with all maps designed for the GeoComp, don't expect a lot of textures, because instead what you'll be finding is lots of fancy geometry!",
-    "includes": [
-      {
-        "bsp": "rjlctf2",
-        "title": "Concrete Void - by r3tina"
-      }
-    ],
-    "gameMode": [
-      "CTF",
-      "4-10 players"
+      "Harvester",
+      "One Flag CTF",
+      "Overload",
+      "Team Arena",
+      "6-12 players"
     ]
   },
   "bst3dm1": {
@@ -1132,48 +1155,6 @@
       {
         "bsp": "q3shw27",
         "title": "Sanctum by ShadoW"
-      }
-    ],
-    "gameMode": [
-      "DM",
-      "Team DM",
-      "4-8 players"
-    ]
-  },
-  "pasctf4_final": {
-    "levelId": "2195",
-    "dateStamp": "2011-09-04",
-    "zip": "pasctf4_final",
-    "sha256": "7d91b8a6a381d066f61ce4a6c458983a55a884b7f3ddf633771c607ba90d984f",
-    "author": "EmeraldTiger",
-    "extract": "EmeraldTiger's entry for the Summer 2011 Maverick Mapping Competition is a nice, small CTF map compatible with all modes from Team Arena - nice work! Right from the beginning you can see that quality is the mos",
-    "includes": [
-      {
-        "bsp": "pasctf4",
-        "title": "Tactical Assault"
-      }
-    ],
-    "gameMode": [
-      "CPM",
-      "CTF",
-      "Harvester",
-      "One Flag CTF",
-      "Overload",
-      "Team Arena",
-      "6-12 players"
-    ]
-  },
-  "knc_dm3": {
-    "levelId": "2182",
-    "dateStamp": "2011-09-10",
-    "zip": "knc_dm3",
-    "sha256": "846ff72b39dd8b11ee852335d7e6b41a084b91705a20b992967e3b40c28193f1",
-    "author": "Kaffeewunder",
-    "extract": "Conquistadores Lost achieved 4th place in the third competition hosted by Maverick Servers and Gaming. The author, Patrick \"Kaffeewunder\" Horn, made a giant leap from his ranking in the previous competition with \"Io",
-    "includes": [
-      {
-        "bsp": "knc_dm3",
-        "title": "conquistadores lost"
       }
     ],
     "gameMode": [
@@ -1220,6 +1201,25 @@
       "Team DM",
       "Tourney",
       "2-8 players"
+    ]
+  },
+  "knc_dm3": {
+    "levelId": "2182",
+    "dateStamp": "2011-09-10",
+    "zip": "knc_dm3",
+    "sha256": "846ff72b39dd8b11ee852335d7e6b41a084b91705a20b992967e3b40c28193f1",
+    "author": "Kaffeewunder",
+    "extract": "Conquistadores Lost achieved 4th place in the third competition hosted by Maverick Servers and Gaming. The author, Patrick \"Kaffeewunder\" Horn, made a giant leap from his ranking in the previous competition with \"Io",
+    "includes": [
+      {
+        "bsp": "knc_dm3",
+        "title": "conquistadores lost"
+      }
+    ],
+    "gameMode": [
+      "DM",
+      "Team DM",
+      "4-8 players"
     ]
   },
   "ct3ctf2": {
@@ -1431,47 +1431,6 @@
       "4-10 players"
     ]
   },
-  "pasdm1": {
-    "levelId": "2201",
-    "dateStamp": "2011-11-23",
-    "zip": "pasdm1",
-    "sha256": "bc8d333a13a50a08dfe5b798d80e59d9559744ecd6b5ce3a0ce7dbc9be3a66b8",
-    "author": "EmeraldTiger",
-    "extract": "A great release from EmeraldTiger. The maps theme is awesome with a great layout that suits it. Some of the item layout is reminiscent of id Software. For example, the Chaingun (in Team Arena) is located away from the ammo for it. The Invulnerability Spher",
-    "includes": [
-      {
-        "bsp": "pasdm1",
-        "title": "Dynasty"
-      }
-    ],
-    "gameMode": [
-      "Clan Arena",
-      "CPM",
-      "DM",
-      "FreezeTag",
-      "Team Arena",
-      "Team DM",
-      "6-16 players"
-    ]
-  },
-  "prejudice2": {
-    "levelId": "2205",
-    "dateStamp": "2011-11-23",
-    "zip": "prejudice2",
-    "sha256": "54072ea9ec19fcfde4ba95e46bd6c1aa21b9fe1322f5b98e55ab87b93ffd33fe",
-    "author": "UDARvEBALO",
-    "extract": "A broken city themed map. It is one large open area filled with assorted city-like architecture. Buildings, tunnels, walkways, platforms, stairs and other random structures all interconnect to form a network of possible places to go. The texturing, archite",
-    "includes": [
-      {
-        "bsp": "prejudice2",
-        "title": "UDARvEBALO - Prejudice2"
-      }
-    ],
-    "gameMode": [
-      "DM",
-      "3-8 players"
-    ]
-  },
   "q3tourney3a": {
     "levelId": "2203",
     "dateStamp": "2011-11-23",
@@ -1511,12 +1470,53 @@
       "2-5 players"
     ]
   },
+  "prejudice2": {
+    "levelId": "2205",
+    "dateStamp": "2011-11-23",
+    "zip": "prejudice2",
+    "sha256": "54072ea9ec19fcfde4ba95e46bd6c1aa21b9fe1322f5b98e55ab87b93ffd33fe",
+    "author": "UDARvEBALO",
+    "extract": "A broken city themed map. It is one large open area filled with assorted city-like architecture. Buildings, tunnels, walkways, platforms, stairs and other random structures all interconnect to form a network of possible places to go. The texturing, archite",
+    "includes": [
+      {
+        "bsp": "prejudice2",
+        "title": "UDARvEBALO - Prejudice2"
+      }
+    ],
+    "gameMode": [
+      "DM",
+      "3-8 players"
+    ]
+  },
+  "pasdm1": {
+    "levelId": "2201",
+    "dateStamp": "2011-11-23",
+    "zip": "pasdm1",
+    "sha256": "bc8d333a13a50a08dfe5b798d80e59d9559744ecd6b5ce3a0ce7dbc9be3a66b8",
+    "author": "EmeraldTiger",
+    "extract": "A great release from EmeraldTiger. The maps theme is awesome with a great layout that suits it. Some of the item layout is reminiscent of id Software. For example, the Chaingun (in Team Arena) is located away from the ammo for it. The Invulnerability Spher",
+    "includes": [
+      {
+        "bsp": "pasdm1",
+        "title": "Dynasty"
+      }
+    ],
+    "gameMode": [
+      "Clan Arena",
+      "CPM",
+      "DM",
+      "FreezeTag",
+      "Team Arena",
+      "Team DM",
+      "6-16 players"
+    ]
+  },
   "romanduel": {
     "levelId": "2200",
     "dateStamp": "2011-11-30",
     "zip": "romanduel",
     "sha256": "bbdf67091a2a452abb52d5e034b77c632e0cc1151915084540f6753ce4e1178d",
-    "author": "Bliccer and DaEngineer",
+    "author": "Bliccer & DaEngineer",
     "extract": "Here is another Maverick Summer 2011 Competition map for people to enjoy.  A medium-small dueling map, (which you most likely guessed from the name). Roman Duel was initially a one-man project but eventually Bliccer decided to team up with",
     "includes": [
       {
@@ -1598,6 +1598,25 @@
       "3-6 players"
     ]
   },
+  "gauntlet": {
+    "levelId": "2191",
+    "dateStamp": "2011-12-22",
+    "zip": "gauntlet",
+    "sha256": "864e9186b3fa55f8b660f17bf8a9fadc45aa3ba3cc3baba1e2f786288e83370b",
+    "author": "AiO.Wiz",
+    "extract": "Gauntlet is a small, seriously flawed deathmatch map that contains the typical characteristics of a person's first creation, and then some. The map's theme is highly eccentric. It feels like a childrens playground with its bright colors, some of the textur",
+    "includes": [
+      {
+        "bsp": "gauntlet(cce)",
+        "title": "Comision Colombiana del Espacio"
+      }
+    ],
+    "gameMode": [
+      "DM",
+      "Tourney",
+      "2-4 players"
+    ]
+  },
   "q3d3pak1": {
     "levelId": "2230",
     "dateStamp": "2011-12-22",
@@ -1623,25 +1642,6 @@
       "DM",
       "Team DM",
       "4-8 players"
-    ]
-  },
-  "gauntlet": {
-    "levelId": "2191",
-    "dateStamp": "2011-12-22",
-    "zip": "gauntlet",
-    "sha256": "864e9186b3fa55f8b660f17bf8a9fadc45aa3ba3cc3baba1e2f786288e83370b",
-    "author": "AiO.Wiz",
-    "extract": "Gauntlet is a small, seriously flawed deathmatch map that contains the typical characteristics of a person's first creation, and then some. The map's theme is highly eccentric. It feels like a childrens playground with its bright colors, some of the textur",
-    "includes": [
-      {
-        "bsp": "gauntlet(cce)",
-        "title": "Comision Colombiana del Espacio"
-      }
-    ],
-    "gameMode": [
-      "DM",
-      "Tourney",
-      "2-4 players"
     ]
   }
 }

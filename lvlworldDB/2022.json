@@ -1,0 +1,229 @@
+{
+  "quadwell_final": {
+    "levelId": "2466",
+    "dateStamp": "2022-01-03",
+    "zip": "quadwell_final",
+    "sha256": "f307de02449f6430456514da284ebfb6c28485af2a48ec9e9cab5e2f608a8ff1",
+    "author": "DaEngineer",
+    "extract": "Professional, high quality map with awesome visuals and gameplay. That could be the entire review. It's 2022 and maps like this show just how solid and strong the Q3A engine really is. The rich visuals, detailed environment and fast gameplay are both conte",
+    "includes": [
+      {
+        "bsp": "quadwell",
+        "title": "by Victor Karp"
+      }
+    ],
+    "gameMode": [
+      "DM",
+      "Team DM",
+      "Tourney",
+      "2-4 players"
+    ]
+  },
+  "firstrebirth": {
+    "levelId": "2472",
+    "dateStamp": "2022-02-13",
+    "zip": "firstrebirth",
+    "sha256": "cc829c8bf83cdfbe3aa22e02ee96a05406057f71af3f5d93b5ad2b85f5f733d5",
+    "author": "Gelenkbusfahrer",
+    "extract": "A discard unfinished collaborative map from Hipshot and cityy has been recovered, finished and release as First Rebirth by Gelenkbusfahrer. It is a solid release, there is no doubt about it in terms of",
+    "includes": [
+      {
+        "bsp": "firstrebirth",
+        "title": "First Rebirth"
+      }
+    ],
+    "gameMode": [
+      "Clan Arena",
+      "DM",
+      "Team DM",
+      "4-10 players"
+    ]
+  },
+  "reactor": {
+    "levelId": "2474",
+    "dateStamp": "2022-02-13",
+    "zip": "reactor",
+    "sha256": "ba09b8ebd05b89ba551be1f1491555c81604ee4d0296f324032ef4fb0e4135e8",
+    "author": "Gelenkbusfahrer",
+    "extract": "A large round open arena with two spiralling walkways around a central shaft. Designed originally for Quake Live Clan Arena matches (think fast Team DM, last man standing if unsure what that is), then ported to Quake 3. There is no doubt the matches can be",
+    "includes": [
+      {
+        "bsp": "reactor",
+        "title": "Reactor"
+      }
+    ],
+    "gameMode": [
+      "Clan Arena",
+      "DM",
+      "Team DM",
+      "Tourney",
+      "2-8 players"
+    ]
+  },
+  "revolve": {
+    "levelId": null,
+    "dateStamp": "2022-02-13",
+    "zip": "revolve",
+    "sha256": "072857b0c47e8306162196f25b236adf6e7855a08aa384a01e5fab40210ce7db",
+    "author": null,
+    "extract": null,
+    "includes": [
+      {
+        "bsp": "revolve",
+        "title": "Revolve"
+      }
+    ],
+    "gameMode": []
+  },
+  "gen_q1dm1": {
+    "levelId": "2469",
+    "dateStamp": "2022-03-05",
+    "zip": "gen_q1dm1",
+    "sha256": "4e10ce990d68b296cbc3eb19cf66452a4a2eb5938de40e673c097b5b4ed45475",
+    "author": "Gelenkbusfahrer & Castle",
+    "extract": "Back in 1996, Tim Willits put together Place of Two Deaths (dm1) as one of the three maps of Qtest, which was the precursor for Quake. Think of it as a Tech De",
+    "includes": [
+      {
+        "bsp": "gen_q1dm1",
+        "title": "Place of 2 more Deaths"
+      }
+    ],
+    "gameMode": [
+      "DM",
+      "Team DM",
+      "Tourney",
+      "2-8 players"
+    ]
+  },
+  "rooftopsctf": {
+    "levelId": "2471",
+    "dateStamp": "2022-04-09",
+    "zip": "rooftopsctf",
+    "sha256": "83b15280d97994928d660a78353953b0466c0de87eb548fb8a6d3fe8c2ec1aed",
+    "author": "FluSyndrome",
+    "extract": "Designed for the PainKeep Arena mod but playable as a base Q3A CTF map. The theme is as obvious as the title, a CTF map on a building root tops. The theme and the visuals are a little basic, but more than suitable. The environment is immersive and believab",
+    "includes": [
+      {
+        "bsp": "rooftopsctf",
+        "title": "Rooftops CTF for Pkarena"
+      }
+    ],
+    "gameMode": [
+      "Painkeep Arena",
+      "Q3F CTF",
+      "2-8 players"
+    ]
+  },
+  "gliese581ctf": {
+    "levelId": null,
+    "dateStamp": "2022-04-25",
+    "zip": "gliese581ctf",
+    "sha256": "c35a210079e5688083100d1b6ad5dad3b9ece53766133ce0c776c3d9e4e311f1",
+    "author": null,
+    "extract": null,
+    "includes": [
+      {
+        "bsp": "gliese581ctf",
+        "title": "Gliese581 CTF"
+      }
+    ],
+    "gameMode": []
+  },
+  "spikedm1": {
+    "levelId": null,
+    "dateStamp": "2022-04-28",
+    "zip": "spikedm1",
+    "sha256": "88517f7a1cdf8dab1b6f50a736a5ffae84c033402f93ff55cdb26a1051c20a17",
+    "author": null,
+    "extract": null,
+    "includes": [
+      {
+        "bsp": "spikedm1",
+        "title": "The Fragpit"
+      }
+    ],
+    "gameMode": []
+  },
+  "map-13hell": {
+    "levelId": "2475",
+    "dateStamp": "2022-05-01",
+    "zip": "map-13hell",
+    "sha256": "87a8368c07d545072191f1227f7fbceec6e285a2050e62ef8ec5d06e30efc50e",
+    "author": "sst13",
+    "extract": "sst13 is a master of the remake, there is no doubt there and this release is just another in the impressive collection. Jump into Hell's Gate (q3tourney3) to remind yourself of the original, then load up this awesome remake. You quickly remember the games ",
+    "includes": [
+      {
+        "bsp": "13hell",
+        "title": "Hell's Gate - Extended (by sst13)"
+      }
+    ],
+    "gameMode": [
+      "DM",
+      "Team DM",
+      "3-8 players"
+    ]
+  },
+  "map-13zone": {
+    "levelId": null,
+    "dateStamp": "2022-05-01",
+    "zip": "map-13zone",
+    "sha256": "83df02faeb27df3144f411c1fec062940f441ed266d3a08e4a7dfd340ff41547",
+    "author": null,
+    "extract": null,
+    "includes": [
+      {
+        "bsp": "13zone",
+        "title": "The Dark Zone RMX (by sst13)"
+      }
+    ],
+    "gameMode": []
+  },
+  "mjkq3adm1": {
+    "levelId": "556",
+    "dateStamp": "2022-05-03",
+    "zip": "mjkq3adm1",
+    "sha256": "7aede69be83d04f21ac155799e83b5dce3deab724a3312736192a7d895d4ec8e",
+    "author": "ShadowZombie",
+    "extract": "A very cool Rocket 3 Arena like level where you spawn with 200 armour and a Rocket Launcher (no mod needed with this map). The map is laid out in a large box map surrounded by flames. The aural atmosphere is very thick with the constant fire sound. Texturi",
+    "includes": [
+      {
+        "bsp": "mjkq3adm1",
+        "title": "eruption_by mjk"
+      }
+    ],
+    "gameMode": [
+      "RA3",
+      "2-4 players"
+    ]
+  },
+  "blueplanet": {
+    "levelId": null,
+    "dateStamp": "2022-05-31",
+    "zip": "blueplanet",
+    "sha256": "ac04bede16df26de1e247b3e8187043e26eb8ac444a826f0e426e75da97d3468",
+    "author": null,
+    "extract": null,
+    "includes": [
+      {
+        "bsp": "blueplanet",
+        "title": "Blue Planet"
+      }
+    ],
+    "gameMode": []
+  },
+  "mavctf1": {
+    "levelId": null,
+    "dateStamp": "2022-05-31",
+    "zip": "mavctf1",
+    "sha256": "b80809fdcbe3dcdd9dc696a15062c16821d20d16b03599ee6b387cebbc1820d9",
+    "author": null,
+    "extract": null,
+    "includes": [
+      {
+        "bsp": "mavctf1",
+        "title": "World's End"
+      }
+    ],
+    "gameMode": []
+  }
+}

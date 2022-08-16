@@ -3,6 +3,7 @@ var readAllCommands = require('../discordPoll/poll-channels.js')
 var {authorizeGateway} = require('../discordApi')
 var {MESSAGE_TIME} = require('../discordApi/default-config.js')
 var {privateChannels} = require('../discordApi/gateway.js')
+var DEFAULT_GUILD = process.env.DEFAULT_CHANNEL || '319817668117135362'
 var DEFAULT_CHANNEL = process.env.DEFAULT_CHANNEL || 'general'
 var stillRunning = false
 var commandResponder
@@ -22,10 +23,11 @@ async function respondChannel(specificChannel) {
     specificChannel = ''
   } else {
     var guilds = await userGuilds()
-    console.log(`Reading ${guilds.length} guilds`)
-    for(var i = 0; i < guilds.length; i++) {
-      channels.push.apply(channels, await guildChannels(guilds[i].id))
-    }
+    //console.log(`Reading ${guilds.length} guilds`)
+    //for(var i = 0; i < guilds.length; i++) {
+    //  channels.push.apply(channels, await guildChannels(guilds[i].id))
+      channels.push.apply(channels, await guildChannels(DEFAULT_GUILD))
+    //}
     //console.log(channels)
     for(var k = 0; k < channels.length; k++) {
       if(channels[k].type != 0)

@@ -41,7 +41,7 @@
     "dateStamp": "2020-05-02",
     "zip": "eocmappack",
     "sha256": "e813d6c460c641a5ad93f368ed7950ce32a4cd85f920fcda0458d352a3a0a59c",
-    "author": "Eraser, r3tina and SithLord",
+    "author": "Eraser, r3tina & SithLord",
     "extract": "More than just a map or even a mappack, this release includes a full-fledged mod in q3spenhanced. This mod makes it so single player tiers can include more than just FFA matches - with support for tourney, TDM, and even CTF modes. Work began first",
     "includes": [
       {
@@ -129,24 +129,6 @@
       "2-3 players"
     ]
   },
-  "fjo3geo1": {
-    "levelId": "2419",
-    "dateStamp": "2020-07-29",
-    "zip": "fjo3geo1",
-    "sha256": "1599648415d77165cf31912e8134e81ded6f4708bf636068feb6d5c7d80f406e",
-    "author": "Fjoggs",
-    "extract": "This is a map released in 2004 by a known mapper (Fjoggs). It was made for and submitted to the Geocomp 3 of that year. The author was not satisfied with the product, and it seems nor were the judges, putting the map in the middle of the competition's rank",
-    "includes": [
-      {
-        "bsp": "Fjo3geo1",
-        "title": "Phing? Phong!"
-      }
-    ],
-    "gameMode": [
-      "DM",
-      "3-6 players"
-    ]
-  },
   "fjo3dm1": {
     "levelId": "2423",
     "dateStamp": "2020-07-29",
@@ -167,12 +149,30 @@
       "2-5 players"
     ]
   },
+  "fjo3geo1": {
+    "levelId": "2419",
+    "dateStamp": "2020-07-29",
+    "zip": "fjo3geo1",
+    "sha256": "1599648415d77165cf31912e8134e81ded6f4708bf636068feb6d5c7d80f406e",
+    "author": "Fjoggs",
+    "extract": "This is a map released in 2004 by a known mapper (Fjoggs). It was made for and submitted to the Geocomp 3 of that year. The author was not satisfied with the product, and it seems nor were the judges, putting the map in the middle of the competition's rank",
+    "includes": [
+      {
+        "bsp": "Fjo3geo1",
+        "title": "Phing? Phong!"
+      }
+    ],
+    "gameMode": [
+      "DM",
+      "3-6 players"
+    ]
+  },
   "invertedpenguin": {
     "levelId": "2418",
     "dateStamp": "2020-07-29",
     "zip": "invertedpenguin",
     "sha256": "40b29a215a8c1a64577c78bb6e7f3489958144cc79bad8662ce4c3c6c057d909",
-    "author": "Fjoggs and voodoochopstiks",
+    "author": "Fjoggs & voodoochopstiks",
     "extract": "I'll admit that I don't understand what penguins have to do with this map at all (apart from the levelshot), and why they would be inverted. Bizarre naming aside, what we have here is a pretty nice, medium-sized CPMA map that's playable in 2v2 TDM a",
     "includes": [
       {
@@ -185,6 +185,62 @@
       "DM",
       "Tourney",
       "2-5 players"
+    ]
+  },
+  "adsa3dm1": {
+    "levelId": "47",
+    "dateStamp": "2020-08-25",
+    "zip": "adsa3dm1",
+    "sha256": "bad5a526de2878535ecf5fa93a7618b9f15fa46642f5e9b3af7c81ae39ea7f23",
+    "author": "RoboRock",
+    "extract": "As far as first release maps go this is not bad. However, its too dark, too small and too easy to know where the other player is in a 1on1. Add two more players and it is a bit of a tight fragfest - at least until you get bored with it. Lots of room for im",
+    "includes": [
+      {
+        "bsp": "adsa3dm1",
+        "title": "thought for death"
+      }
+    ],
+    "gameMode": [
+      "DM",
+      "Floater",
+      "Tourney",
+      "2-4 players"
+    ]
+  },
+  "halven": {
+    "levelId": "193",
+    "dateStamp": "2020-08-25",
+    "zip": "halven",
+    "sha256": "d3bd6749ef3dd608c4ccb64f2e4e657fa2b646f6b3ae83e6b648a01f92e3ab92",
+    "author": "Neo Cerberus",
+    "extract": "A Railarena map. One room with a red fog floor (not fog of death) and an unusual double layered platform. The jumppads did not feel quite right for some reason. Plays fine with 2 players if you want to sharpen your railgun aiming. If a Railarena is what yo",
+    "includes": [
+      {
+        "bsp": "halven",
+        "title": "Halven"
+      }
+    ],
+    "gameMode": [
+      "Rail Arena",
+      "2 players"
+    ]
+  },
+  "map-ctf_gutterlandmusic": {
+    "levelId": "196",
+    "dateStamp": "2020-08-25",
+    "zip": "map-ctf_gutterlandmusic",
+    "sha256": "bfce63a9e4a74b52dccf8a49e99c7620fb769bc4b8bc9812c7360d41d8bf7e5b",
+    "author": "Gutterman",
+    "extract": "This 9meg download could have been 2meg without the music file (see below). The layout and gameplay are OK. I liked being able to defend the flag from outside the the base. What I did not like was the architecture; it just looks dodgy, the map world floats",
+    "includes": [
+      {
+        "bsp": "ctf_gutterland",
+        "title": "GutterLand"
+      }
+    ],
+    "gameMode": [
+      "CTF",
+      "6-10 players"
     ]
   },
   "plutoniq": {
@@ -255,26 +311,6 @@
       "3-6 players"
     ]
   },
-  "adsa3dm1": {
-    "levelId": "47",
-    "dateStamp": "2020-08-25",
-    "zip": "adsa3dm1",
-    "sha256": "bad5a526de2878535ecf5fa93a7618b9f15fa46642f5e9b3af7c81ae39ea7f23",
-    "author": "RoboRock",
-    "extract": "As far as first release maps go this is not bad. However, its too dark, too small and too easy to know where the other player is in a 1on1. Add two more players and it is a bit of a tight fragfest - at least until you get bored with it. Lots of room for im",
-    "includes": [
-      {
-        "bsp": "adsa3dm1",
-        "title": "thought for death"
-      }
-    ],
-    "gameMode": [
-      "DM",
-      "Floater",
-      "Tourney",
-      "2-4 players"
-    ]
-  },
   "v-q3dm1x_ctf": {
     "levelId": "1877",
     "dateStamp": "2020-08-25",
@@ -306,24 +342,6 @@
       "2-8 players"
     ]
   },
-  "map-ctf_gutterlandmusic": {
-    "levelId": "196",
-    "dateStamp": "2020-08-25",
-    "zip": "map-ctf_gutterlandmusic",
-    "sha256": "bfce63a9e4a74b52dccf8a49e99c7620fb769bc4b8bc9812c7360d41d8bf7e5b",
-    "author": "Gutterman",
-    "extract": "This 9meg download could have been 2meg without the music file (see below). The layout and gameplay are OK. I liked being able to defend the flag from outside the the base. What I did not like was the architecture; it just looks dodgy, the map world floats",
-    "includes": [
-      {
-        "bsp": "ctf_gutterland",
-        "title": "GutterLand"
-      }
-    ],
-    "gameMode": [
-      "CTF",
-      "6-10 players"
-    ]
-  },
   "vedq3dm1": {
     "levelId": "150",
     "dateStamp": "2020-08-25",
@@ -340,43 +358,6 @@
     "gameMode": [
       "DM",
       "3-4 players"
-    ]
-  },
-  "halven": {
-    "levelId": "193",
-    "dateStamp": "2020-08-25",
-    "zip": "halven",
-    "sha256": "d3bd6749ef3dd608c4ccb64f2e4e657fa2b646f6b3ae83e6b648a01f92e3ab92",
-    "author": "Neo Cerberus",
-    "extract": "A Railarena map. One room with a red fog floor (not fog of death) and an unusual double layered platform. The jumppads did not feel quite right for some reason. Plays fine with 2 players if you want to sharpen your railgun aiming. If a Railarena is what yo",
-    "includes": [
-      {
-        "bsp": "halven",
-        "title": "Halven"
-      }
-    ],
-    "gameMode": [
-      "Rail Arena",
-      "2 players"
-    ]
-  },
-  "jntourney1": {
-    "levelId": "1063",
-    "dateStamp": "2020-09-19",
-    "zip": "jntourney1",
-    "sha256": "d91660c6f5388b7b7aa570f56eb1d4813fe6dd9dde96b4fa374eea9e0437af84",
-    "author": "Qthulu",
-    "extract": "You could call 'Bullet Ride' a pocket version of q3dm13,but there's a lot more  to it than that. A very compact layout with a lot of connectivity woven in. Small  corridors burrow through the heart of the map, archways lead to stairways that  lead to rooms",
-    "includes": [
-      {
-        "bsp": "jntourney1",
-        "title": "Bullet Ride"
-      }
-    ],
-    "gameMode": [
-      "DM",
-      "Tourney",
-      "2-5 players"
     ]
   },
   "efdattourney2": {
@@ -398,23 +379,23 @@
       "2-3 players"
     ]
   },
-  "q30tourney1": {
-    "levelId": "2443",
-    "dateStamp": "2020-09-20",
-    "zip": "q30tourney1",
-    "sha256": "f9f938a45a258d5d62e4af8c28ea3486dd4b005a091876eb7a1a1a4e211222ac",
-    "author": "*ZeRo*",
-    "extract": "An interesting tourney map released in 2006 by *Zero*, a mapper with a number of releases here. A big rectangular room welcomes you to the arena. At one end there is the Railgun, and at the other the Rocket Launcher. In the corridors on the sides, the Plas",
+  "jntourney1": {
+    "levelId": "1063",
+    "dateStamp": "2020-09-19",
+    "zip": "jntourney1",
+    "sha256": "d91660c6f5388b7b7aa570f56eb1d4813fe6dd9dde96b4fa374eea9e0437af84",
+    "author": "Qthulu",
+    "extract": "You could call 'Bullet Ride' a pocket version of q3dm13,but there's a lot more  to it than that. A very compact layout with a lot of connectivity woven in. Small  corridors burrow through the heart of the map, archways lead to stairways that  lead to rooms",
     "includes": [
       {
-        "bsp": "q30tourney1",
-        "title": "under fear of death"
+        "bsp": "jntourney1",
+        "title": "Bullet Ride"
       }
     ],
     "gameMode": [
       "DM",
       "Tourney",
-      "2-4 players"
+      "2-5 players"
     ]
   },
   "lit": {
@@ -428,6 +409,25 @@
       {
         "bsp": "lit",
         "title": "~Lost-In-Technic~"
+      }
+    ],
+    "gameMode": [
+      "DM",
+      "Tourney",
+      "2-4 players"
+    ]
+  },
+  "q30tourney1": {
+    "levelId": "2443",
+    "dateStamp": "2020-09-20",
+    "zip": "q30tourney1",
+    "sha256": "f9f938a45a258d5d62e4af8c28ea3486dd4b005a091876eb7a1a1a4e211222ac",
+    "author": "*ZeRo*",
+    "extract": "An interesting tourney map released in 2006 by *Zero*, a mapper with a number of releases here. A big rectangular room welcomes you to the arena. At one end there is the Railgun, and at the other the Rocket Launcher. In the corridors on the sides, the Plas",
+    "includes": [
+      {
+        "bsp": "q30tourney1",
+        "title": "under fear of death"
       }
     ],
     "gameMode": [

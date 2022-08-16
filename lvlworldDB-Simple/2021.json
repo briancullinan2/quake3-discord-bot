@@ -1,0 +1,1278 @@
+{
+  "map-13yard_xt": {
+    "levelId": "2445",
+    "dateStamp": "2021-01-15",
+    "zip": "map-13yard_xt",
+    "sha256": "c8f69807daa7bc718e119a1b1c368dec7ce768a6edaa49b55575fa46e74689b7",
+    "includes": [
+      {
+        "bsp": "13yard_xt",
+        "title": "Lost Yard - Extended (by sst13)"
+      }
+    ]
+  },
+  "map-13house": {
+    "levelId": "2433",
+    "dateStamp": "2021-01-15",
+    "zip": "map-13house",
+    "sha256": "28caf7aefa93690a384170b7fad518e9dc61a20226ab2954532afad60e5a978e",
+    "includes": [
+      {
+        "bsp": "13house",
+        "title": "House Of Chthon (by sst13)"
+      }
+    ]
+  },
+  "map-13circle_xt": {
+    "levelId": "2462",
+    "dateStamp": "2021-01-15",
+    "zip": "map-13circle_xt",
+    "sha256": "f6782b94778add0d2ca9a6ff058899780f9bea942265dbe2ee570f68e5c24f9b",
+    "includes": [
+      {
+        "bsp": "13circle_xt",
+        "title": "Circle Of Death - Extended (by sst13)"
+      }
+    ]
+  },
+  "at": {
+    "levelId": "862",
+    "dateStamp": "2021-01-25",
+    "zip": "at",
+    "sha256": "27bed43864ba992143d4d37ad900d9f1b124656bfeed5a883beda1b4f7ca2add",
+    "includes": [
+      {
+        "bsp": "at",
+        "title": "Alien Temple - v 1.0c - (c) EmaentrA 2001"
+      }
+    ]
+  },
+  "axdm1": {
+    "levelId": "2310",
+    "dateStamp": "2021-01-25",
+    "zip": "axdm1",
+    "sha256": "108a292765602670775cd351334f068ce5b22f27f88bcdb87b5154c428fcc08b",
+    "includes": [
+      {
+        "bsp": "axdm1",
+        "title": "The Heinous Place by AndehX"
+      }
+    ]
+  },
+  "b3dm1": {
+    "levelId": "617",
+    "dateStamp": "2021-01-25",
+    "zip": "b3dm1",
+    "sha256": "c7a82719d5b6d385f58e63efc002826766da4f99344039953c7b6f064e472f9b",
+    "includes": [
+      {
+        "bsp": "b3dm1",
+        "title": "Baphomets Place"
+      }
+    ]
+  },
+  "base": {
+    "levelId": "2086",
+    "dateStamp": "2021-01-25",
+    "zip": "base",
+    "sha256": "24e05b401c4589bc70ea9d00cb12a1290bf997662e39ce96d20669d183932612",
+    "includes": [
+      {
+        "bsp": "base",
+        "title": "The forgotten base"
+      }
+    ]
+  },
+  "battle": {
+    "levelId": "446",
+    "dateStamp": "2021-01-25",
+    "zip": "battle",
+    "sha256": "6a1c6bc62e261ad5ae97120742c4fcdc84f168cdc2876657232a49e14225b682",
+    "includes": [
+      {
+        "bsp": "battle",
+        "title": "Battle zone, by Quid"
+      }
+    ]
+  },
+  "cage": {
+    "levelId": "420",
+    "dateStamp": "2021-01-25",
+    "zip": "cage",
+    "sha256": "dc74329c3b90aee3a689074e1ee6a1de567dd3245940215a456c845240c07d61",
+    "includes": [
+      {
+        "bsp": "cage",
+        "title": "The Cage"
+      }
+    ]
+  },
+  "casablanca": {
+    "levelId": "1061",
+    "dateStamp": "2021-01-25",
+    "zip": "casablanca",
+    "sha256": "fc648213c9c8198c43e57d905230716a1d7cd9228448c2898d2a24526d191acb",
+    "includes": [
+      {
+        "bsp": "casablanca",
+        "title": "Casablanca"
+      }
+    ]
+  },
+  "castle": {
+    "levelId": "1151",
+    "dateStamp": "2021-01-25",
+    "zip": "castle",
+    "sha256": "e92bbc5de79bab1e742fc5525ac915843a37e0cccfaf4b55730e84466ade274a",
+    "includes": [
+      {
+        "bsp": "castle",
+        "title": "Dark Castle"
+      }
+    ]
+  },
+  "center": {
+    "levelId": "674",
+    "dateStamp": "2021-01-25",
+    "zip": "center",
+    "sha256": "6306b2377bb57a481b59b4d53135eeddfc711549c2bdaa658b4e42b2c06f3501",
+    "includes": [
+      {
+        "bsp": "center",
+        "title": "tech station"
+      }
+    ]
+  },
+  "charonq2dm1v2": {
+    "levelId": "500",
+    "dateStamp": "2021-01-25",
+    "zip": "charonq2dm1v2",
+    "sha256": "c5a131257ad851f629db28ff7b941f077ffbcf8c75654dd35c9a45bb5f5f2bfd",
+    "includes": [
+      {
+        "bsp": "charonq2dm1v2",
+        "title": "Return to the Edge"
+      }
+    ]
+  },
+  "church": {
+    "levelId": "744",
+    "dateStamp": "2021-01-25",
+    "zip": "church",
+    "sha256": "6efe0e05da3a223e4fec6f931c541444d8c8537716a318a50f10255e927cc6e9",
+    "includes": [
+      {
+        "bsp": "church",
+        "title": "Haunted Salvation"
+      }
+    ]
+  },
+  "ci": {
+    "levelId": "1570",
+    "dateStamp": "2021-01-25",
+    "zip": "ci",
+    "sha256": "f04b7b94a47ae095329cea707548ef328a78ff612a748bb7504f3d668b7df0fc",
+    "includes": [
+      {
+        "bsp": "ci",
+        "title": "Citadel Insatiable - by Myth"
+      }
+    ]
+  },
+  "complex": {
+    "levelId": "332",
+    "dateStamp": "2021-01-25",
+    "zip": "complex",
+    "sha256": "ef372a89acd51d2fd78b043430a58d0ae595d5c1454f54aa3f780629a6eab1f6",
+    "includes": [
+      {
+        "bsp": "complex",
+        "title": "Goldeneye's Complex"
+      }
+    ]
+  },
+  "cq3dm1": {
+    "levelId": "498",
+    "dateStamp": "2021-01-25",
+    "zip": "cq3dm1",
+    "sha256": "70e38c1e36919aee57f2d08a052d338c789ac1c1e3dae945e7a763b49c4ffafc",
+    "includes": [
+      {
+        "bsp": "cq3dm1",
+        "title": "Body of DOOM - cold@owned.com"
+      }
+    ]
+  },
+  "damn": {
+    "levelId": "172",
+    "dateStamp": "2021-01-25",
+    "zip": "damn",
+    "sha256": "dfe2b44fbb8c8719653980dde8035f40ce839f0ba400025fced6cc3f75f1b084",
+    "includes": [
+      {
+        "bsp": "damn",
+        "title": "The Damndest Thing"
+      }
+    ]
+  },
+  "dead1": {
+    "levelId": "873",
+    "dateStamp": "2021-01-25",
+    "zip": "dead1",
+    "sha256": "6e9065acb114341e6930237703533ce0c88cf883f5dbfdfbad6e0de9bbf7a07b",
+    "includes": [
+      {
+        "bsp": "dead1",
+        "title": "DEAD1"
+      }
+    ]
+  },
+  "zq3dm4": {
+    "levelId": "35",
+    "dateStamp": "2021-01-25",
+    "zip": "zq3dm4",
+    "sha256": "562aa721798938472f7c18795c2895904dd2284146a5d65269aa1b0442618156",
+    "includes": [
+      {
+        "bsp": "zq3dm4",
+        "title": "The Bad Place by ZeroSecond"
+      }
+    ]
+  },
+  "dm3dm17": {
+    "levelId": "450",
+    "dateStamp": "2021-01-25",
+    "zip": "dm3dm17",
+    "sha256": "ee752aa948e5f02387c3fe730079dceb1f8f042ff0162060585027005aaea0d5",
+    "includes": [
+      {
+        "bsp": "dm3dm17",
+        "title": "The Lengthened Yard"
+      }
+    ]
+  },
+  "drum": {
+    "levelId": "1934",
+    "dateStamp": "2021-01-25",
+    "zip": "drum",
+    "sha256": "d2d7845772b1fca536bb956c5492d8081fb31d7340b1440a44a28746038b4966",
+    "includes": [
+      {
+        "bsp": "drum",
+        "title": "PAMPUCH 4EVER by ROTA"
+      }
+    ]
+  },
+  "duel": {
+    "levelId": "1398",
+    "dateStamp": "2021-01-25",
+    "zip": "duel",
+    "sha256": "de722fbb2b23f13e1c01ca3b7194f04db51d729cffe4815c2c9bb178034ece30",
+    "includes": [
+      {
+        "bsp": "dueling_core",
+        "title": "Dueling Core"
+      }
+    ]
+  },
+  "eq3dm1": {
+    "levelId": "161",
+    "dateStamp": "2021-01-25",
+    "zip": "eq3dm1",
+    "sha256": "e9cde3deea44b174952a6e67924d234358d7f1a681718d1f62559b6283b2342b",
+    "includes": [
+      {
+        "bsp": "eq3dm1",
+        "title": "Malthusian Temple"
+      }
+    ]
+  },
+  "esq3dm1": {
+    "levelId": "389",
+    "dateStamp": "2021-01-25",
+    "zip": "esq3dm1",
+    "sha256": "65644c472d0f6f2b0b200442fc43fc29bcfea71a28255cbfcccc9594d88fc1c7",
+    "includes": [
+      {
+        "bsp": "esq3dm1",
+        "title": " "
+      }
+    ]
+  },
+  "ex3dm1": {
+    "levelId": "249",
+    "dateStamp": "2021-01-25",
+    "zip": "ex3dm1",
+    "sha256": "e6f7befeb73437deb76be378cca3ca0724f31223859ae73337c1c1416a8834b1",
+    "includes": [
+      {
+        "bsp": "ex3dm1",
+        "title": "Gauntlet III"
+      }
+    ]
+  },
+  "face": {
+    "levelId": "1810",
+    "dateStamp": "2021-01-25",
+    "zip": "face",
+    "sha256": "c4c2bb7d538dcfa3b57511eb60014dafb3ab2d620567b70c03bd12a0379f9894",
+    "includes": [
+      {
+        "bsp": "Face2Face",
+        "title": "Face-2-Face by BerneyBoy"
+      },
+      {
+        "bsp": "FaceLittle",
+        "title": "FaceLittle by BerneyBoy"
+      },
+      {
+        "bsp": "FaceOut",
+        "title": "FaceOut by BerneyBoy"
+      }
+    ]
+  },
+  "fortress": {
+    "levelId": "691",
+    "dateStamp": "2021-01-25",
+    "zip": "fortress",
+    "sha256": "7755a8da45b976a7767d7b1f136ee7568e3e446ad84056e936b486d49a275776",
+    "includes": [
+      {
+        "bsp": "fortress",
+        "title": "space fortress"
+      }
+    ]
+  },
+  "g3dm1": {
+    "levelId": "131",
+    "dateStamp": "2021-01-25",
+    "zip": "g3dm1",
+    "sha256": "7d236a78d7b7ab3766ba3c70684516376e9943bdc438dc5d77339ccb80e22fba",
+    "includes": [
+      {
+        "bsp": "g3dm1",
+        "title": "A Shorter Yard"
+      }
+    ]
+  },
+  "gothic": {
+    "levelId": "102",
+    "dateStamp": "2021-01-25",
+    "zip": "gothic",
+    "sha256": "2b6f838f1d76ed8dfd4a4647cd06242fbcabbe048937acac53a5227522de435a",
+    "includes": [
+      {
+        "bsp": "gothic",
+        "title": "gothic"
+      }
+    ]
+  },
+  "hdm2": {
+    "levelId": "1355",
+    "dateStamp": "2021-01-25",
+    "zip": "hdm2",
+    "sha256": "752c8203da6c6677a6363f7bf030636828c9636ee8e28896dece4cfb2c1794bb",
+    "includes": [
+      {
+        "bsp": "hdm2",
+        "title": "Maximum Carnage, By }{ammer"
+      }
+    ]
+  },
+  "hodq3dm1": {
+    "levelId": "1070",
+    "dateStamp": "2021-01-25",
+    "zip": "hodq3dm1",
+    "sha256": "1da74e44d6e32e0d4bca676003577817bf64bd91df7e953a13adc1bbed387124",
+    "includes": [
+      {
+        "bsp": "hodq3dm1",
+        "title": "GOD OF EMPTINESS by RRROOOAAARRR"
+      }
+    ]
+  },
+  "jlctf1": {
+    "levelId": "264",
+    "dateStamp": "2021-01-25",
+    "zip": "jlctf1",
+    "sha256": "b3dafff8c322bd70157f7089fe76aa58a66c4ae68cc078dcc0778e1f4abbd3e9",
+    "includes": [
+      {
+        "bsp": "jlctf1",
+        "title": "Grazer Station - by Johnny Law"
+      }
+    ]
+  },
+  "jmdm1": {
+    "levelId": "116",
+    "dateStamp": "2021-01-25",
+    "zip": "jmdm1",
+    "sha256": "283296568fba0c58e41e09c28abf5a161de057a06d5c1f578847c900835dcecc",
+    "includes": [
+      {
+        "bsp": "jmdm1",
+        "title": "Simplisity -- by Thingie"
+      }
+    ]
+  },
+  "jmdm2": {
+    "levelId": "1258",
+    "dateStamp": "2021-01-25",
+    "zip": "jmdm2",
+    "sha256": "c6cc8e56b9ee4ecc69cf0ab44a3df9f3a1bc12933fccf7510a070d6365e99b51",
+    "includes": [
+      {
+        "bsp": "jmdm2",
+        "title": "More Foolery"
+      }
+    ]
+  },
+  "kazdm1": {
+    "levelId": "1798",
+    "dateStamp": "2021-01-25",
+    "zip": "kazdm1",
+    "sha256": "90caf1934b8b6117ce7b70cd7656959b7a3cc8846a09ede6d3d36295c8823cd5",
+    "includes": [
+      {
+        "bsp": "kazdm1",
+        "title": "kazdm1"
+      }
+    ]
+  },
+  "l3dm1": {
+    "levelId": "1351",
+    "dateStamp": "2021-01-25",
+    "zip": "l3dm1",
+    "sha256": "d1c8e5e8efdd7590d66bbb7da4db65a98a7a5aa01621547db2ed317c4f0047c3",
+    "includes": [
+      {
+        "bsp": "l3dm1",
+        "title": "- Just Like Suicide - by Lukin"
+      }
+    ]
+  },
+  "l3dm3": {
+    "levelId": "1723",
+    "dateStamp": "2021-01-25",
+    "zip": "l3dm3",
+    "sha256": "bcbc8645eced2246a26c009afbd58659b38b1078daa4a764dac8ce6000d144e6",
+    "includes": [
+      {
+        "bsp": "l3dm3",
+        "title": "- Heavy Metal Machine - by Lukin"
+      }
+    ]
+  },
+  "arena110": {
+    "levelId": "1053",
+    "dateStamp": "2021-01-25",
+    "zip": "arena110",
+    "sha256": "89dff9454f9b50b150fb7f99f5f3794f8b37cb069678a21a28b54e7010b694c3",
+    "includes": [
+      {
+        "bsp": "arena110",
+        "title": "subtilis et simplex"
+      }
+    ]
+  },
+  "arena": {
+    "levelId": "285",
+    "dateStamp": "2021-01-25",
+    "zip": "arena",
+    "sha256": "c3d2bfbcd8c1c0009e139a914bf93811379f19683f74f254a87c75e8204aa9ac",
+    "includes": [
+      {
+        "bsp": "arena",
+        "title": "arena"
+      }
+    ]
+  },
+  "agony": {
+    "levelId": "1556",
+    "dateStamp": "2021-01-25",
+    "zip": "agony",
+    "sha256": "bf07a1ff7ef6db525844227bf15d386006ac716a88af9492b8249fa8cc1af67e",
+    "includes": [
+      {
+        "bsp": "agony",
+        "title": "Agony by Boffo"
+      }
+    ]
+  },
+  "marsv1": {
+    "levelId": "1056",
+    "dateStamp": "2021-01-25",
+    "zip": "marsv1",
+    "sha256": "6ee1bf04c1cfa8f8a337de649ea047a7e4a974aac470e4e5879f5ef132da46cb",
+    "includes": [
+      {
+        "bsp": "marsv1",
+        "title": "Vermilion Dreams Ver 1.0"
+      }
+    ]
+  },
+  "maze": {
+    "levelId": "592",
+    "dateStamp": "2021-01-25",
+    "zip": "maze",
+    "sha256": "19755d35c522900845b07b06435a36ab75f55fa724f6e8861c34af9d5b5a519b",
+    "includes": [
+      {
+        "bsp": "maze",
+        "title": "the maze"
+      }
+    ]
+  },
+  "mpteam9": {
+    "levelId": "1670",
+    "dateStamp": "2021-01-25",
+    "zip": "mpteam9",
+    "sha256": "b8b8492eb5cd6eb0b74a843ee1bce1f95add288b29aa99fbf21a0ff8db67e54e",
+    "includes": [
+      {
+        "bsp": "mpteam9",
+        "title": "Beyond Reality II"
+      }
+    ]
+  },
+  "mq3dm1": {
+    "levelId": "257",
+    "dateStamp": "2021-01-25",
+    "zip": "mq3dm1",
+    "sha256": "ae7e912c2a488e9a1b8aeba0687701a9642aafcb0f495dc8d0d40e45abe8d13f",
+    "includes": [
+      {
+        "bsp": "mq3dm1",
+        "title": "Brogan"
+      }
+    ]
+  },
+  "nemesis": {
+    "levelId": "174",
+    "dateStamp": "2021-01-25",
+    "zip": "nemesis",
+    "sha256": "a2875fa5a92c1ab2cef306a7a7a80462d300782d6fa46e1c9234f9434a70bf37",
+    "includes": [
+      {
+        "bsp": "nemesis",
+        "title": "Nemesis Online - by Vondur"
+      }
+    ]
+  },
+  "nodm2": {
+    "levelId": "1459",
+    "dateStamp": "2021-01-25",
+    "zip": "nodm2",
+    "sha256": "dd3859dcbd1f2f0ada86f76dd99ad1f12b8db8312e1c1ff0b25f25bd9d0d7289",
+    "includes": [
+      {
+        "bsp": "nodm2",
+        "title": "PowaHaus"
+      }
+    ]
+  },
+  "nodm4": {
+    "levelId": "1507",
+    "dateStamp": "2021-01-25",
+    "zip": "nodm4",
+    "sha256": "8b76d222c788323df85a73fce7ec444de87317a3fdf0787e6708fd054ac2e3d1",
+    "includes": [
+      {
+        "bsp": "nodm4",
+        "title": "Winter Chill"
+      }
+    ]
+  },
+  "vq2dm1": {
+    "levelId": "2294",
+    "dateStamp": "2021-01-25",
+    "zip": "vq2dm1",
+    "sha256": "32bbd1304e7e7717abce89471c27b2d335bfe5136d4097092d1b73c41689a409",
+    "includes": [
+      {
+        "bsp": "vq2dm1",
+        "title": "The Edge"
+      }
+    ]
+  },
+  "ordm1": {
+    "levelId": "239",
+    "dateStamp": "2021-01-25",
+    "zip": "ordm1",
+    "sha256": "5f016b439e0c7076f84c3816d9b89ef08b6a2a80647034f4b7e5d79f488ff6d8",
+    "includes": [
+      {
+        "bsp": "ordm1",
+        "title": "ordm1"
+      }
+    ]
+  },
+  "p61ctf1": {
+    "levelId": "2211",
+    "dateStamp": "2021-01-25",
+    "zip": "p61ctf1",
+    "sha256": "89c91a16a2d39907fc3af144a473bcfc351c22d91a63f58947c6d17f055083bc",
+    "includes": [
+      {
+        "bsp": "p61ctf1",
+        "title": "Opposing Force (By PaN61)"
+      }
+    ]
+  },
+  "pain": {
+    "levelId": "207",
+    "dateStamp": "2021-01-25",
+    "zip": "pain",
+    "sha256": "6ee17f0446e95c54db2c00870b1020bc2ac7942bee1aa6417d75950841782203",
+    "includes": [
+      {
+        "bsp": "pain",
+        "title": "Bring on Da Pain!"
+      }
+    ]
+  },
+  "palace": {
+    "levelId": "163",
+    "dateStamp": "2021-01-25",
+    "zip": "palace",
+    "sha256": "8e04b5ddd59067f20c24cb808272f1b75883264de4c3b4069b15a61a739a6b03",
+    "includes": [
+      {
+        "bsp": "palace",
+        "title": "Pirate's Palace of Pain"
+      }
+    ]
+  },
+  "phdm2": {
+    "levelId": "2067",
+    "dateStamp": "2021-01-25",
+    "zip": "phdm2",
+    "sha256": "bfd2388b19c8b82b517f162c6310f93932522677f00866455f310afd1e49542a",
+    "includes": [
+      {
+        "bsp": "phdm2",
+        "title": "Q"
+      }
+    ]
+  },
+  "pit": {
+    "levelId": "1319",
+    "dateStamp": "2021-01-25",
+    "zip": "pit",
+    "sha256": "27bec4ebefc39eb9891a16d2a2206a3b4bf73226de9dc2414ec69a5b0cbf7d3e",
+    "includes": [
+      {
+        "bsp": "pit",
+        "title": "Lava Pit by Anton"
+      }
+    ]
+  },
+  "poptart": {
+    "levelId": "2006",
+    "dateStamp": "2021-01-25",
+    "zip": "poptart",
+    "sha256": "7a49ed5b7747e0c53d690a4375909928f74993f73f1c67c4a014e46f26007bf4",
+    "includes": [
+      {
+        "bsp": "poptart",
+        "title": "poptart"
+      }
+    ]
+  },
+  "prejudice": {
+    "levelId": "1903",
+    "dateStamp": "2021-01-25",
+    "zip": "prejudice",
+    "sha256": "f6b533b4859fb4a165735e267c7634589d7a247d35a011c0a5d91a8e7703d37e",
+    "includes": [
+      {
+        "bsp": "prejudice",
+        "title": "prejudice"
+      }
+    ]
+  },
+  "q3deck_final": {
+    "levelId": "1866",
+    "dateStamp": "2021-01-25",
+    "zip": "q3deck_final",
+    "sha256": "c4c8dc50083bee748722d0f481219905d4c734380c9efe5eec6383ac659ccd7c",
+    "includes": [
+      {
+        "bsp": "q3deck",
+        "title": "Deck"
+      }
+    ]
+  },
+  "utopia": {
+    "levelId": "1343",
+    "dateStamp": "2021-01-25",
+    "zip": "utopia",
+    "sha256": "79e5c0eca08171b3dd2d37294fc1ff1cf32c9e10fe32387b92f2087ffae48188",
+    "includes": [
+      {
+        "bsp": "utopia",
+        "title": "Utopia"
+      }
+    ]
+  },
+  "towers": {
+    "levelId": "1329",
+    "dateStamp": "2021-01-25",
+    "zip": "towers",
+    "sha256": "3bc98e152f543b37299409dc5edf679b9df093827687a3ade4032b57d0f0f701",
+    "includes": [
+      {
+        "bsp": "towers",
+        "title": "towers of death"
+      }
+    ]
+  },
+  "q3_prison": {
+    "levelId": "927",
+    "dateStamp": "2021-01-25",
+    "zip": "q3_prison",
+    "sha256": "cf776d2a3a28f447020f415a9010d0afafb04b99f4e4eb473bd7fa13d0e77138",
+    "includes": [
+      {
+        "bsp": "prison",
+        "title": "A Prison for Wicked Clown's"
+      }
+    ]
+  },
+  "q3_prison_ta": {
+    "levelId": "926",
+    "dateStamp": "2021-01-25",
+    "zip": "q3_prison_ta",
+    "sha256": "62b3ddbc0e4e30492a378229359f73ccaacebf38583a6288a32d044febf914b6",
+    "includes": [
+      {
+        "bsp": "prison_ta",
+        "title": "A Prison for Wicked Clown's"
+      }
+    ]
+  },
+  "q3_q2dm1": {
+    "levelId": "68",
+    "dateStamp": "2021-01-25",
+    "zip": "q3_q2dm1",
+    "sha256": "e34654f4b2c74b05188206e29a5eb52527a5cdea86260533f02ed1f28b7aab0a",
+    "includes": [
+      {
+        "bsp": "q3_q2dm1",
+        "title": "The Edge converted by Finko"
+      }
+    ]
+  },
+  "q3_race": {
+    "levelId": "745",
+    "dateStamp": "2021-01-25",
+    "zip": "q3_race",
+    "sha256": "c7044118e4a6c61fe8523c98e98c379ebb2e9a068edc18738a94224cf299f51d",
+    "includes": [
+      {
+        "bsp": "q3_race",
+        "title": "the ultimate race"
+      }
+    ]
+  },
+  "q3_redq3dm5": {
+    "levelId": "2228",
+    "dateStamp": "2021-01-25",
+    "zip": "q3_redq3dm5",
+    "sha256": "d5a6e7a12645e13ad342f7fe1b95c90858f395806ae76ff3e096f57b631602a9",
+    "includes": [
+      {
+        "bsp": "redq3dm5",
+        "title": "panopticon"
+      }
+    ]
+  },
+  "q3_rtsindm1": {
+    "levelId": "334",
+    "dateStamp": "2021-01-25",
+    "zip": "q3_rtsindm1",
+    "sha256": "ce1be2f2fa14f97cf5941a9d320c0f69fba62653cc3ad7a73c18fb75bf9241b7",
+    "includes": [
+      {
+        "bsp": "rtsindm1",
+        "title": "original by Richard Tompkins"
+      }
+    ]
+  },
+  "q3_spacectf1": {
+    "levelId": "63",
+    "dateStamp": "2021-01-25",
+    "zip": "q3_spacectf1",
+    "sha256": "1341d6fc488a2238e6564411920c65c77e6f814acadd848213b9622c1d27cb32",
+    "includes": [
+      {
+        "bsp": "q3_spacectf1",
+        "title": "SpaceCTF : Opposing Platforms"
+      }
+    ]
+  },
+  "q3_trueblue": {
+    "levelId": "1782",
+    "dateStamp": "2021-01-25",
+    "zip": "q3_trueblue",
+    "sha256": "7ce7f1bbe3d253d237f3bfb46c55e2e53922e07a8e789e65bdc6fa6d6859442e",
+    "includes": [
+      {
+        "bsp": "q3_trueblue",
+        "title": "AcidNeoToon"
+      }
+    ]
+  },
+  "q3_ultrav": {
+    "levelId": "1981",
+    "dateStamp": "2021-01-25",
+    "zip": "q3_ultrav",
+    "sha256": "efd5b6168ac87bbb81482b0fbde1003e128aaa7690b73784c1bce3cf5cbdd2c1",
+    "includes": [
+      {
+        "bsp": "q3_ultrav",
+        "title": "Ultraviolence"
+      }
+    ]
+  },
+  "qbeast_nomusic": {
+    "levelId": "1302",
+    "dateStamp": "2021-01-25",
+    "zip": "qbeast_nomusic",
+    "sha256": "1f3edbce3ffaa81f7b22f9deed1302b704b5b0cc65f288333f10459c86ff51d8",
+    "includes": [
+      {
+        "bsp": "qbeast",
+        "title": "qbeast | quint"
+      }
+    ]
+  },
+  "qbw": {
+    "levelId": "1314",
+    "dateStamp": "2021-01-25",
+    "zip": "qbw",
+    "sha256": "903cbd839f3c30dca22979f4773699b5abcda14f0e5666c4ff7c5686731a71ab",
+    "includes": [
+      {
+        "bsp": "QBW",
+        "title": "Quake, Beer, and Wrestling"
+      }
+    ]
+  },
+  "qd3dm1": {
+    "levelId": "1180",
+    "dateStamp": "2021-01-25",
+    "zip": "qd3dm1",
+    "sha256": "33571ea354fed3ddc535c06f884b0e8ad11ce12365dedd1e5b078ea12aa9e2c5",
+    "includes": [
+      {
+        "bsp": "qd3dm1",
+        "title": "Space BattleGround Pro"
+      }
+    ]
+  },
+  "qfraggel1": {
+    "levelId": "557",
+    "dateStamp": "2021-01-25",
+    "zip": "qfraggel1",
+    "sha256": "b924267698bddc4292f5477bb3f2a46439fdb19b7f1d4cee8eefac99b73e3531",
+    "includes": [
+      {
+        "bsp": "qfraggel1",
+        "title": "The Kristall Keep - by Q-Fraggel"
+      }
+    ]
+  },
+  "qfraggel2a": {
+    "levelId": "662",
+    "dateStamp": "2021-01-25",
+    "zip": "qfraggel2a",
+    "sha256": "a01fe866d663d87dd3a929ef6061e8df1563b86800131c6a2c6dff6977c81982",
+    "includes": [
+      {
+        "bsp": "qfraggel2a",
+        "title": "Last Fortress (Badlands Edition)"
+      }
+    ]
+  },
+  "qisland": {
+    "levelId": "1761",
+    "dateStamp": "2021-01-25",
+    "zip": "qisland",
+    "sha256": "f4eabdc3bb71ca6326baf50fbb982c0b77fc6e51248ee66db6a3f1a38dada8ab",
+    "includes": [
+      {
+        "bsp": "Island",
+        "title": "Bones and Pieces of Eight"
+      }
+    ]
+  },
+  "qsc_tourney5": {
+    "levelId": "1979",
+    "dateStamp": "2021-01-25",
+    "zip": "qsc_tourney5",
+    "sha256": "32deac69bb2215cceab1bc3c6c303ab258f28a129624d9ede5dd104b9f23a1ea",
+    "includes": [
+      {
+        "bsp": "qsc_tourney5",
+        "title": "Tour of Death by D_ooMNiCK"
+      }
+    ]
+  },
+  "qsc_tourney5pro": {
+    "levelId": "1984",
+    "dateStamp": "2021-01-25",
+    "zip": "qsc_tourney5pro",
+    "sha256": "9286f1eeda0bd253868e174cd04c29a242725277f41fea3b1539edd9fe673860",
+    "includes": [
+      {
+        "bsp": "qsc_tourney5pro",
+        "title": "Tour of Death (pro) by D_ooMNiCK"
+      }
+    ]
+  },
+  "qsc_town": {
+    "levelId": "2088",
+    "dateStamp": "2021-01-25",
+    "zip": "qsc_town",
+    "sha256": "619bc71fb48cc95b3b61e4b280f6f5f1a209c2b3d82b56f2cb02749a5e49b2b6",
+    "includes": [
+      {
+        "bsp": "qsc_town",
+        "title": "Krichevo town by D_ooMNiCK"
+      }
+    ]
+  },
+  "qtctf_tubewars": {
+    "levelId": "471",
+    "dateStamp": "2021-01-25",
+    "zip": "qtctf_tubewars",
+    "sha256": "8fb9d3d1daada33ca17fd33f191c8f3296e74f0e16697b751b35712fc2f3da4c",
+    "includes": [
+      {
+        "bsp": "q3ctf_TWBig",
+        "title": "CTF Tube Wars by Notime"
+      },
+      {
+        "bsp": "q3ctf_TWSmall",
+        "title": "CTF Tube Wars by Notime"
+      },
+      {
+        "bsp": "q3ctf_TWSmaller",
+        "title": "CTF Tube Wars by Notime"
+      },
+      {
+        "bsp": "q3ctf_TWSmallst",
+        "title": "CTF Tube Wars by Notime"
+      }
+    ]
+  },
+  "quaddamage": {
+    "levelId": "1750",
+    "dateStamp": "2021-01-25",
+    "zip": "quaddamage",
+    "sha256": "b3d7df820cb07e7822353f706b8143cc34ba41c10da97afa719181a1c2f77187",
+    "includes": [
+      {
+        "bsp": "quaddamage",
+        "title": "quaddamage"
+      }
+    ]
+  },
+  "qxtourney1": {
+    "levelId": "784",
+    "dateStamp": "2021-01-25",
+    "zip": "qxtourney1",
+    "sha256": "0a2326cf7b8e69e7c005e630d4e156e0eb276662d14488f66d515c999996dc0f",
+    "includes": [
+      {
+        "bsp": "qxtourney1",
+        "title": "Gothic Rage - by Quaker-X"
+      }
+    ]
+  },
+  "rama": {
+    "levelId": "852",
+    "dateStamp": "2021-01-25",
+    "zip": "rama",
+    "sha256": "da543c279a876b83bbaced9cdde81d9498c5f25104f1ed7afb3b160ef2558e6d",
+    "includes": [
+      {
+        "bsp": "RAMA",
+        "title": "RAMA by Trenox"
+      }
+    ]
+  },
+  "tm1": {
+    "levelId": "1152",
+    "dateStamp": "2021-01-25",
+    "zip": "tm1",
+    "sha256": "ee66601c699454160aed2ca78da694f97a99e937fed7c39ac90b9ff7e3041f37",
+    "includes": [
+      {
+        "bsp": "tm1_ad5",
+        "title": "Fates Angel"
+      },
+      {
+        "bsp": "tm1_akuma",
+        "title": "Vertical Gimmick"
+      },
+      {
+        "bsp": "tm1_amphetamine",
+        "title": "The Last Strogg Base"
+      },
+      {
+        "bsp": "tm1_asnagrim",
+        "title": "tm1_asnagrim"
+      },
+      {
+        "bsp": "tm1_hrewty",
+        "title": "unpretty"
+      },
+      {
+        "bsp": "tm1_jher",
+        "title": "Clockwork Rush"
+      },
+      {
+        "bsp": "tm1_juz",
+        "title": "Fistagon by Juz"
+      },
+      {
+        "bsp": "tm1_monsto",
+        "title": "tm1_monsto"
+      },
+      {
+        "bsp": "tm1_mr",
+        "title": "Vertisan : Turtlemap 1, 2001"
+      },
+      {
+        "bsp": "tm1_myth",
+        "title": "GOLGAFRINCHAM - by Myth"
+      },
+      {
+        "bsp": "tm1_rayden",
+        "title": "So close, yet so far"
+      },
+      {
+        "bsp": "tm1_systemkrash",
+        "title": "Roast Turtle"
+      },
+      {
+        "bsp": "tm1_watt",
+        "title": "^4Base^0"
+      }
+    ]
+  },
+  "rev1": {
+    "levelId": "2339",
+    "dateStamp": "2021-01-25",
+    "zip": "rev1",
+    "sha256": "99a6c712c85546ca3a9644b1caefeca3f73d5032b63525bdff62d35392a39371",
+    "includes": [
+      {
+        "bsp": "rev1",
+        "title": "The Beginning"
+      }
+    ]
+  },
+  "rq3dm1": {
+    "levelId": "706",
+    "dateStamp": "2021-01-25",
+    "zip": "rq3dm1",
+    "sha256": "992046d28abd28fc5d563a1337b3c27b062017695648bfb7617ef5e46d1b5ee2",
+    "includes": [
+      {
+        "bsp": "rq3dm1",
+        "title": "big mix - by rainmantd"
+      }
+    ]
+  },
+  "temple": {
+    "levelId": "685",
+    "dateStamp": "2021-01-25",
+    "zip": "temple",
+    "sha256": "02a627d036334c61eef158c4939d3e13c421dc6df3d1668d610d052a125bae72",
+    "includes": [
+      {
+        "bsp": "temple",
+        "title": "the forbidden temple"
+      }
+    ]
+  },
+  "s": {
+    "levelId": "101",
+    "dateStamp": "2021-01-25",
+    "zip": "s",
+    "sha256": "559038825d1aa63eb92bbf50358891cc96b41dbf43787e909bd429c6e0cf4b7a",
+    "includes": [
+      {
+        "bsp": "s",
+        "title": "SINCITY REBUILT (BY DD SCREAM)"
+      }
+    ]
+  },
+  "sic": {
+    "levelId": "1835",
+    "dateStamp": "2021-01-25",
+    "zip": "sic",
+    "sha256": "da9ba0315132c3dfbefbb7ea6a896687726d061d7ee5ba9b81fb366e35486b8c",
+    "includes": [
+      {
+        "bsp": "sic",
+        "title": "symmetry in chaos"
+      }
+    ]
+  },
+  "sin": {
+    "levelId": "155",
+    "dateStamp": "2021-01-25",
+    "zip": "sin",
+    "sha256": "10a767f4bc72c2d5f26da7051720308cc4bbcbbf9762711b0a8ae6311f27331e",
+    "includes": [
+      {
+        "bsp": "sin",
+        "title": "Sinister Purpose"
+      }
+    ]
+  },
+  "skylancer": {
+    "levelId": "801",
+    "dateStamp": "2021-01-25",
+    "zip": "skylancer",
+    "sha256": "6338a63f1be83f69c1c6a20af1edc07ebe6f938dd4cac1ee5d99767f325a557b",
+    "includes": [
+      {
+        "bsp": "sky",
+        "title": "sky"
+      }
+    ]
+  },
+  "sota": {
+    "levelId": "1565",
+    "dateStamp": "2021-01-25",
+    "zip": "sota",
+    "sha256": "6d864079eb5fce6ebfde80726ce686ecf2c766425bfd2d71736db13ec33b6c38",
+    "includes": [
+      {
+        "bsp": "SOTA",
+        "title": "187-J4CK4L's SPIRIT OF THE AGE"
+      }
+    ]
+  },
+  "space": {
+    "levelId": "1622",
+    "dateStamp": "2021-01-25",
+    "zip": "space",
+    "sha256": "2f73962474c453f2b73a9cf692409e38605c445de5d1f90a43ca33047b66dbe8",
+    "includes": [
+      {
+        "bsp": "space",
+        "title": "Fallen Heroes"
+      }
+    ]
+  },
+  "spacedm1": {
+    "levelId": "632",
+    "dateStamp": "2021-01-25",
+    "zip": "spacedm1",
+    "sha256": "d0d684c6462a515ed4692dd2fd029a9c190bd338afbc4e9be26692ffd6d5dbec",
+    "includes": [
+      {
+        "bsp": "spacedm1",
+        "title": "$p@cE's $hrinE"
+      }
+    ]
+  },
+  "storage": {
+    "levelId": "527",
+    "dateStamp": "2021-01-25",
+    "zip": "storage",
+    "sha256": "00cb73be81aeb2e4300e8607c26421066f5237df6f725863f791f75c81063c2a",
+    "includes": [
+      {
+        "bsp": "storage",
+        "title": "Cold Storage"
+      }
+    ]
+  },
+  "deepspace1": {
+    "levelId": "987",
+    "dateStamp": "2021-04-17",
+    "zip": "deepspace1",
+    "sha256": "746f3e92f8320e38c1e39ba355d5312b762d01952cc943ddbf8f463aa78eaa07",
+    "includes": [
+      {
+        "bsp": "ds1_q3dm2",
+        "title": "Deep Space 1"
+      }
+    ]
+  },
+  "ruutq3dm8": {
+    "levelId": "48",
+    "dateStamp": "2021-04-18",
+    "zip": "ruutq3dm8",
+    "sha256": "92396992e13aa49247a5ccc9cf7ec8a797e9c880deacef8625dd4d6115769334",
+    "includes": [
+      {
+        "bsp": "ruutq3dm8",
+        "title": "A Night at the Fragsbury - By: RuuT"
+      },
+      {
+        "bsp": "ruuttourney1",
+        "title": "A Night at the Fragsbury - By: RuuT"
+      }
+    ]
+  },
+  "reine10": {
+    "levelId": "28",
+    "dateStamp": "2021-04-18",
+    "zip": "reine10",
+    "sha256": "70da5f063ca3426827b461b330a0291ba8a579d499728525efaa8e836db27460",
+    "includes": [
+      {
+        "bsp": "reine10",
+        "title": "Spring of Quake"
+      },
+      {
+        "bsp": "reine10r",
+        "title": "Spring of Quake - Rail version"
+      }
+    ]
+  },
+  "q3q1dm2": {
+    "levelId": "117",
+    "dateStamp": "2021-04-18",
+    "zip": "q3q1dm2",
+    "sha256": "a56f0684dba5ed1d4c65aa29d5a5a1fc36af98e17ef3d9b6f422934e0443c994",
+    "includes": [
+      {
+        "bsp": "q3q1dm2",
+        "title": "Claustrophobopolis"
+      }
+    ]
+  },
+  "q3q1dm1": {
+    "levelId": "113",
+    "dateStamp": "2021-04-18",
+    "zip": "q3q1dm1",
+    "sha256": "b305717fd8e6a0b06f8b02463544e2838a15a1e44d36f0e2638aef904f9a4284",
+    "includes": [
+      {
+        "bsp": "q3q1dm1",
+        "title": "Place of Two Deaths"
+      }
+    ]
+  },
+  "ondadm1": {
+    "levelId": "537",
+    "dateStamp": "2021-04-18",
+    "zip": "ondadm1",
+    "sha256": "c5764fe8f9f9172e53e560f466b4194ffe2873deacfb914ee5c80a17b04a8613",
+    "includes": [
+      {
+        "bsp": "ondadm1",
+        "title": "ONDADM1"
+      }
+    ]
+  }
+}

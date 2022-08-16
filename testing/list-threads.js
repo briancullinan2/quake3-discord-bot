@@ -25,7 +25,7 @@ async function listThreads(threadName, channelId) {
     }
   }
   
-  console.log(thread)
+  console.log(archived)
 }
 
 module.exports = listThreads

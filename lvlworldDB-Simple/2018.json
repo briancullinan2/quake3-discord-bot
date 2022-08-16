@@ -1,0 +1,246 @@
+{
+  "shkiper3dm1": {
+    "levelId": "2367",
+    "dateStamp": "2018-03-17",
+    "zip": "shkiper3dm1",
+    "sha256": "6962ee40db5b7a3f58ed7aec3fa81617fe617c30eaa5475eeaab66d8b5e324a9",
+    "includes": [
+      {
+        "bsp": "shkiper3dm1",
+        "title": "BathHouse"
+      }
+    ]
+  },
+  "spwn3dm3": {
+    "levelId": "2368",
+    "dateStamp": "2018-03-17",
+    "zip": "spwn3dm3",
+    "sha256": "5a08393544d2b4dcbca593edea04bae9e9be6338869ae4182f7819d1406b50d6",
+    "includes": [
+      {
+        "bsp": "spwn3dm3",
+        "title": "Frozen Abyss - 1v1 AllStars S.E."
+      }
+    ]
+  },
+  "obs3dm7": {
+    "levelId": "2372",
+    "dateStamp": "2018-05-14",
+    "zip": "obs3dm7",
+    "sha256": "ec8f483b7fb7d066859d32c90532b2a07136e398f5e313569afc190f48a7f893",
+    "includes": [
+      {
+        "bsp": "obs3dm7",
+        "title": "The Killing Machine"
+      }
+    ]
+  },
+  "aty3dm9msc2013": {
+    "levelId": "2290",
+    "dateStamp": "2018-06-02",
+    "zip": "aty3dm9msc2013",
+    "sha256": "88f71e0c049b57716006cd30f208ec36ed96390f57ab6e76e02f3660a4855215",
+    "includes": [
+      {
+        "bsp": "aty3dm9msc2013",
+        "title": "Sector 9 The Cytherean Outpost"
+      }
+    ]
+  },
+  "aty3dm5v2": {
+    "levelId": "2375",
+    "dateStamp": "2018-06-03",
+    "zip": "aty3dm5v2",
+    "sha256": "c1f5d462c637ade24c2f9b863adc92bc41b470f27b2bb3d879f3df08010903f7",
+    "includes": [
+      {
+        "bsp": "aty3dm5v2",
+        "title": "Europa Station"
+      }
+    ]
+  },
+  "bigmap02": {
+    "levelId": "2371",
+    "dateStamp": "2018-06-04",
+    "zip": "bigmap02",
+    "sha256": "d349c27bddf96b744253142371f90cc6a9a10bd7ed95f36ea194380dc30f3816",
+    "includes": [
+      {
+        "bsp": "bigmap02",
+        "title": "bigmap02 q3map by rino"
+      }
+    ]
+  },
+  "colvms": {
+    "levelId": "2373",
+    "dateStamp": "2018-06-08",
+    "zip": "colvms",
+    "sha256": "f9f9586d41c906421b7e0020e2521b0e493343f5808d89c6c1d14ff430d1d4e6",
+    "includes": [
+      {
+        "bsp": "jr_clv1",
+        "title": "colvms1 q3map by jonnyreds"
+      }
+    ]
+  },
+  "scorn-bloodstone": {
+    "levelId": "2379",
+    "dateStamp": "2018-07-21",
+    "zip": "scorn-bloodstone",
+    "sha256": "d9514d53713707feccc8fd7c413f291728eb126226d8b256ae89cbe542136efa",
+    "includes": [
+      {
+        "bsp": "bloodstone",
+        "title": "BLOODSTONE by SCORN (Samuel De Cruz)"
+      }
+    ]
+  },
+  "scorn-acidburn": {
+    "levelId": "2383",
+    "dateStamp": "2018-07-23",
+    "zip": "scorn-acidburn",
+    "sha256": "4cfdb50fc6a439ada89f618a1035e4cb3311fe3003036672f03c611cf94adf88",
+    "includes": [
+      {
+        "bsp": "acidburn",
+        "title": "ACIDBURN by SCORN (Samuel De Cruz)"
+      }
+    ]
+  },
+  "scorn-rustarium": {
+    "levelId": "2386",
+    "dateStamp": "2018-07-26",
+    "zip": "scorn-rustarium",
+    "sha256": "534a9d1959ba9f58c35a0ed07c33104217b9ab479cfe1e3a86fa419d2449e5fe",
+    "includes": [
+      {
+        "bsp": "rustarium",
+        "title": "RUSTARIUM by SCORN (Samuel De Cruz)"
+      }
+    ]
+  },
+  "scorn-toxicmetal": {
+    "levelId": "2385",
+    "dateStamp": "2018-07-26",
+    "zip": "scorn-toxicmetal",
+    "sha256": "028bd23a665dbb7e2134827dfe02dbc86b7d74a3cc1f4c082e59d24c9f1e3219",
+    "includes": [
+      {
+        "bsp": "toxicmetal",
+        "title": "TOXICMETAL by SCORN (Samuel De Cruz)"
+      }
+    ]
+  },
+  "q3fig": {
+    "levelId": "2370",
+    "dateStamp": "2018-09-01",
+    "zip": "q3fig",
+    "sha256": "df0dba8a5894ba4a97dea2ac209f99bda52ef988ec351c1ef12e9d71ea82d356",
+    "includes": [
+      {
+        "bsp": "q3fig",
+        "title": "Final Inspiration"
+      }
+    ]
+  },
+  "ep_dissent": {
+    "levelId": "2381",
+    "dateStamp": "2018-09-08",
+    "zip": "ep_dissent",
+    "sha256": "fe4bdd8cf4711f34e0acc4bbe7920acf2065167d78a6a234a697c92c1f987b19",
+    "includes": [
+      {
+        "bsp": "ep_dissent",
+        "title": "Dissent Breach"
+      },
+      {
+        "bsp": "ep_dissent_gallery",
+        "title": "ep_dissent_gallery"
+      }
+    ]
+  },
+  "demonhouse": {
+    "levelId": "2384",
+    "dateStamp": "2018-10-28",
+    "zip": "demonhouse",
+    "sha256": "a8b6b296c4647a279f6e1bfa73863c9656d795a95c832cccaeba4bfc3e16a5d9",
+    "includes": [
+      {
+        "bsp": "demonhouse",
+        "title": "demon house by jonnyreds"
+      }
+    ]
+  },
+  "egyziana": {
+    "levelId": "2374",
+    "dateStamp": "2018-10-28",
+    "zip": "egyziana",
+    "sha256": "bc7639bf2105b2786c1947eae948ab6e7c3c2944b0aa60a864addcc5a1e01f64",
+    "includes": [
+      {
+        "bsp": "jr_q3dm1",
+        "title": "egyziana"
+      }
+    ]
+  },
+  "ep_wolf3d": {
+    "levelId": "2378",
+    "dateStamp": "2018-11-01",
+    "zip": "ep_wolf3d",
+    "sha256": "c7e46fc742ded0d39cae077891d8644c0b47f4ec5526fcb717fe1bb4469edbec",
+    "includes": [
+      {
+        "bsp": "ep_wolf3d",
+        "title": "Castle Wolfenstein"
+      }
+    ]
+  },
+  "q3map_ossadelubrum": {
+    "levelId": "2392",
+    "dateStamp": "2018-11-12",
+    "zip": "q3map_ossadelubrum",
+    "sha256": "d0b2a897caa3bfd63fcab91cc2144fc8e62cb09d6491dcafb791682d4526504f",
+    "includes": [
+      {
+        "bsp": "od",
+        "title": "Ossa Delubrum by Martinus"
+      }
+    ]
+  },
+  "akutadm2": {
+    "levelId": "2389",
+    "dateStamp": "2018-12-11",
+    "zip": "akutadm2",
+    "sha256": "2a548f9996378021a25b4248b7cdf6e205889f6f5b2dbd9f01f1924ec0d10458",
+    "includes": [
+      {
+        "bsp": "akutadm2",
+        "title": "Saxa Liquefacta"
+      }
+    ]
+  },
+  "krds": {
+    "levelId": "2391",
+    "dateStamp": "2018-12-17",
+    "zip": "krds",
+    "sha256": "31812e5f0044fa01075a176ccfe162804454a79fce487a9519979fee8402818d",
+    "includes": [
+      {
+        "bsp": "krds",
+        "title": "The Death Strip"
+      }
+    ]
+  },
+  "toxic_fabric": {
+    "levelId": "2388",
+    "dateStamp": "2018-12-17",
+    "zip": "toxic_fabric",
+    "sha256": "cbdb72e968b9cafa025cbc36293df172d3941711fa3b82427be413c17a4220ac",
+    "includes": [
+      {
+        "bsp": "toxic_fabric",
+        "title": "Toxic Fabric"
+      }
+    ]
+  }
+}

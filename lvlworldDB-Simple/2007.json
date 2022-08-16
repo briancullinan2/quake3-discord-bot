@@ -1,0 +1,662 @@
+{
+  "sgdtt5": {
+    "levelId": "1925",
+    "dateStamp": "2007-01-06",
+    "zip": "sgdtt5",
+    "sha256": "4dd4dfee9c5431831238d875604f502b13ca7be88430dced712a610e9f3496c9",
+    "includes": [
+      {
+        "bsp": "sgdtt5",
+        "title": "sgdtt5"
+      }
+    ]
+  },
+  "q3dm17xos4": {
+    "levelId": "1915",
+    "dateStamp": "2007-01-06",
+    "zip": "q3dm17xos4",
+    "sha256": "dc8b032b655ce25c853b688336c22400cdb8ec64c79c3fc3aea5b00ee2e5c973",
+    "includes": [
+      {
+        "bsp": "q3dm17xos4",
+        "title": "The Longest Yard"
+      }
+    ]
+  },
+  "jul16": {
+    "levelId": "1912",
+    "dateStamp": "2007-01-29",
+    "zip": "jul16",
+    "sha256": "d528dc7200190ee85ec863e6804f3215beb266614c03c66ba3d8800ecb4ae818",
+    "includes": [
+      {
+        "bsp": "jul16",
+        "title": "JUL - OUT OF SPACE"
+      }
+    ]
+  },
+  "subdm8": {
+    "levelId": "1921",
+    "dateStamp": "2007-02-13",
+    "zip": "subdm8",
+    "sha256": "0e55f6f14a0390886aa0d87cd26ef5e3c21cdb0216608bb19c72f969a334e060",
+    "includes": [
+      {
+        "bsp": "subdm8",
+        "title": "frag sake"
+      }
+    ]
+  },
+  "subdm1": {
+    "levelId": "1924",
+    "dateStamp": "2007-02-13",
+    "zip": "subdm1",
+    "sha256": "4d7d288f16fee83f5351af3fd1a0277348982c795781d8796d6c04243e98da39",
+    "includes": [
+      {
+        "bsp": "subdm1",
+        "title": "playdead"
+      }
+    ]
+  },
+  "map-13edge": {
+    "levelId": "1923",
+    "dateStamp": "2007-02-13",
+    "zip": "map-13edge",
+    "sha256": "473a10fd3af3becc855493433c0934303cf7f84d51df56a30275781e9f4f188d",
+    "includes": [
+      {
+        "bsp": "13edge",
+        "title": "Claustrophobic Edge (by sst13)"
+      }
+    ]
+  },
+  "map-13gate_xt": {
+    "levelId": "1929",
+    "dateStamp": "2007-02-13",
+    "zip": "map-13gate_xt",
+    "sha256": "fcfeafe94a24668a13beee58e696af5578d1bb7e6ba51797a36fe8092458683d",
+    "includes": [
+      {
+        "bsp": "13gate_xt",
+        "title": "Arena Gate CTF - Extended (by sst13)"
+      }
+    ]
+  },
+  "map-13ground": {
+    "levelId": "1926",
+    "dateStamp": "2007-02-13",
+    "zip": "map-13ground",
+    "sha256": "a0a507b46f71653b5babf7d4c5b20326cda02456e9893e5a752d0423adf32334",
+    "includes": [
+      {
+        "bsp": "13ground",
+        "title": "The Proving Grounds CTF (by sst13)"
+      }
+    ]
+  },
+  "map-13stone": {
+    "levelId": "1928",
+    "dateStamp": "2007-02-13",
+    "zip": "map-13stone",
+    "sha256": "1fde7b7ec0f0c0044acb4924cc263bdd642c8a6f65252385e8fa6fbf48682e31",
+    "includes": [
+      {
+        "bsp": "13stone",
+        "title": "Floating Stonefaces (by sst13)"
+      }
+    ]
+  },
+  "q30tourney0": {
+    "levelId": "1931",
+    "dateStamp": "2007-02-13",
+    "zip": "q30tourney0",
+    "sha256": "16d8c45a16c02a0743c338ff8e0f8672408bec90f2985f14604a241584e4d14e",
+    "includes": [
+      {
+        "bsp": "q30tourney0",
+        "title": "The RiP"
+      }
+    ]
+  },
+  "q30dm1": {
+    "levelId": "1916",
+    "dateStamp": "2007-02-13",
+    "zip": "q30dm1",
+    "sha256": "e77a0bc786f95117c729d303cb5641364bb7e2650c6eafb5f22f65c09bbf29f9",
+    "includes": [
+      {
+        "bsp": "q30dm1",
+        "title": "Q20DM1"
+      }
+    ]
+  },
+  "mc-tm01": {
+    "levelId": "1918",
+    "dateStamp": "2007-02-20",
+    "zip": "mc-tm01",
+    "sha256": "7d5a2aeec588085470c1b8e30d2cf9d5923d1b0b8c7a6b0e7e599d9adcbab5a5",
+    "includes": [
+      {
+        "bsp": "mc-tm01-akuma",
+        "title": "Prospect"
+      },
+      {
+        "bsp": "mc-tm01-amph",
+        "title": "Coldwar Strogg"
+      },
+      {
+        "bsp": "mc-tm01-aty3",
+        "title": "Symmetry"
+      },
+      {
+        "bsp": "mc-tm01-dk",
+        "title": "sottosuolo"
+      },
+      {
+        "bsp": "mc-tm01-kle",
+        "title": "World Of Gravediggerz"
+      },
+      {
+        "bsp": "mc-tm01-mjed",
+        "title": "too much ale last night"
+      },
+      {
+        "bsp": "mc-tm01-mtl",
+        "title": "FLAG FACTORY"
+      },
+      {
+        "bsp": "mc-tm01-myth",
+        "title": "Wish You Were Here"
+      },
+      {
+        "bsp": "mc-tm01-q3map",
+        "title": "Paper Kraft"
+      },
+      {
+        "bsp": "mc-tm01-stjart",
+        "title": "Nausia by StjartMunnen"
+      },
+      {
+        "bsp": "mc-tm01-storm",
+        "title": "Death Cage"
+      }
+    ]
+  },
+  "high_speed": {
+    "levelId": "1917",
+    "dateStamp": "2007-03-03",
+    "zip": "high_speed",
+    "sha256": "2046deca161b1bae51363bf9264ff399804ee347c102c7c56299e5e57a0c6945",
+    "includes": [
+      {
+        "bsp": "HIGH_SPEED",
+        "title": "HIGH SPEED"
+      }
+    ]
+  },
+  "dmr3dm1": {
+    "levelId": "1932",
+    "dateStamp": "2007-03-11",
+    "zip": "dmr3dm1",
+    "sha256": "ecdee1dc86baa8f6b1a64c3fea824b97813f40f6fa54e4fdcf79d9f070befeb7",
+    "includes": [
+      {
+        "bsp": "dmr3dm1",
+        "title": "Alta Vista Revenge"
+      }
+    ]
+  },
+  "xpress": {
+    "levelId": "1939",
+    "dateStamp": "2007-03-22",
+    "zip": "xpress",
+    "sha256": "b302e04a4a5d74cf259767ce907523de44a0bf4f7d4214eadf432f4117491f2f",
+    "includes": [
+      {
+        "bsp": "xpress",
+        "title": "xpress your imagination 3"
+      }
+    ]
+  },
+  "gc4dm1_nomusic": {
+    "levelId": "1922",
+    "dateStamp": "2007-03-22",
+    "zip": "gc4dm1_nomusic",
+    "sha256": "59f0e39201ba256f7902bf74196e4a594773134f44cdb70991f334a64f46f092",
+    "includes": [
+      {
+        "bsp": "gc4dm1_nomusic",
+        "title": "Projectile Vomiting"
+      }
+    ]
+  },
+  "amph-dm01": {
+    "levelId": "1919",
+    "dateStamp": "2007-04-06",
+    "zip": "amph-dm01",
+    "sha256": "34b6a6ceaa93856f1b97c32e014bea06cd9290846e54c7a66eb159af4c016240",
+    "includes": [
+      {
+        "bsp": "amph-dm01",
+        "title": "The Strange House"
+      }
+    ]
+  },
+  "jul18": {
+    "levelId": "1920",
+    "dateStamp": "2007-04-06",
+    "zip": "jul18",
+    "sha256": "6e6735fe694a28671ddc18db885807b3088a27e7e3c0c49e331ecaba6d0dcf94",
+    "includes": [
+      {
+        "bsp": "jul18",
+        "title": "JUL - 18 PARTS"
+      }
+    ]
+  },
+  "spirit3t2": {
+    "levelId": "1944",
+    "dateStamp": "2007-05-20",
+    "zip": "spirit3t2",
+    "sha256": "78cc12e353022e9f2592c45a534c28c4dc4e9784e50096b1387a68d5d20065fa",
+    "includes": [
+      {
+        "bsp": "spirit3t2",
+        "title": "spirit3t2 - better off dead"
+      }
+    ]
+  },
+  "pohan3dm3": {
+    "levelId": "1927",
+    "dateStamp": "2007-05-20",
+    "zip": "pohan3dm3",
+    "sha256": "433eaf784091db1f8bbc668a713d7335534805ff89076d51bc66206b56d1d228",
+    "includes": [
+      {
+        "bsp": "pohan3dm3",
+        "title": "Hastenpu"
+      }
+    ]
+  },
+  "amon3tourney01": {
+    "levelId": "1930",
+    "dateStamp": "2007-05-27",
+    "zip": "amon3tourney01",
+    "sha256": "4f4615357d6df8f8c3f4014e1d3017aa9fb9055f7666adbde036b7db6ed4aba5",
+    "includes": [
+      {
+        "bsp": "Amon3tourney01",
+        "title": "Old Church"
+      }
+    ]
+  },
+  "seasons": {
+    "levelId": "1937",
+    "dateStamp": "2007-05-27",
+    "zip": "seasons",
+    "sha256": "95a1010e521c050ead5c5963d86f610e9f46ef01e39cfac8838a9cf3f2f563df",
+    "includes": [
+      {
+        "bsp": "summer",
+        "title": "Sommergewitter by Wakey"
+      },
+      {
+        "bsp": "winter",
+        "title": "Winternacht by Wakey"
+      }
+    ]
+  },
+  "dmr3dm2": {
+    "levelId": "1940",
+    "dateStamp": "2007-06-29",
+    "zip": "dmr3dm2",
+    "sha256": "90c621427ac43e6018370c8641d672ec04f6f9ab8da5c9bcd4c1de35dd9926e8",
+    "includes": [
+      {
+        "bsp": "dmr3dm2",
+        "title": "Let Me Go"
+      }
+    ]
+  },
+  "pom_bots": {
+    "levelId": "1743",
+    "dateStamp": "2007-07-03",
+    "zip": "pom_bots",
+    "sha256": "8fc6d7bd2ef48e4a6f37ba3b6facf1d57801686f9775ae66120df351890308b7",
+    "includes": [
+      {
+        "bsp": "pom_bots",
+        "title": "Pyramid of the Magician"
+      }
+    ]
+  },
+  "2sweet": {
+    "levelId": "1938",
+    "dateStamp": "2007-07-16",
+    "zip": "2sweet",
+    "sha256": "33070caab2a10982f5eae561d50b81a0ac86797864b1d7e91d8369cb0d3a1ca4",
+    "includes": [
+      {
+        "bsp": "2sweet",
+        "title": "2!Sweet* Clan map by MonK"
+      }
+    ]
+  },
+  "rotary07": {
+    "levelId": "1935",
+    "dateStamp": "2007-07-16",
+    "zip": "rotary07",
+    "sha256": "3db7e1e6be74b71819062df9d1f62bfdf4965500407722c2d3a4ea0459032598",
+    "includes": [
+      {
+        "bsp": "rotary07",
+        "title": "Hypothermia"
+      }
+    ]
+  },
+  "spirit3ctfduel1": {
+    "levelId": "1949",
+    "dateStamp": "2007-07-22",
+    "zip": "spirit3ctfduel1",
+    "sha256": "7530862003f6f5ca2fd78ec96c8f49a182ad269c667f3b4a87fdc22d84eb0e28",
+    "includes": [
+      {
+        "bsp": "spirit3ctfduel1",
+        "title": "spirit3ctfduel1 - Where Fears Collide"
+      }
+    ]
+  },
+  "glassbirinth": {
+    "levelId": "1942",
+    "dateStamp": "2007-07-28",
+    "zip": "glassbirinth",
+    "sha256": "91c42292b6baee0f453c131d1714335bdc3fc51c8b654dc6d54b894c8f2bd803",
+    "includes": [
+      {
+        "bsp": "glassbirinth",
+        "title": "Glassy Blue Labirinth"
+      }
+    ]
+  },
+  "zl3tourney1": {
+    "levelId": "1943",
+    "dateStamp": "2007-08-05",
+    "zip": "zl3tourney1",
+    "sha256": "4c4b6af6f4badddadd1e5db59212eb1b01fe1b9be87463e088d03042433a2b95",
+    "includes": [
+      {
+        "bsp": "zl3tourney1",
+        "title": "HYPERSONIC BY ZEAL0R"
+      }
+    ]
+  },
+  "rota3dm2": {
+    "levelId": "1941",
+    "dateStamp": "2007-08-30",
+    "zip": "rota3dm2",
+    "sha256": "f61dc9a9970c5bf998c7a50fec2250cb3f7cfa0831c6b22bc151e8c9c040d140",
+    "includes": [
+      {
+        "bsp": "rota3dm2",
+        "title": "KARIN"
+      }
+    ]
+  },
+  "thugluv": {
+    "levelId": "1957",
+    "dateStamp": "2007-09-10",
+    "zip": "thugluv",
+    "sha256": "8ffa2491596797e28d5d88d9402c9657e3fa152d974783377d748898464d23c5",
+    "includes": [
+      {
+        "bsp": "thugluv",
+        "title": "Feel Some Thug Luv"
+      }
+    ]
+  },
+  "cricketq3dm2": {
+    "levelId": "1956",
+    "dateStamp": "2007-09-10",
+    "zip": "cricketq3dm2",
+    "sha256": "ef0fd4d5ebdf43c0da4e502e246d7f390591495782e6911d7e9ab173a14a4a33",
+    "includes": [
+      {
+        "bsp": "cricketq3dm2",
+        "title": "Fragdungeon"
+      }
+    ]
+  },
+  "rota3ctf1": {
+    "levelId": "1947",
+    "dateStamp": "2007-09-17",
+    "zip": "rota3ctf1",
+    "sha256": "88edb9264b7981e529c2a338d98283600d7d762029fa9811b686d7c33a8f2ea2",
+    "includes": [
+      {
+        "bsp": "rota3ctf1",
+        "title": "Iris"
+      }
+    ]
+  },
+  "map-q3-el3t3": {
+    "levelId": "1951",
+    "dateStamp": "2007-10-12",
+    "zip": "map-q3-el3t3",
+    "sha256": "19e1122a93daef92ab45e73a894eaa468c6f2ef6c94b03930896ead23c179ccc",
+    "includes": [
+      {
+        "bsp": "el3t3",
+        "title": "The Summoning"
+      }
+    ]
+  },
+  "q3shw20": {
+    "levelId": "1954",
+    "dateStamp": "2007-10-12",
+    "zip": "q3shw20",
+    "sha256": "d8ffc2fed5e70d7b88fb967fe513b4e41dc7b80c25bb21c2ee4faa482d1c2ef5",
+    "includes": [
+      {
+        "bsp": "q3shw20",
+        "title": "'Annihilation' by ShadoW"
+      }
+    ]
+  },
+  "dk_olt": {
+    "levelId": "1948",
+    "dateStamp": "2007-10-12",
+    "zip": "dk_olt",
+    "sha256": "a87960a48b3d4f421fa744a8c0c7e6fe3629b552fca7e0612905aef3694d52dc",
+    "includes": [
+      {
+        "bsp": "dk_olt",
+        "title": "Ripper's Play Ground"
+      }
+    ]
+  },
+  "jul20": {
+    "levelId": "1946",
+    "dateStamp": "2007-10-22",
+    "zip": "jul20",
+    "sha256": "a550c73db3a44a8cb6c7563e7f077049d5eadfd322b27421c17d33c2491379e0",
+    "includes": [
+      {
+        "bsp": "jul20",
+        "title": "JUL - EMPTY MIND"
+      }
+    ]
+  },
+  "hyperblast-q3": {
+    "levelId": "1952",
+    "dateStamp": "2007-10-22",
+    "zip": "hyperblast-q3",
+    "sha256": "90368ad2802f5a823db5b802a969e5bb44b5c95ad4d3dbf0c2a7a4a784467807",
+    "includes": [
+      {
+        "bsp": "hyperblast-q3",
+        "title": "HyperBlast for Q3"
+      }
+    ]
+  },
+  "sgdtt6": {
+    "levelId": "1961",
+    "dateStamp": "2007-10-27",
+    "zip": "sgdtt6",
+    "sha256": "80b1d85b2df3c340f2cf6b20a781d035038eda17e13efa5b9a7699917c21bc60",
+    "includes": [
+      {
+        "bsp": "sgdtt6",
+        "title": "sgdtt6"
+      }
+    ]
+  },
+  "map-q3-el3t4": {
+    "levelId": "1950",
+    "dateStamp": "2007-11-05",
+    "zip": "map-q3-el3t4",
+    "sha256": "98edb2f3af0b8c48a093f42269b166ccd017d66de169a60c463a125561f3e981",
+    "includes": [
+      {
+        "bsp": "el3t4",
+        "title": "Pillamyd by evillair"
+      }
+    ]
+  },
+  "sgdtt7": {
+    "levelId": "1962",
+    "dateStamp": "2007-11-15",
+    "zip": "sgdtt7",
+    "sha256": "faddc7d6dfae444ca56f4b3122d9307cd6fbd31f7e692c2da9958506adaa5e44",
+    "includes": [
+      {
+        "bsp": "sgdtt7",
+        "title": "sgdtt7"
+      }
+    ]
+  },
+  "lsdm17_map_lvl": {
+    "levelId": "1592",
+    "dateStamp": "2007-11-18",
+    "zip": "lsdm17_map_lvl",
+    "sha256": "e0ea14b5ea444f6ab0e2c2d82754ab14c2fe48afd4913afade1b1c3391177374",
+    "includes": [
+      {
+        "bsp": "lsdm17",
+        "title": "Octopus Revenge by LordSquart"
+      }
+    ]
+  },
+  "fora_rage_final": {
+    "levelId": "1955",
+    "dateStamp": "2007-11-24",
+    "zip": "fora_rage_final",
+    "sha256": "744ded2764cc1693f0c514721ab9dba5c8596a646fc4c1cc99637b5e9c0db684",
+    "includes": [
+      {
+        "bsp": "fora_rage",
+        "title": "The Rage"
+      },
+      {
+        "bsp": "fora_rage_q3",
+        "title": "The Rage"
+      }
+    ]
+  },
+  "revenga": {
+    "levelId": "1953",
+    "dateStamp": "2007-11-29",
+    "zip": "revenga",
+    "sha256": "8732c4af4da5dd7774036db3e23e2e16cb06b340b36c40c0d1eb772762f43a02",
+    "includes": [
+      {
+        "bsp": "revenga",
+        "title": "Revenga !"
+      }
+    ]
+  },
+  "sf3dm2.1": {
+    "levelId": "1759",
+    "dateStamp": "2007-11-30",
+    "zip": "sf3dm2.1",
+    "sha256": "0ef448279bef04bb130ad4f37adefdab15ea04a0595a58b03658cad4485ee5d6",
+    "includes": [
+      {
+        "bsp": "sf3dm2",
+        "title": "Stronghold in Space"
+      }
+    ]
+  },
+  "jul24": {
+    "levelId": "1967",
+    "dateStamp": "2007-12-11",
+    "zip": "jul24",
+    "sha256": "ddff29caafd503bf36bf0427edf14374557cae1a710db7dda92464af05594df7",
+    "includes": [
+      {
+        "bsp": "jul24",
+        "title": "JUL - HCIT"
+      }
+    ]
+  },
+  "simpsons_map": {
+    "levelId": "1958",
+    "dateStamp": "2007-12-19",
+    "zip": "simpsons_map",
+    "sha256": "31dff0a2dcac8404a2d492945e2f48c579907cc1de1352665c606ec00c2ca023",
+    "includes": [
+      {
+        "bsp": "simpsons_q3",
+        "title": "The-Simpsons-Map"
+      }
+    ]
+  },
+  "uranus_nomusic": {
+    "levelId": "1966",
+    "dateStamp": "2007-12-22",
+    "zip": "uranus_nomusic",
+    "sha256": "d2d8a530e640c793f531b2cd7e9aa63d229d8eb8efd5895756f0211f04a1b2ea",
+    "includes": [
+      {
+        "bsp": "uranus",
+        "title": "Passing Uranus by Wakey"
+      }
+    ]
+  },
+  "vpldm3": {
+    "levelId": "1960",
+    "dateStamp": "2007-12-22",
+    "zip": "vpldm3",
+    "sha256": "6946a038c3e504d760b56d222c2ed56df0e2336acbbc98eb3201761005c4653b",
+    "includes": [
+      {
+        "bsp": "vpldm3",
+        "title": "neon light"
+      }
+    ]
+  },
+  "dmr3dm3": {
+    "levelId": "1965",
+    "dateStamp": "2008-01-01",
+    "zip": "dmr3dm3",
+    "sha256": "e05b5537fe450dd3a107c16026c85910e9bb1ef5ce8413f0dece1407992c7bc3",
+    "includes": [
+      {
+        "bsp": "dmr3dm3",
+        "title": "Rail Circus"
+      }
+    ]
+  },
+  "monolith": {
+    "levelId": "1959",
+    "dateStamp": "2008-01-01",
+    "zip": "monolith",
+    "sha256": "d5ce55ee2d4f286e489ea2d7c28ac81940fca0e1309871ece69540dbb26ca851",
+    "includes": [
+      {
+        "bsp": "monolith",
+        "title": "MonoLith"
+      }
+    ]
+  }
+}

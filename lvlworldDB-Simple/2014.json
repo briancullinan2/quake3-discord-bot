@@ -1,0 +1,406 @@
+{
+  "mbt_dm2": {
+    "levelId": "2278",
+    "dateStamp": "2014-01-09",
+    "zip": "mbt_dm2",
+    "sha256": "a1a30eb5abaa71bb4c93278c5196ce65e4030047cac96fde981df999530ab841",
+    "includes": [
+      {
+        "bsp": "mbt_dm2",
+        "title": "house of the rising sun"
+      }
+    ]
+  },
+  "ct3tourney3_final": {
+    "levelId": "2287",
+    "dateStamp": "2014-01-30",
+    "zip": "ct3tourney3_final",
+    "sha256": "f36fb91d6664f7c95941b17c0bd6518b6f5d6a1980c2f8caceb587dfab55cd37",
+    "includes": [
+      {
+        "bsp": "ct3tourney3",
+        "title": "ct3tourney3"
+      }
+    ]
+  },
+  "rtctf5": {
+    "levelId": "2288",
+    "dateStamp": "2014-01-30",
+    "zip": "rtctf5",
+    "sha256": "debed7364c5552772cb9a8313474f25524f1e3dd7727fee77d86aa1f39783f6e",
+    "includes": [
+      {
+        "bsp": "rtctf5",
+        "title": "No Man's Land"
+      }
+    ]
+  },
+  "av": {
+    "levelId": "2237",
+    "dateStamp": "2014-02-01",
+    "zip": "av",
+    "sha256": "af5e383de1aa7aab63e0929e2c76ec29d0579827b05e0f72caf65b0316473b17",
+    "includes": [
+      {
+        "bsp": "av",
+        "title": "Ancient Valley"
+      }
+    ]
+  },
+  "eigelstein": {
+    "levelId": "2277",
+    "dateStamp": "2014-02-06",
+    "zip": "eigelstein",
+    "sha256": "b925553e87b27081fae6d5c4376049a06d6d60ca57de639c5a870012e996aa18",
+    "includes": [
+      {
+        "bsp": "eigelstein",
+        "title": "EIGELSTEIN PAIN"
+      }
+    ]
+  },
+  "vq3dm1ctf": {
+    "levelId": "2289",
+    "dateStamp": "2014-03-25",
+    "zip": "vq3dm1ctf",
+    "sha256": "4fbb298db36aed0782cd05ecd872505c2b2a1807d58b341f6d9cbb5e3258ad67",
+    "includes": [
+      {
+        "bsp": "vq3dm1ctf1",
+        "title": "Arena Gates 1"
+      },
+      {
+        "bsp": "vq3dm1ctf2",
+        "title": "Arena Gates 2"
+      },
+      {
+        "bsp": "vq3dm1ctf3",
+        "title": "Arena Gates 3"
+      },
+      {
+        "bsp": "vq3dm1ctf4",
+        "title": "Arena Gates 4"
+      }
+    ]
+  },
+  "tig_bz": {
+    "levelId": "2269",
+    "dateStamp": "2014-03-28",
+    "zip": "tig_bz",
+    "sha256": "a0d52178c6204de09fc6a40616841d7d5277665fe15112ced891db3b8bdfe27d",
+    "includes": [
+      {
+        "bsp": "tig_bz",
+        "title": "Battlezone by Tigger-oN"
+      }
+    ]
+  },
+  "blooddm2": {
+    "levelId": "2297",
+    "dateStamp": "2014-04-07",
+    "zip": "blooddm2",
+    "sha256": "c29310b07afec2f26070813957f0896ce6a1d2cfacab1d3fc475df030ece649b",
+    "includes": [
+      {
+        "bsp": "blooddm2",
+        "title": "blooddm2"
+      }
+    ]
+  },
+  "q3dm13t": {
+    "levelId": "2276",
+    "dateStamp": "2014-04-21",
+    "zip": "q3dm13t",
+    "sha256": "c8af13e0d84b567c12ee78c7a93c6ce6b485d1cb36c615b6f213d62702058d96",
+    "includes": [
+      {
+        "bsp": "q3dm13t",
+        "title": "Lost Space"
+      }
+    ]
+  },
+  "ump1": {
+    "levelId": "2275",
+    "dateStamp": "2014-06-10",
+    "zip": "ump1",
+    "sha256": "af4c6ab528de4be7a0f941cfd7b0f194e912a28af514a8d192de70687e8a61c3",
+    "includes": [
+      {
+        "bsp": "ump1ctf1",
+        "title": "A brush too far - by r3tina"
+      },
+      {
+        "bsp": "ump1ctf2",
+        "title": "Wizeguy Eternal"
+      },
+      {
+        "bsp": "ump1ctf3",
+        "title": "Pyramids"
+      },
+      {
+        "bsp": "ump1ctf4",
+        "title": "T I T A N S - by Johnny Law"
+      },
+      {
+        "bsp": "ump1ctf5",
+        "title": "Palindrome"
+      },
+      {
+        "bsp": "ump1ctf6",
+        "title": "Gone with the Frag"
+      },
+      {
+        "bsp": "ump1ctf7",
+        "title": "Egyptian Enigma -XceptNone-"
+      },
+      {
+        "bsp": "ump1ctf8",
+        "title": "Hydrogen"
+      },
+      {
+        "bsp": "wiz3",
+        "title": "wiz3"
+      }
+    ]
+  },
+  "ironwood": {
+    "levelId": "2282",
+    "dateStamp": "2014-07-19",
+    "zip": "ironwood",
+    "sha256": "bf228dbb9a1acecfcf466bc71b8d546e25c011ae605bb72ba496e0efa9140885",
+    "includes": [
+      {
+        "bsp": "ironwood",
+        "title": "Ironwood"
+      }
+    ]
+  },
+  "bloodrust": {
+    "levelId": "2302",
+    "dateStamp": "2014-08-04",
+    "zip": "bloodrust",
+    "sha256": "3a910a118f91f41104b108c3e1892b1a3b0abf66a4c043342bcf0e1473f7fd27",
+    "includes": [
+      {
+        "bsp": "bloodrust",
+        "title": "bloodrustin"
+      }
+    ]
+  },
+  "simple-ctf1": {
+    "levelId": "2283",
+    "dateStamp": "2014-08-06",
+    "zip": "simple-ctf1",
+    "sha256": "eb64f4c634c5f6368f50c107c0ff36ef09294c4abe3b854c616fc07258ae6583",
+    "includes": [
+      {
+        "bsp": "simple-ctf1",
+        "title": "qFaces by cat"
+      }
+    ]
+  },
+  "simple-ctf2": {
+    "levelId": "2284",
+    "dateStamp": "2014-08-06",
+    "zip": "simple-ctf2",
+    "sha256": "03d602d2012d8ef164ae18746639c2dfee00d034698a1a57f29e6e61c83c4dd6",
+    "includes": [
+      {
+        "bsp": "simple-ctf2",
+        "title": "brainless BFG party"
+      }
+    ]
+  },
+  "simple-functf1": {
+    "levelId": "2308",
+    "dateStamp": "2014-08-06",
+    "zip": "simple-functf1",
+    "sha256": "8018f3cd837dccb7c113a0ffc0c9236cb1732d13448f414ae5a2dd4719a3cd7d",
+    "includes": [
+      {
+        "bsp": "simple-functf1",
+        "title": "Monolit by Catz crew"
+      }
+    ]
+  },
+  "simple-functf2": {
+    "levelId": "2315",
+    "dateStamp": "2014-08-06",
+    "zip": "simple-functf2",
+    "sha256": "330b71a2398425d1c2e0c8af038e45b0f9d85a683d8440f0b89b2e04644623af",
+    "includes": [
+      {
+        "bsp": "simple-functf2",
+        "title": "Catch Up"
+      }
+    ]
+  },
+  "simple-dm3": {
+    "levelId": "2292",
+    "dateStamp": "2014-08-08",
+    "zip": "simple-dm3",
+    "sha256": "8e14e9443fa9681a61f1fb2ecdb01ddab9ddf3c4ca8ca64d371987b557bd7c24",
+    "includes": [
+      {
+        "bsp": "simple-dm3",
+        "title": "For CatZ... by Cat"
+      }
+    ]
+  },
+  "simple-dm4": {
+    "levelId": "2303",
+    "dateStamp": "2014-08-08",
+    "zip": "simple-dm4",
+    "sha256": "38cdbdec41a991ad146a4c58eb493a3cb09638a259e2389d9d6fc6813e3501e7",
+    "includes": [
+      {
+        "bsp": "simple-dm4",
+        "title": "No1:no one"
+      }
+    ]
+  },
+  "simple-dm5": {
+    "levelId": "2321",
+    "dateStamp": "2014-08-08",
+    "zip": "simple-dm5",
+    "sha256": "ed3fa8c3c8ae535899aa39343eb16e0cf924a05b567d1907dec4b0b56d16d900",
+    "includes": [
+      {
+        "bsp": "simple-dm5",
+        "title": "Hit the Floor"
+      }
+    ]
+  },
+  "simple-dm7": {
+    "levelId": "2327",
+    "dateStamp": "2014-08-26",
+    "zip": "simple-dm7",
+    "sha256": "bfd59793dd6012ddf4545dcfe2ab8ded7f0299286a448e6d16816d95d46ef465",
+    "includes": [
+      {
+        "bsp": "simple-dm7",
+        "title": "Ancient Hall"
+      }
+    ]
+  },
+  "map-13agony_ctf": {
+    "levelId": "2298",
+    "dateStamp": "2014-09-04",
+    "zip": "map-13agony_ctf",
+    "sha256": "b8c47b3f1956e1be40e301414f94b7070de030ff3f7580ede8adcb21b8021d66",
+    "includes": [
+      {
+        "bsp": "13agony_ctf",
+        "title": "Agony CTF (by sst13)"
+      }
+    ]
+  },
+  "bloodm1v2": {
+    "levelId": "2305",
+    "dateStamp": "2014-09-20",
+    "zip": "bloodm1v2",
+    "sha256": "d9cd26ce7e592f7001a31a43f2d1891a86cc7affaae9e6cbedb8f39317a234ad",
+    "includes": [
+      {
+        "bsp": "Bloodm1v2",
+        "title": "Cosmic CaTHedral"
+      }
+    ]
+  },
+  "perterbia": {
+    "levelId": "2312",
+    "dateStamp": "2014-10-06",
+    "zip": "perterbia",
+    "sha256": "d4010f307a1745f7e04372d6f6e8105003863d1d5ea623ea2ec6478138325c4b",
+    "includes": [
+      {
+        "bsp": "perterbia",
+        "title": "A snap Judgement"
+      }
+    ]
+  },
+  "q3sg-source-extended": {
+    "levelId": "2285",
+    "dateStamp": "2014-10-21",
+    "zip": "q3sg-source-extended",
+    "sha256": "492e2dc3f4527bdbc0aaf69b172ca23bd0c3e5245d762a0b53d6bf43b19b11d3",
+    "includes": [
+      {
+        "bsp": "q3sg-source-extended",
+        "title": "Q3A STARGATE SOURCE EXTENDED"
+      },
+      {
+        "bsp": "q3sg-source-extended_2",
+        "title": "Q3A STARGATE SOURCE EXTENDED 2"
+      }
+    ]
+  },
+  "rustgrad": {
+    "levelId": "2291",
+    "dateStamp": "2014-10-21",
+    "zip": "rustgrad",
+    "sha256": "75220a5209fc61a1be6a8e6e963439f4d3c4202e0364185ebee24aef840b6806",
+    "includes": [
+      {
+        "bsp": "rustgrad",
+        "title": "Rustgrad"
+      }
+    ]
+  },
+  "ztn2dm2": {
+    "levelId": "2317",
+    "dateStamp": "2014-10-21",
+    "zip": "ztn2dm2",
+    "sha256": "b381ecbae884c8edb9daa5db1254bc5ac7b83e9a8095f68d232876d4de309583",
+    "includes": [
+      {
+        "bsp": "ztn2dm2",
+        "title": "The Killing Machine"
+      }
+    ]
+  },
+  "ztn2dm3": {
+    "levelId": "2320",
+    "dateStamp": "2014-10-21",
+    "zip": "ztn2dm3",
+    "sha256": "f23b6fb46b7782779db4eb289bcca8b3b5d83b8518c9522143d5fcb46d0ce83f",
+    "includes": [
+      {
+        "bsp": "ztn2dm3",
+        "title": "The Rage"
+      }
+    ]
+  },
+  "q3sg1abc": {
+    "levelId": "2304",
+    "dateStamp": "2014-11-18",
+    "zip": "q3sg1abc",
+    "sha256": "78f5aeaa7910eadb1cd5d390820ce2092e871e932373f269432745c7c67db82f",
+    "includes": [
+      {
+        "bsp": "q3sg1a",
+        "title": "Q3SG1a"
+      },
+      {
+        "bsp": "q3sg1b",
+        "title": "Q3SG1b"
+      },
+      {
+        "bsp": "q3sg1c",
+        "title": "Q3SG1c"
+      }
+    ]
+  },
+  "minictfarena": {
+    "levelId": "2316",
+    "dateStamp": "2014-12-23",
+    "zip": "minictfarena",
+    "sha256": "55666e103eb9d8bc974d0b6fad443f871f00e0c5e488f739523d0ab95055ab73",
+    "includes": [
+      {
+        "bsp": "minictfarena",
+        "title": "minictfarena"
+      }
+    ]
+  }
+}

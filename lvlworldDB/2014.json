@@ -19,26 +19,6 @@
       "2-8 players"
     ]
   },
-  "rtctf5": {
-    "levelId": "2288",
-    "dateStamp": "2014-01-30",
-    "zip": "rtctf5",
-    "sha256": "debed7364c5552772cb9a8313474f25524f1e3dd7727fee77d86aa1f39783f6e",
-    "author": "tekros",
-    "extract": "One of the best things about Quake 3 is the ability to mod the game and create assets such as custom maps and models. This empowering of the creative genius inside people does not always produce amazing results. After reviewing Quake 3 maps for almost 15 y",
-    "includes": [
-      {
-        "bsp": "rtctf5",
-        "title": "No Man's Land"
-      }
-    ],
-    "gameMode": [
-      "CTF",
-      "DM",
-      "Team DM",
-      "2-6 players"
-    ]
-  },
   "ct3tourney3_final": {
     "levelId": "2287",
     "dateStamp": "2014-01-30",
@@ -57,6 +37,26 @@
       "DM",
       "Tourney",
       "2-4 players"
+    ]
+  },
+  "rtctf5": {
+    "levelId": "2288",
+    "dateStamp": "2014-01-30",
+    "zip": "rtctf5",
+    "sha256": "debed7364c5552772cb9a8313474f25524f1e3dd7727fee77d86aa1f39783f6e",
+    "author": "tekros",
+    "extract": "One of the best things about Quake 3 is the ability to mod the game and create assets such as custom maps and models. This empowering of the creative genius inside people does not always produce amazing results. After reviewing Quake 3 maps for almost 15 y",
+    "includes": [
+      {
+        "bsp": "rtctf5",
+        "title": "No Man's Land"
+      }
+    ],
+    "gameMode": [
+      "CTF",
+      "DM",
+      "Team DM",
+      "2-6 players"
     ]
   },
   "av": {
@@ -274,6 +274,24 @@
       "3-7 players"
     ]
   },
+  "simple-ctf1": {
+    "levelId": "2283",
+    "dateStamp": "2014-08-06",
+    "zip": "simple-ctf1",
+    "sha256": "eb64f4c634c5f6368f50c107c0ff36ef09294c4abe3b854c616fc07258ae6583",
+    "author": "r3x.theCat",
+    "extract": "A remake of the Unreal Tournament map, Faces. The readme states that the map was designed for CPMA or VQ3 (standard) gameplay. I plays tested in vanilla Q3. When I first spawned I noticed two massive towers on opposite ends of a floating, rocky, wasteland ",
+    "includes": [
+      {
+        "bsp": "simple-ctf1",
+        "title": "qFaces by cat"
+      }
+    ],
+    "gameMode": [
+      "CTF",
+      "2-8 players"
+    ]
+  },
   "simple-ctf2": {
     "levelId": "2284",
     "dateStamp": "2014-08-06",
@@ -330,24 +348,6 @@
       "CTF",
       "Experimental",
       "4-20 players"
-    ]
-  },
-  "simple-ctf1": {
-    "levelId": "2283",
-    "dateStamp": "2014-08-06",
-    "zip": "simple-ctf1",
-    "sha256": "eb64f4c634c5f6368f50c107c0ff36ef09294c4abe3b854c616fc07258ae6583",
-    "author": "r3x.theCat",
-    "extract": "A remake of the Unreal Tournament map, Faces. The readme states that the map was designed for CPMA or VQ3 (standard) gameplay. I plays tested in vanilla Q3. When I first spawned I noticed two massive towers on opposite ends of a floating, rocky, wasteland ",
-    "includes": [
-      {
-        "bsp": "simple-ctf1",
-        "title": "qFaces by cat"
-      }
-    ],
-    "gameMode": [
-      "CTF",
-      "2-8 players"
     ]
   },
   "simple-dm3": {
@@ -485,6 +485,28 @@
       "4-8 players"
     ]
   },
+  "q3sg-source-extended": {
+    "levelId": "2285",
+    "dateStamp": "2014-10-21",
+    "zip": "q3sg-source-extended",
+    "sha256": "492e2dc3f4527bdbc0aaf69b172ca23bd0c3e5245d762a0b53d6bf43b19b11d3",
+    "author": "Camel-XP",
+    "extract": "This is a developers pack and example release. Included is an example map file and all that is needed to see how to replicate the Stargate teleporters from the TV series Stargate. You can also see working examples in Camelot Castle / Sahra Catacombs by",
+    "includes": [
+      {
+        "bsp": "q3sg-source-extended",
+        "title": "Q3A STARGATE SOURCE EXTENDED"
+      },
+      {
+        "bsp": "q3sg-source-extended_2",
+        "title": "Q3A STARGATE SOURCE EXTENDED 2"
+      }
+    ],
+    "gameMode": [
+      "Experimental",
+      "Not applicable"
+    ]
+  },
   "rustgrad": {
     "levelId": "2291",
     "dateStamp": "2014-10-21",
@@ -522,28 +544,6 @@
       "DM",
       "Tourney",
       "2-4 players"
-    ]
-  },
-  "q3sg-source-extended": {
-    "levelId": "2285",
-    "dateStamp": "2014-10-21",
-    "zip": "q3sg-source-extended",
-    "sha256": "492e2dc3f4527bdbc0aaf69b172ca23bd0c3e5245d762a0b53d6bf43b19b11d3",
-    "author": "Camel-XP",
-    "extract": "This is a developers pack and example release. Included is an example map file and all that is needed to see how to replicate the Stargate teleporters from the TV series Stargate. You can also see working examples in Camelot Castle / Sahra Catacombs by",
-    "includes": [
-      {
-        "bsp": "q3sg-source-extended",
-        "title": "Q3A STARGATE SOURCE EXTENDED"
-      },
-      {
-        "bsp": "q3sg-source-extended_2",
-        "title": "Q3A STARGATE SOURCE EXTENDED 2"
-      }
-    ],
-    "gameMode": [
-      "Experimental",
-      "Not applicable"
     ]
   },
   "ztn2dm3": {

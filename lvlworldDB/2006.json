@@ -1,23 +1,4 @@
 {
-  "processor": {
-    "levelId": "1873",
-    "dateStamp": "2006-01-05",
-    "zip": "processor",
-    "sha256": "377cf3a6371932038fc0b15c49e6121d6b14657896b52ea0a457b7aed0825495",
-    "author": "Pasquake",
-    "extract": "This map is disorienting. Not that I don't like being disoriented - this is a cool, unpredictable map! Take away the idea of graphics for eye-candy, insert instead a see-through grid, allowing you to see the shape and contents of rooms, halls and levitatin",
-    "includes": [
-      {
-        "bsp": "Processor",
-        "title": "Strogg_Movements_Processor"
-      }
-    ],
-    "gameMode": [
-      "DM",
-      "Experimental",
-      "3-6 players"
-    ]
-  },
   "derazorarena": {
     "levelId": "1856",
     "dateStamp": "2006-01-05",
@@ -35,6 +16,25 @@
       "DM",
       "Tourney",
       "2-4 players"
+    ]
+  },
+  "processor": {
+    "levelId": "1873",
+    "dateStamp": "2006-01-05",
+    "zip": "processor",
+    "sha256": "377cf3a6371932038fc0b15c49e6121d6b14657896b52ea0a457b7aed0825495",
+    "author": "Pasquake",
+    "extract": "This map is disorienting. Not that I don't like being disoriented - this is a cool, unpredictable map! Take away the idea of graphics for eye-candy, insert instead a see-through grid, allowing you to see the shape and contents of rooms, halls and levitatin",
+    "includes": [
+      {
+        "bsp": "Processor",
+        "title": "Strogg_Movements_Processor"
+      }
+    ],
+    "gameMode": [
+      "DM",
+      "Experimental",
+      "3-6 players"
     ]
   },
   "moonstone": {
@@ -96,26 +96,6 @@
       "2-4 players"
     ]
   },
-  "q3pong2": {
-    "levelId": "1886",
-    "dateStamp": "2006-02-23",
-    "zip": "q3pong2",
-    "sha256": "f9f35b2c933a80288879d20c2e835b88c382eb8be10b9f28d597516db303b301",
-    "author": "cjk2",
-    "extract": "The author says this is a remake of an old \"pong\" style map, which I remember. The difference is that this map is a spacemap.  The layout is a long, rectangular trench.  At the center, or \"net\", is a bridge.  At each end is a wall of bounce pads.  The conc",
-    "includes": [
-      {
-        "bsp": "q3pong2",
-        "title": "q3pong2"
-      }
-    ],
-    "gameMode": [
-      "DM",
-      "Experimental",
-      "Tourney",
-      "2-5 players"
-    ]
-  },
   "aim_map": {
     "levelId": "1857",
     "dateStamp": "2006-02-23",
@@ -136,23 +116,24 @@
       "2-4 players"
     ]
   },
-  "stonemaze": {
-    "levelId": "1860",
-    "dateStamp": "2006-03-03",
-    "zip": "stonemaze",
-    "sha256": "89366a111cbc3d91baa0ce7d10da0ce00ec5348d83a9cf69bed88622cededa86",
-    "author": "Pan-(G)",
-    "extract": "We take a visit into the land of Lego and perplexing mazes. It is nice to see a map with a break away from the standard fight. As you adventure around the map, you start out wondering what things are, but as you get closer to the objects it all becomes cle",
+  "q3pong2": {
+    "levelId": "1886",
+    "dateStamp": "2006-02-23",
+    "zip": "q3pong2",
+    "sha256": "f9f35b2c933a80288879d20c2e835b88c382eb8be10b9f28d597516db303b301",
+    "author": "cjk2",
+    "extract": "The author says this is a remake of an old \"pong\" style map, which I remember. The difference is that this map is a spacemap.  The layout is a long, rectangular trench.  At the center, or \"net\", is a bridge.  At each end is a wall of bounce pads.  The conc",
     "includes": [
       {
-        "bsp": "stonemaze",
-        "title": "Stonemaze"
+        "bsp": "q3pong2",
+        "title": "q3pong2"
       }
     ],
     "gameMode": [
-      "DeFRaG",
+      "DM",
       "Experimental",
-      "Single Player"
+      "Tourney",
+      "2-5 players"
     ]
   },
   "zzz": {
@@ -160,7 +141,7 @@
     "dateStamp": "2006-03-03",
     "zip": "zzz",
     "sha256": "a05088ae20524211d58b97b02ec56090581d7c8dc1d233b7a726a22f7fc19082",
-    "author": "coca cola girl",
+    "author": "Scorn",
     "extract": "I am sorry that this map was released before some beta testing. It could be very good but in the current state it is almost unplayable.  Nevertheless it is worth checking out. An original styled map with good use of coloured lighting to give off a futurist",
     "includes": [
       {
@@ -192,22 +173,23 @@
       "8-20 players"
     ]
   },
-  "heatctf": {
-    "levelId": "1887",
-    "dateStamp": "2006-03-20",
-    "zip": "heatctf",
-    "sha256": "924c6ac059be93b8e01c27dcfc198de7df5c09a367052b014e0250bdef2e1a1a",
-    "author": "Mj",
-    "extract": "For his second outing into mapping the author has decided to make an extended version of his first map Canned Heat.  The author has added a new middle section which holds the much coveted quad powerup. The lower teleporters have been replaced by archways i",
+  "stonemaze": {
+    "levelId": "1860",
+    "dateStamp": "2006-03-03",
+    "zip": "stonemaze",
+    "sha256": "89366a111cbc3d91baa0ce7d10da0ce00ec5348d83a9cf69bed88622cededa86",
+    "author": "Pan-(G)",
+    "extract": "We take a visit into the land of Lego and perplexing mazes. It is nice to see a map with a break away from the standard fight. As you adventure around the map, you start out wondering what things are, but as you get closer to the objects it all becomes cle",
     "includes": [
       {
-        "bsp": "heatctf",
-        "title": "Canned heat 2"
+        "bsp": "stonemaze",
+        "title": "Stonemaze"
       }
     ],
     "gameMode": [
-      "CTF",
-      "4-8 players"
+      "DeFRaG",
+      "Experimental",
+      "Single Player"
     ]
   },
   "tymo3dm5": {
@@ -230,44 +212,22 @@
       "2-6 players"
     ]
   },
-  "q3megamix": {
-    "levelId": "1880",
-    "dateStamp": "2006-04-02",
-    "zip": "q3megamix",
-    "sha256": "2eae51de9c256c6f4e25bb537a9c2f7775dd99e727e238fe6b3b2a09f299ab08",
-    "author": "DIXOFT<ReMiX<",
-    "extract": "Schizophrenic remix by DIXOFT is sort of a remake, which combines many small parts of the in-game maps put together to become a huge map.  It's not a remake specifically, because it looks like the author cut out a piece of q3dm1, q3dm2, q3dm7, q3dm15, and ",
+  "heatctf": {
+    "levelId": "1887",
+    "dateStamp": "2006-03-20",
+    "zip": "heatctf",
+    "sha256": "924c6ac059be93b8e01c27dcfc198de7df5c09a367052b014e0250bdef2e1a1a",
+    "author": "Mj",
+    "extract": "For his second outing into mapping the author has decided to make an extended version of his first map Canned Heat.  The author has added a new middle section which holds the much coveted quad powerup. The lower teleporters have been replaced by archways i",
     "includes": [
       {
-        "bsp": "q3megamix",
-        "title": "Schizophrenic ReMiX"
+        "bsp": "heatctf",
+        "title": "Canned heat 2"
       }
     ],
     "gameMode": [
-      "DM",
-      "Team DM",
-      "Tourney",
-      "2-6 players"
-    ]
-  },
-  "dk_ib": {
-    "levelId": "1879",
-    "dateStamp": "2006-04-02",
-    "zip": "dk_ib",
-    "sha256": "e10fdff71a96d43df63a444418849910717fbca0a7bba1c0b91ef9b15c50640c",
-    "author": "dONKEY",
-    "extract": "Another stunning map by dONKEY.  One of 2 maps he intended for the Geocomp4, which explains the use of only 10 textures.  The medium sized map has an ancient theme, but not egyptian.  Basically an outdoor, multi-le",
-    "includes": [
-      {
-        "bsp": "dk_ib",
-        "title": "Icon Basilica"
-      }
-    ],
-    "gameMode": [
-      "DM",
-      "OpenArena",
-      "Tourney",
-      "2-6 players"
+      "CTF",
+      "4-8 players"
     ]
   },
   "17instamix": {
@@ -349,6 +309,46 @@
       "Instagib",
       "Tourney",
       "2-4 players"
+    ]
+  },
+  "dk_ib": {
+    "levelId": "1879",
+    "dateStamp": "2006-04-02",
+    "zip": "dk_ib",
+    "sha256": "e10fdff71a96d43df63a444418849910717fbca0a7bba1c0b91ef9b15c50640c",
+    "author": "dONKEY",
+    "extract": "Another stunning map by dONKEY.  One of 2 maps he intended for the Geocomp4, which explains the use of only 10 textures.  The medium sized map has an ancient theme, but not egyptian.  Basically an outdoor, multi-le",
+    "includes": [
+      {
+        "bsp": "dk_ib",
+        "title": "Icon Basilica"
+      }
+    ],
+    "gameMode": [
+      "DM",
+      "OpenArena",
+      "Tourney",
+      "2-6 players"
+    ]
+  },
+  "q3megamix": {
+    "levelId": "1880",
+    "dateStamp": "2006-04-02",
+    "zip": "q3megamix",
+    "sha256": "2eae51de9c256c6f4e25bb537a9c2f7775dd99e727e238fe6b3b2a09f299ab08",
+    "author": "DIXOFT<ReMiX<",
+    "extract": "Schizophrenic remix by DIXOFT is sort of a remake, which combines many small parts of the in-game maps put together to become a huge map.  It's not a remake specifically, because it looks like the author cut out a piece of q3dm1, q3dm2, q3dm7, q3dm15, and ",
+    "includes": [
+      {
+        "bsp": "q3megamix",
+        "title": "Schizophrenic ReMiX"
+      }
+    ],
+    "gameMode": [
+      "DM",
+      "Team DM",
+      "Tourney",
+      "2-6 players"
     ]
   },
   "nook3dm2pro_final": {
@@ -446,6 +446,24 @@
       "3-6 players"
     ]
   },
+  "mtl-ctf3": {
+    "levelId": "1907",
+    "dateStamp": "2006-06-23",
+    "zip": "mtl-ctf3",
+    "sha256": "f44b8284e6c0139b4be798d67a5680d54b77cbbb855a2a631cc7a0ab12fb85db",
+    "author": "MaTeL1S",
+    "extract": "A mid size CTF in classic Q3 Gothic textures. Lighting and texturing is very nice throughout with the exception of the red base, where the dark walls and bright floor creates a high contrast. The layout has three main runs between the flags, with few optio",
+    "includes": [
+      {
+        "bsp": "mtl-ctf3",
+        "title": "THE PLACE OF STUPID"
+      }
+    ],
+    "gameMode": [
+      "CTF",
+      "6-10 players"
+    ]
+  },
   "mvdm15": {
     "levelId": "1883",
     "dateStamp": "2006-06-23",
@@ -485,61 +503,25 @@
       "2-3 players"
     ]
   },
-  "mtl-ctf3": {
-    "levelId": "1907",
+  "pukka3tourney5": {
+    "levelId": "1884",
     "dateStamp": "2006-06-23",
-    "zip": "mtl-ctf3",
-    "sha256": "f44b8284e6c0139b4be798d67a5680d54b77cbbb855a2a631cc7a0ab12fb85db",
-    "author": "MaTeL1S",
-    "extract": "A mid size CTF in classic Q3 Gothic textures. Lighting and texturing is very nice throughout with the exception of the red base, where the dark walls and bright floor creates a high contrast. The layout has three main runs between the flags, with few optio",
+    "zip": "pukka3tourney5",
+    "sha256": "fa1e7a939a874f967bbb90ae28ea32be32af9e0b654607957b4793326ec1aa17",
+    "author": "thefury",
+    "extract": "suboptimal by thefury aka sumatra, is a Duel map that was made for CPMA gameplay.  The layout is a remake of a map that was made by sst13, but",
     "includes": [
       {
-        "bsp": "mtl-ctf3",
-        "title": "THE PLACE OF STUPID"
+        "bsp": "pukka3tourney5",
+        "title": "suboptimal [by thefury]"
       }
     ],
     "gameMode": [
-      "CTF",
-      "6-10 players"
-    ]
-  },
-  "q3map-moses_dm7": {
-    "levelId": "1895",
-    "dateStamp": "2006-06-23",
-    "zip": "q3map-moses_dm7",
-    "sha256": "cf182c3e301e36da9eff1333de3638a00a88bc61027f89c0e7a7a894f14c614c",
-    "author": "Moses",
-    "extract": "Abandoned Reality by [FSF]Moses is a base styled map, which has pipes that run through it's hallways carrying green acid.  When I say hallways I mean hallways. Lot's of them.  When I first played the map I felt very lost, and now I've played it quite a bit",
-    "includes": [
-      {
-        "bsp": "moses_dm7",
-        "title": "Abandoned Reality"
-      }
-    ],
-    "gameMode": [
+      "CPM",
       "DM",
-      "Team DM",
-      "4-10 players"
-    ]
-  },
-  "q3map-moses_dm6": {
-    "levelId": "1881",
-    "dateStamp": "2006-06-23",
-    "zip": "q3map-moses_dm6",
-    "sha256": "7d4b740efceea1fb23600ce1dd8f420acd1596c3cb4f8b7f004cd22af0ad6950",
-    "author": "[FSF]Moses",
-    "extract": "Critical Decision by [FSF]Moses, is a medium-sized base styled map that has all of the weapons bar the BFG.  It has a series of rooms, connected by hallways, and each room that you enter has a different feel and look.  Some of it kind of gives of a feeling",
-    "includes": [
-      {
-        "bsp": "moses_dm6",
-        "title": "Critical Decision"
-      }
-    ],
-    "gameMode": [
-      "DM",
-      "Team DM",
+      "OpenArena",
       "Tourney",
-      "2-6 players"
+      "2-4 players"
     ]
   },
   "q3map-moses_dm10": {
@@ -561,25 +543,43 @@
       "4-10 players"
     ]
   },
-  "pukka3tourney5": {
-    "levelId": "1884",
+  "q3map-moses_dm6": {
+    "levelId": "1881",
     "dateStamp": "2006-06-23",
-    "zip": "pukka3tourney5",
-    "sha256": "fa1e7a939a874f967bbb90ae28ea32be32af9e0b654607957b4793326ec1aa17",
-    "author": "thefury",
-    "extract": "suboptimal by thefury aka sumatra, is a Duel map that was made for CPMA gameplay.  The layout is a remake of a map that was made by sst13, but",
+    "zip": "q3map-moses_dm6",
+    "sha256": "7d4b740efceea1fb23600ce1dd8f420acd1596c3cb4f8b7f004cd22af0ad6950",
+    "author": "Moses",
+    "extract": "Critical Decision by Moses, is a medium-sized base styled map that has all of the weapons bar the BFG.  It has a series of rooms, connected by hallways, and each room that you enter has a different feel and look.  Some of it kind of gives of a feeling of a",
     "includes": [
       {
-        "bsp": "pukka3tourney5",
-        "title": "suboptimal [by thefury]"
+        "bsp": "moses_dm6",
+        "title": "Critical Decision"
       }
     ],
     "gameMode": [
-      "CPM",
       "DM",
-      "OpenArena",
+      "Team DM",
       "Tourney",
-      "2-4 players"
+      "2-6 players"
+    ]
+  },
+  "q3map-moses_dm7": {
+    "levelId": "1895",
+    "dateStamp": "2006-06-23",
+    "zip": "q3map-moses_dm7",
+    "sha256": "cf182c3e301e36da9eff1333de3638a00a88bc61027f89c0e7a7a894f14c614c",
+    "author": "Moses",
+    "extract": "Abandoned Reality by [FSF]Moses is a base styled map, which has pipes that run through it's hallways carrying green acid.  When I say hallways I mean hallways. Lot's of them.  When I first played the map I felt very lost, and now I've played it quite a bit",
+    "includes": [
+      {
+        "bsp": "moses_dm7",
+        "title": "Abandoned Reality"
+      }
+    ],
+    "gameMode": [
+      "DM",
+      "Team DM",
+      "4-10 players"
     ]
   },
   "sgdtt3": {
@@ -785,25 +785,6 @@
       "2-6 players"
     ]
   },
-  "gc4_ra": {
-    "levelId": "1901",
-    "dateStamp": "2006-10-24",
-    "zip": "gc4_ra",
-    "sha256": "135ead10c86b9954a409680802a51e5ea305b1dd5c7948989b316ad9f30d2555",
-    "author": "remnent",
-    "extract": "Bit of a strange mix this one. Inspired by the Geocomp2 winner, Minima by Bengal, yet nothing really like it. The level theme is that of an evil scientist lab with a large missile in the middle. The gameplay can be a lot of fun but not much else. This is p",
-    "includes": [
-      {
-        "bsp": "rocketarena",
-        "title": "Rocket Arena by remnent"
-      }
-    ],
-    "gameMode": [
-      "DM",
-      "Tourney",
-      "2-4 players"
-    ]
-  },
   "q3chaosdm2-ho": {
     "levelId": "1910",
     "dateStamp": "2006-10-24",
@@ -821,6 +802,25 @@
       "DM",
       "Team DM",
       "5-8 players"
+    ]
+  },
+  "gc4_ra": {
+    "levelId": "1901",
+    "dateStamp": "2006-10-24",
+    "zip": "gc4_ra",
+    "sha256": "135ead10c86b9954a409680802a51e5ea305b1dd5c7948989b316ad9f30d2555",
+    "author": "remnent",
+    "extract": "Bit of a strange mix this one. Inspired by the Geocomp2 winner, Minima by Bengal, yet nothing really like it. The level theme is that of an evil scientist lab with a large missile in the middle. The gameplay can be a lot of fun but not much else. This is p",
+    "includes": [
+      {
+        "bsp": "rocketarena",
+        "title": "Rocket Arena by remnent"
+      }
+    ],
+    "gameMode": [
+      "DM",
+      "Tourney",
+      "2-4 players"
     ]
   },
   "rota3dm1": {
@@ -885,8 +885,8 @@
     "dateStamp": "2006-12-15",
     "zip": "mjdm2",
     "sha256": "cea6edc69c8b41747de6aafa5c6278c4ecc5101b5cfbb6bea3e1fe3cb4d06c59",
-    "author": "Master Jed",
-    "extract": "The first official Quake 3 release from Master Jed is a cel-shaded treat. A bright orange and white color scheme with simple, yet striking architecture reminds me of a similar style cel-shaded map: unbalanced. The subtle details augment the map style: red ",
+    "author": "D-Meat",
+    "extract": "The first official Quake 3 release from D-Meat is a cel-shaded treat. A bright orange and white color scheme with simple, yet striking architecture reminds me of a similar style cel-shaded map: unbalanced. The subtle details augment the map style: red wind",
     "includes": [
       {
         "bsp": "mjdm2",

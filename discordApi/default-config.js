@@ -1,7 +1,7 @@
 var fs = require('fs')
 var path = require('path')
 
-var DEFAULT_GUILD = process.env.DEFAULT_GUILD || '393252386426191873'
+var DEFAULT_GUILD = process.env.DEFAULT_GUILD || '319817668117135362'
 var DEFAULT_CHANNEL = process.env.DEFAULT_CHANNEL || '393252386426191875' // 366715821654933515
 var DEFAULT_APPLICATION = process.env.DEFAULT_APPLICATION || '723583889779589221'
 var DEFAULT_API = process.env.DEFAULT_API || 'https://discord.com/api/v9/'

@@ -1,23 +1,4 @@
 {
-  "spwn3dm3": {
-    "levelId": "2368",
-    "dateStamp": "2018-03-17",
-    "zip": "spwn3dm3",
-    "sha256": "5a08393544d2b4dcbca593edea04bae9e9be6338869ae4182f7819d1406b50d6",
-    "author": "nanoSpawn",
-    "extract": "Beautiful textures in what appears to be an underground base. Cool lighting suits the earthly atmosphere. The structure is well put together although weapon placement could have been better. Bots play as you would expect them to. A smooth framerate tops it",
-    "includes": [
-      {
-        "bsp": "spwn3dm3",
-        "title": "Frozen Abyss - 1v1 AllStars S.E."
-      }
-    ],
-    "gameMode": [
-      "DM",
-      "Tourney",
-      "2-6 players"
-    ]
-  },
   "shkiper3dm1": {
     "levelId": "2367",
     "dateStamp": "2018-03-17",
@@ -37,6 +18,25 @@
       "DM",
       "Tourney",
       "2-4 players"
+    ]
+  },
+  "spwn3dm3": {
+    "levelId": "2368",
+    "dateStamp": "2018-03-17",
+    "zip": "spwn3dm3",
+    "sha256": "5a08393544d2b4dcbca593edea04bae9e9be6338869ae4182f7819d1406b50d6",
+    "author": "nanoSpawn",
+    "extract": "Beautiful textures in what appears to be an underground base. Cool lighting suits the earthly atmosphere. The structure is well put together although weapon placement could have been better. Bots play as you would expect them to. A smooth framerate tops it",
+    "includes": [
+      {
+        "bsp": "spwn3dm3",
+        "title": "Frozen Abyss - 1v1 AllStars S.E."
+      }
+    ],
+    "gameMode": [
+      "DM",
+      "Tourney",
+      "2-6 players"
     ]
   },
   "obs3dm7": {
@@ -253,26 +253,6 @@
       "Single Player"
     ]
   },
-  "egyziana": {
-    "levelId": "2374",
-    "dateStamp": "2018-10-28",
-    "zip": "egyziana",
-    "sha256": "bc7639bf2105b2786c1947eae948ab6e7c3c2944b0aa60a864addcc5a1e01f64",
-    "author": "JonnYReds",
-    "extract": "JonnYReds is undoubtedly crafty in the kind of themes he goes for, this time taking place in a large temple at ancient Egypt. The overall architecture and map layout put an emphasis on verticality and abstract rooms to go alongside the map's aesthetics, in",
-    "includes": [
-      {
-        "bsp": "jr_q3dm1",
-        "title": "egyziana"
-      }
-    ],
-    "gameMode": [
-      "DM",
-      "Team DM",
-      "Tourney",
-      "2-6 players"
-    ]
-  },
   "demonhouse": {
     "levelId": "2384",
     "dateStamp": "2018-10-28",
@@ -284,6 +264,26 @@
       {
         "bsp": "demonhouse",
         "title": "demon house by jonnyreds"
+      }
+    ],
+    "gameMode": [
+      "DM",
+      "Team DM",
+      "Tourney",
+      "2-6 players"
+    ]
+  },
+  "egyziana": {
+    "levelId": "2374",
+    "dateStamp": "2018-10-28",
+    "zip": "egyziana",
+    "sha256": "bc7639bf2105b2786c1947eae948ab6e7c3c2944b0aa60a864addcc5a1e01f64",
+    "author": "JonnYReds",
+    "extract": "JonnYReds is undoubtedly crafty in the kind of themes he goes for, this time taking place in a large temple at ancient Egypt. The overall architecture and map layout put an emphasis on verticality and abstract rooms to go alongside the map's aesthetics, in",
+    "includes": [
+      {
+        "bsp": "jr_q3dm1",
+        "title": "egyziana"
       }
     ],
     "gameMode": [
